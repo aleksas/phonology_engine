@@ -44,7 +44,7 @@ print(res)
 ```
 Would result in 
 ```
-TRIISDEŠIMT VÍENAS KAČIUUKAS PEERBĖGO KELIĄ.
+TRISDEŠIMT VIENAS KAČIUKAS PERBĖGO KELIĄ.
 ```
 
 ## Process
