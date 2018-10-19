@@ -102,58 +102,102 @@ class PhonologyEngineOutput:
 
         return pe_native.phonology_engine_output_get_word_stress_options(self.handle, index)
 
-    def get_word_with_numeric_stress(self, word_index, stress_option_index=None, include_syllables=True):
-        if not stress_option_index:
-            stress_option_index = self.get_word_stress_options(word_index)['selected_index']
-        
+    def get_word_with_stress_and_syllables(self, word_index, stress_map, stress_option_index=None, only_multiple=False):
         stress_options = self.get_word_stress_options(word_index)['options']
-        stress_option = None
-        if len(stress_options) > 0:
-            stress_option = stress_options[stress_option_index]
+        if stress_option_index:
+            stress_options = [stress_options[stress_option_index]]        
 
-        syllables = self.get_word_syllables(word_index)
-        word = self.get_word(word_index, include_syllables=False)
         res = []
+        
+        word = self.get_word(word_index, include_syllables=False)
+        syllable_indeces = self.get_word_syllables(word_index)
+
+        if not syllable_indeces:
+            syllable_indeces = [0]
+        syllable_indeces.append(len(word))
+        stress_count = 0
 
         for i in range(len(word)):
-            val = word[i]
-            if stress_option and i == stress_option[0]:
-                val += str(stress_option[1])
+            letter = word[i]
+            stresses = set([])
+            for oi in range(len(stress_options)):
+                stress_option = stress_options[oi]
 
-            if include_syllables and syllables:
-                for j in syllables:
-                    if j == 0:
-                        continue
-                    if j == i:
-                        val = '-' + val
-                
-            res.append(val)
+                if stress_option and i == stress_option[0]:
+                    stresses.add(stress_map[stress_option[1]])
 
+            stress_count += len(stresses)
+            res.append(letter + ''.join(stresses))
         
-        return ''.join(res)
+        if only_multiple and stress_count <= 1:
+            res = word
+
+        syllables = []
+        for i,j in zip(syllable_indeces[:-1], syllable_indeces[1:]):
+            syllables.append(''.join(res[i:j]))
+        
+        return syllables
+
+    def get_word_with_stress(self, word_index, stress_map, stress_option_index=None, include_syllables=True):
+        if not stress_option_index:
+            stress_option_index = self.get_word_stress_options(word_index)['selected_index']
+
+        res = self.get_word_with_stress_and_syllables(word_index, stress_map, stress_option_index)
+
+        glue = '-' if include_syllables else ''
+
+        return glue.join(res)
+
+    def get_word_with_all_numeric_stresses(self, word_index, include_syllables=True):
+        stress_map = {
+            0: '0',
+            1: '1',
+            2: '2'
+        }
+        
+        res = self.get_word_with_stress_and_syllables(word_index, stress_map, None)
+
+        glue = '-' if include_syllables else ''
+
+        return glue.join(res)
+
+    def get_word_with_only_multiple_numeric_stresses(self, word_index, include_syllables=True):
+        stress_map = {
+            0: '0',
+            1: '1',
+            2: '2'
+        }
+        
+        res = self.get_word_with_stress_and_syllables(word_index, stress_map, None, True)
+
+        glue = '-' if include_syllables else ''
+
+        return glue.join(res)
+    
+    def get_word_with_numeric_stress(self, word_index, stress_option_index=None, include_syllables=True):
+        stress_map = {
+            0: '0',
+            1: '1',
+            2: '2'
+            }
+
+        return self.get_word_with_stress(word_index, stress_map, stress_option_index, include_syllables)
 
     def get_word_with_utf8_stress(self, word_index, stress_option_index=None, include_syllables=True):
-        cm = {
-            '0': u'\u0300', # grave
-            '1': u'\u0301', # acute
-            '2': u'\u0303'  # tilde
+        stress_map = {
+            0: u'\u0300', # grave
+            1: u'\u0301', # acute
+            2: u'\u0303'  # tilde
             }
 
-        word = self.get_word_with_numeric_stress(word_index, stress_option_index, include_syllables)
-        for k,v in cm.items():
-            word = word.replace(k, v)
-        
-        return word
-        
+        return self.get_word_with_stress(word_index, stress_map, stress_option_index, include_syllables)
+
     def get_word_with_ascii_stress(self, word_index, stress_option_index=None, include_syllables=True):
-        cm = {
-            '0': "`", # grave
-            '1': "^", # acute - no printable acute accent in ascii table only in extended ASCII:239
-            '2': "~"  # tilde
+        stress_map = {
+            0: "`", # grave
+            1: "^", # acute - no printable acute accent in ascii table only in extended ASCII:239
+            2: "~"  # tilde
             }
 
-        word = self.get_word_with_numeric_stress(word_index, stress_option_index, include_syllables)
-        for k,v in cm.items():
-            word = word.replace(k, v)
-        
-        return word
+        return self.get_word_with_stress(word_index, stress_map, stress_option_index, include_syllables)
+

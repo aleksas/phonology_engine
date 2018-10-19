@@ -3,9 +3,9 @@ from os.path import join, dirname, abspath
 from .pe_output import PhonologyEngineOutput, PhonologyEngineNormalizedPhrases
 from .pe_native import phonology_engine_process_phrase, phonology_engine_normalize_text
 
-_phrase_separators = '.?!;:\r\n'
+_phrase_separators = '.?!;:\r\n,'
 _max_prase_length = 200
-_valid_word_formats = ['word', 'number_stressed_word', 'utf8_stressed_word', 'ascii_stressed_word']
+_valid_word_formats = ['word', 'word_with_syllables', 'word_with_all_numeric_stresses', 'word_with_only_multiple_numeric_stresses', 'number_stressed_word', 'utf8_stressed_word', 'ascii_stressed_word']
 
 class PhonologyEngine:
     def __init__(self):
@@ -44,10 +44,13 @@ class PhonologyEngine:
                 with PhonologyEngineOutput(handle) as output:
                     res = [
                             {
-                            'word': output.get_word(i, include_syllables=include_syllables),
+                            'word': output.get_word(i, include_syllables=False),
+                            'word_with_syllables': output.get_word(i, include_syllables=True),
                             'number_stressed_word': output.get_word_with_numeric_stress(i, include_syllables=include_syllables),
                             'utf8_stressed_word': output.get_word_with_utf8_stress(i, include_syllables=include_syllables),
                             'ascii_stressed_word': output.get_word_with_ascii_stress(i, include_syllables=include_syllables),
+                            'word_with_all_numeric_stresses' :output.get_word_with_all_numeric_stresses(i, include_syllables=include_syllables),
+                            'word_with_only_multiple_numeric_stresses' :output.get_word_with_only_multiple_numeric_stresses(i, include_syllables=include_syllables),
                             'syllables': output.get_word_syllables(i),
                             'stress_options': output.get_word_stress_options(i)
                             }
