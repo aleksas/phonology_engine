@@ -104,7 +104,7 @@ class PhonologyEngineOutput:
 
     def get_word_with_stress_and_syllables(self, word_index, stress_map, stress_option_index=None, only_multiple=False):
         stress_options = self.get_word_stress_options(word_index)['options']
-        if stress_option_index:
+        if stress_option_index != None:
             stress_options = [stress_options[stress_option_index]]        
 
         res = []

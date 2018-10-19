@@ -209,7 +209,9 @@ def phonology_engine_output_get_word_stress_options(handle, word_index):
     _check( _PhonologyEngineOutputGetWordStressOptionCount(handle, c_int(word_index), byref(count)) ) 
     _check( _PhonologyEngineOutputGetWordStressOptionSelected(handle, c_int(word_index), byref(selected_index)) ) 
 
-    count, selected_index = count.value, selected_index.value
+    count = count.value
+
+    selected_index = selected_index.value if count > 0 else None
 
     options = {'selected_index': selected_index, 'options': [], 'decoded_options': []}
 
