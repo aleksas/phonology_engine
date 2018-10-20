@@ -71,6 +71,9 @@ class PhonologyEngine:
             
             return (separators[0], processed_phrases)
 
+    def get_collapse_formats(self):
+        return _valid_word_formats
+
     def process(self, s, include_syllables=False):
         return self._process(s.upper(), normalize=True, include_syllables=include_syllables, normalize_only=False)
 

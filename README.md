@@ -53,7 +53,7 @@ Determining word stresses.
 ```
 from phonology_engine import PhonologyEngine
 pe = PhonologyEngine()
-res = pe.process_and_collapse('31 kačiukas perbėgo kelią.')
+res = pe.process_and_collapse('31 kačiukas perbėgo kelią.', 'utf8_stressed_word')
 print(res)
 ```
 Would result in 
