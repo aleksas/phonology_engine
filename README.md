@@ -137,3 +137,6 @@ Would result in
    ['TRISDEŠIMT VIENAS KAČIUKAS PERBĖGO KELIĄ']),
   ''])
 ```
+
+# References
+- [Kirčiavimas internetu](http://kirtis.info) - Online dictionarry with word stresses and grammar annotation, has a [GitHub repo](https://github.com/Sistemium/krc-angular). It is likely based on [VDU dictionary](https://github.com/aleksas/phonology_engine/tree/resources/VDU). 
