@@ -1,0 +1,1922 @@
+Antanas Pakerys, Aldonas Pupkis
+LIETUVIų KALBOS
+BENDRINė TARTIS
+KOMPAKTINėS PLOKšTELėS TEKSTAI
+Vilnius 2004UDK 808.82-4(075)
+Pa97
+Kompaktinės plokštelės ir tekstų rengimą bei leidybą parėmė Valstybinė lietuvių
+kalbos komisija pagal Lietuvos Respublikos valstybinės kalbos vartojimo ir
+ugdymo n~996-2005 metų programą
+Recenzavo doc. dr. Danguolė MIKULėNIENė
+ISBN 9955-5n~2-53-9
+© Antanas Pakerys, 2004
+© Aldonas Pupkis, 2004
+© Gimtasis žodis, 2004TURINYS
+Pratarmė ......................................................................................................... 5
+I. Balsiai .................................................................................................. 7
+n~.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+n~0.
+Ilgasis balsis a` ..................................................................................... 7
+Trumpasis balsis a ............................................................................... 8
+Ilgasis balsis ç .................................................................................... n~n~
+Trumpasis balsis e ............................................................................. n~2
+Ilgasis balsis û .................................................................................... n~6
+Trumpasis balsis u ............................................................................. n~7
+Ilgasis balsis î ..................................................................................... n~9
+Trumpasis balsis i .............................................................................. 20
+Balsis o .............................................................................................. 23
+Balsis ė ............................................................................................... 26
+II. Dvigarsiai ........................................................................................... 29
+n~. Dvibalsis uo ....................................................................................... 29
+2. Dvibalsis ie ........................................................................................ 32
+3. Dvigarsiai, prasidedantys balsiais a, e: dvibalsiai au, ai, ei
+ir mišrieji dvigarsiai al, am, an, ar, el, em, en, er .............................. 35
+4. Dvigarsiai, prasidedantys balsiais u, i: dvibalsis ui
+ir mišrieji dvigarsiai ul, um, un, ur, il, im, in, ir .................................. 36
+III. Priebalsiai .......................................................................................... 39
+n~.
+2.
+3.
+4.
+Skardieji ir duslieji priebalsiai .......................................................... 39
+Kietieji ir minkštieji priebalsiai ........................................................ 42
+Priebalsių supanašėjimas (asimiliacija) ........................................... 45
+Priebalsis j ......................................................................................... 49
+IV. Kirtis ir priegaidė .............................................................................. 5n~
+n~. Kirtis .................................................................................................. 5n~
+2. Priegaidė ............................................................................................ 53
+Tekstai tarties kursui kartoti ........................................................................ 57
+Sutrumpinimai ............................................................................................. 7n~
+4
+PRATARMė
+Taisyklingos tarties lavinimas - vienas svarbiųjų šnekamo~sios
+bendrinės kalbos ugdymo uždavinių. Bendrinės lietuvių kalbos fonetinė sandara gerokai skiriasi nuo lietuvių tarmių, didžiųjų Lietuvos miestų šnekamo~sios kalbos. Pastarąją ypač dažnai veikia svetimos (rusų, le^nkų ir kt.) kalbos. Net ir per televiziją, radiją girdime
+įvairuojančią tartį: vieni` šneka beve^ik gry^na tarme`, kiti - pusia^u
+tarmiškai, treti - su ryškiu` kitų kalbų akcentu`, dar kiti - miestišku
+stiliumi (miestų sociolektu`). Palyginti reto^kai ska§ba pavyzdinė bendrinė kalba`. Jos yra` išmokę geriausi televizijos ir radijo laidų vedėjai, diktoriai, mokytojai, žurnalistai, dramos teatrų aktoriai.
+Moksleiviai, studentai, pedagògai, žurnalistai, aktoriai - visi,
+kurie rûpinasi savo kalba`, norėtų turėti pavyzdinių garso įrašų, jų
+klausytis, iš jų mokytis taisyklingos tarties.
+n~968 m. buvo išleistos septynios Lietuvių kalbos bendrinės tarties plokštelės. Tekstu`s skaitė aktoriai Juozas Jaruševičius ir Nijolė
+Lepeškaitė. Prie plokštelių pridėtos dvi knygutės: Pakerys A., Pupkis A.
+Lietuvių kalbos bendrinė tarties: Plokštelių tekstai. - Kaunas: šviesa, n~968; Pakerys A., Pupkis A. Lietuvių kalbos bendrinė tartis:
+Metodinės pastabos. - Kaunas: šviesa, n~968. Plokštelių komple`ktas buvo skirtas bendrojo lavinimo mokykloms. Jis tiko ir Lietuvos
+aukštosioms mokykloms, kur bendrinės lietuvių kalbos fonetika dėstoma lituanistams, žurnalistams ir kitiems studentams. Lietuvių
+kalbos bendrinės tarties plokštelėmis ir tekstais sėkmingai buvo
+naudojamasi mokant lietuvių kalbos ir užsienio šalyse: JAV (Ilinojaus), Latvijos, Vokietijos (Greifsvaldo) ir kt. universitetuose. Latvijoje n~97n~ m. buvo pe^rspausdinti plokštelių tekstai (Pai`eris A.,
+Pupkis A. Lietuviešu valodas litera`ra` izruna. - Rîga`, n~97n~). Plastikinių plokštelių įrašai neretai bûdavo pe^rsirašomi magnetofonu`.
+Per kelis dešimtmečius daug kas pasikeitė: plastikinės plokšte lės susidėvėjo, ñsteigta daug naujų mokyklų (jos visa^i nėra` gavusios
+plokštelių), retai kur besinaudojama elektrofonais ir kt. Todėl iškilo
+reikalas paren~gti naują Lietuvių kalbos bendrinės tarties įrašų varia^ntą - šį kartą kompaktinėje plokštelėje. Iš anksčiau aptartų~ plastikinių plokštelių atrinkti` tinkamiausi pavienių žodžių, sakinių, tekstų
+įrašai ir pe^rkelti į kompaktinę plokštelę. Pe^rrašant praleisti` pasenę
+tekstai, sutrumpintos pauzės, nebekartojami žodžiai, sakiniai. Vartotojas gali klausytis viso įrašo arba jo fragmentų. įrašą galima stabdyti po kiekvieno žodžio, sakinio ar kitoje` pastra^ipos vietoje ir kartoti pa~skui diktorių. Kai dirbama klasėje ar auditorijoje, klausytojams pravartu` prieš akis turėti spa^usdintus plokštelės tekstu`s. Kirčiuotas tekstas matomas ir monitoriuje.
+Kompaktinę plokštelę spaudai ren~gė (montavo įrašus, šalino
+triukšmu`s, tvarkė programinę įrangą ir kt.) Vytautas Vasilia^uskas ir
+jo sûnu`s Vytautas Vasilia^uskas.
+Kompaktinė plokštelė skiriama` bendrojo lavinimo ir aukštosioms
+mokykloms, individualiam ir grupiniam darbui. Taisyklingos tarties
+galės mokytis ir kiti asmenys, ypač žurnalistai, aktoriai, pedagògai,
+te^isininkai - visi, kurie privalo taisyklingai kalbėti viešumoje`.
+Be abejo, taisyklingos tarties įrašų klausymasis, jų kartojimas -
+tai tik viena` kalbos la~vinamoji priemonė. šį metòdą reikia derinti
+su kitais darbais: nagrinėti tarties taisykle`s, klausytis savo kalbos
+įrašų, nuo~lat stebėti savo ir kitų tartį.
+6
+I. BALSIAI
+n~. Ilgasis balsis a`
+a. Kirčiuotame skiemenyje. Rašte žymimas raide a arba nosine ą:
+a~kys, a~data, a~šara, çžuolas
+sa~ko, ra~šo, rą~stas, pa~saka, kçsnis
+ką~s, nešą~s, tą~, ką~, katrą~
+n~. La~šas po la~šo ir a~kmenį prata~šo. (flk.) 2. Ra~mios, malo~nios
+va~saros na~ktys; me~džio užmi`gęs ne`juda la~pas. (Mair.) 3. Be va~lios
+nėra` ga~lios. (flk.) 4. Nespa^udęs nora~go, nekçsi pyra~go. (flk.)
+b. Nekirčiuotame skiemenyje. Rašte žymimas tik nosine raide ą.
+Tariamas kaip ir kirčiuotame skiemenyje. Palyginkime:
+ą~sos - ąsa`
+çžuolas - ąžuolai~
+žą~sys - žąsi`s
+kçsnis - kąsne~lis
+sçžinė - sąžini`ngas
+katrą~ - an~trą
+ą~są, ra~są, ba~lą, ga~lą, trą~šą
+ąso~tis, ąžuoly^nas
+šąlu`, šąli`, drąsu`s, rąžy^tis, saulė^grąža, sąnary~s
+vai~ką, ran~ką
+n~. Va~sarą su kailiniai~s, žie~mą be kailinių~. (flk. - žirnis.) 2. Be
+kir~vio be kirve~lio, be grą~žto be grąžte~lio, be me~džio be mede~lio
+pasta~to ti`ltą. (flk. - šaltis.) 3. Sakalai~ brole~liai - kur~ j3⁄4s? Gi`rios
+ąžuololiai - kur~ j3⁄4s? (S. Nėr.) 4. Prie šalti`nio staiga` me~s pama~tėm
+7
+merga^itę, ir ji ran~koje ne~šėsi pi`lną ąso~tį. (A. Vencl.) 5. Kry~kštė
+žąsele` susikabi`nę vaikai~. (P. Cvir.) 6. Paban~dė ei~ti la~pė: į vîeną šo^ną
+úodegą vi`kst, į ki`tą vi`kst ir~ nugarmė^jo į gi`lią duo~bę. (P. Cvir.)
+7. Paskesnio^sioms drąsuo~lių minio^ms vi`s lengviau~ bu`vo li`pti. (J. Bil.)
+2. Trumpasis balsis a
+Rašte šis balsis visada žymimas raide a.
+a. Nekirčiuotame skiemenyje:
+aki`s, akmuo~, abu`
+drasky^ti, grasi`nti, parašy^ti
+ren~ka, sto^ras, ne~šamas
+l. Paprati`mas - an~tras prigimi`mas. (flk.) 2. Ga~nomąsias vieta`s
+paprastai~ gany~klomis vadi`name. (J. Jabl.)
+b. Kirčiuotame skiemenyje. Tariamas kaip ir nekirčiuotame.
+Palyginkime:
+kasu` - ka`siu
+atne`šti - a`tneša
+tapšno^ti - ta`pštelti
+mani`škis - ma`no
+júoda - juoda`
+rasa`, pasaga`, parama`, pa`kasa
+Trumpasis a vartojamas:
+n~) dviskiemenėse bendratyse ir iš jų padarytose formose:
+ka`sti: ka`sdavau, ka`siu, ka`sčiau, ka`sk, ka`sdamas
+ra`sti: ra`sdavai, ra`si, ra`stum, ra`skite, ra`sdamas
+paka`kti: paka`kdavo, paka`ks, paka`ktų
+Išimtį sudaro formos:
+ka~stas, ra~stas, la~ktas
+8
+2) veiksmažodžių priešdėliuose:
+a`psuka, a`pneša, a`pveža, a`ptaria, a`pgula
+a`tsuka, a`tneša, a`tveža, a`tkelia, a`tgula
+pa`suka, pa`neša, pa`veža, pa`kelia, pa`guli
+pra`suka, pra`neša, pra`veža, pra`kelia, pra`guli
+3) ištiktukuose ir tos pačios šaknies veiksmažodžiuose:
+ba`kst: ba`kstelėti, ba`kstelėja, ba`kstelės
+kla`pt: kla`ptelti, kla`ptelia, kla`pteltų n~
+stra`kt: stra`ktelėti, stra`ktelėk, stra`ktelėdamas
+4) įvardžiuose:
+ma`no, ta`vo, sa`vo
+5) galûnėje -a`sis:
+gera`sis, maža`sis, juoda`sis, sena`sis
+pirma`sis, antra`sis, dešimta`sis, šimta`sis
+mana`sis, tava`sis
+gerbiama`sis, laukiama`sis, šaukiama`sis, klausiama`sis
+laukta`sis, išrinkta`sis, bûta`sis
+bûsima`sis
+6) paskutiniame žodžio skiemenyje:
+mama`, Aldona`, paskaita`, pamoka`
+daina`s, lanka`s, citrina`s, raketa`s
+gera`, balta`, šilta`s, sena`s
+pirma`, antra`
+kažka`s, bema`ž
+Bendrinėje kalboje paprastai vartojami veiksmažodžiai su ilgesne priesaga:
+kla`ptelėti, kla`ptelėja, kla`ptelėtų.
+n~
+9
+7) vienaskiemeniuose žodžiuose:
+ta`, va`, a`š, ta`s, ka`s, ta`t, ma`t, tas pa`t
+l. šalta` rasa`, o a`š basa`, nušal~s koje~lės. (flk.) 2. Saule~lė,
+neapkęsdama` tokio~s vė^jo drąso~s, me^rkėsi ir kniau~sėsi, glausdama`
+arčiau~ sa`vo spin~dulius. (žem.) 3. Ji pra`riekė ke~palą dúonos, pa`davė
+po ga~balą vaika^ms. (rš.) 4. že~mę ka`si - a^uksą ra`si. (flk.) 5. a`tlėkė
+geny~s, atsi`tûpė į e~glės viršū^nę, su`pasi ir dainúoja. (P. Cvir.) 6. Kai
+pra`dedam skaity^ti, tada` mame~lė ir mergi`kės - visi` klau~sos. (žem.)
+7. Vėlai~ susipra`si, nie~ko nebera`si. (flk.) 8. Prie Ne~muno ma`no
+pasa^ulis, prie Ne~muno ma`no šali`s. (P. širv.) 9. Jauna`sis rą~žėsi ir
+žio^vavo, bet netru`ko suti`kti. (žem.) n~0. Palieku` geru`s meteliu`s,
+kad ra`sčiau da^r geresniu`s. (flk.)
+c. Palyginkime ilgąjį a` su trumpuoju a kirčiuotame skiemenyje:
+a~ktas - a`kti
+a~pkalbos - a`pkalba
+rą~stų - ra`stų
+kçsti - ka`sti
+pra~monė - pra`neša
+gerçsias - gera`sis
+aną~ - ana`
+tą~ - ta`
+d. Palyginkime ilgąjį a` su trumpuoju a nekirčiuotame skiemenyje:
+ąžuolai~ - ašutai~
+rąstu`s - rastu`s
+šąlu` - šalau~
+rąžy^tis - rašy^tis
+mąsty^ti - maste~lis
+dúoną - dúona
+lo^vą - lo^va
+la~šą - la~ša
+apy^skaitą - apy^skaita
+n~
+0
+Ar~tinosi žiemo~s ato^stogos. Aš vis labiau~ ilgė^jausi namų~.
+Mąsčiau~, kaip grñšiu namo~, kaip vol pamaty^siu totį, kuri`s a^iškiai
+didžiúojasi mani§, - kad a`š mo^kausi ir galbū^t gyve~nime pasîeksiu
+daugiau~ už jñ. Vol pamaty^siu švel~nų, ge~rą, pavar~gusį mo^tinos ve^idą.
+O kîek kalbų~, nepabaigiamų~, įdomia^usių kalbų~ bus su bro^liais ir
+seserimi`s! Per vi`są die~ną me~s tų kalbų~ jo^kiu bûdu` neiškalbė^sime -
+paka`ks viso^ms žiemo~s ato^stogoms!
+Antanas Venclova
+Bet kur~gi tie lėktu`vai? Kau~kia, ro^dos, pirštu` prikišamai~, bet
+sa^ulė tai~p spi`gina, kad žvalgau~s žvalgau~s - nematy^ti.
+Ir staiga` - try~s. Išni`ro iš už mi`ško ir, vo~s neužkliûdami` už
+me~džių, pra`ûžė pro pa`t ma`no ga^lvą. Ant sparnų~ bu`vo ne žvai~gždės,
+o juodi`, bau~gûs kry~žiai...
+Sugrñžęs iš mieste~lio, dodė papa~sakojo, kad vo^kiečių lėktu`vai
+bombarda~vo sto~tį ir geleži`nkelio ti`ltą ir pata^ikė į nau~jąją Daukin~čio
+tro^bą. Pa`ts Daukin~tis su sa`vo Anciuku` buvo atojęs ant ge~gnių vaini`ko
+iške^lti, vakare` norė^jo kaimy^nus sukvie~tęs pavaiši`nti 2  , o čia` tie vanagai~ - ir trobe~lę, ir juo~s abu`...
+Kazys Saja
+3. Ilgasis balsis ç
+a. Kirčiuotame skiemenyje. Rašte žymimas raide e arba nosine ę:
+e~glė, e~žeras, e~pušė, e~sam
+pe~lės, te~ka, t3sti, šv3sti, spr2sti, br2sti
+man3s, tav3s, išk3s, t3s, me~s
+n~. Neme`sk ke~lio dėl take~lio. (flk) 2. žu`vinto e~žeras sk3sta
+melsvame` rûke`. (J. Sok.) 3. Apsia~šaroję 3 me~džiai sun~kiai galvo^jo,
+nė vieno~s šake~lės nepaju`dindami. (J. Bil.) 4. Pi`ktos bi`tės sa^ldų
+me~dų ne~ša. (flk.) 5. Atsi`menu, jis bu`vo to^ks se~nas, kad ma^n a^ugant
+senesnių~ ir nete~ko maty^ti. (P. Cvir.)
+2 Bendrinėje kalboje leidžiama kirčiuoti dvejopai: pava^išinti ir pavaiši`nti.
+3 Kirčiuojama dvejopai: apsiašaro^ję ir apsia~šaroję.
+n~n~Turinys
+b. Nekirčiuotame skiemenyje. žymimas tik nosine raide ę.
+Tariamas kaip ir kirčiuotame skiemenyje. Palyginkime:
+sk3sta - skęstu`
+sur3sti - suręsti`
+šv3sti - švęsdami`
+gr3žia - gręžiny~s
+t3sia - tęsiny~s
+pe~lę, ke~kę, se~sę, ve~dę, te~kę
+tęsiu`, tęsiau~, užgęstu`, atsigręžiu`, lęšiu`kas, tręšdami`,
+atsi`gręžiau
+ojęs, bė^gęs, ei~davęs, pa~sakodavęs, golę, la~pę, u`pę, pa~tarlę
+n~. Iša^lkęs ir suša~lęs va^lgau kaip šie~ną pjo^vęs. (J. Bil.) 2. Vieni`
+skubiai~ toly~n tra^ukęsi, kiti` grū^dęsi prie namų~. (rš.) 3. Ru`denį gi`męs,
+žie~mą miego^jęs, va~sarą a^ugęs ir gyve^nt nusto^jęs. (flk. - rugys.)
+4. Marša^lka atsi`gręžė ir paži`no sa`vo ka^imo moteri`škę, pasitu`pdžiusią kašu`tėje 4  gai~dį. (P. Cvir.) 5. žmo^nės, jo~s atoję, dažnia^usiai bū^davo nera~mûs, susirū^pinę. (P. Cvir.) 6. Rytuose` prîešais sa^ulę spokso^jo
+mė^nuo saula~brolis 5  , išbly~škęs, tary^tum nusigan~dęs. (žem.)
+4. Trumpasis balsis e
+Rašte šis balsis visada žymimas raide e.
+a. Nekirčiuotame skiemenyje:
+esu`, ežy~s, eketo, ešery~s
+keliu`, metu`, dreskiu`, tekė^ti
+sa^ule, ka^ime, vai~ke!
+n~. Kas nedi`rba, mîelas vai~ke, ta^m ir dúonos dúot nerei~kia. (flk.)
+2. Tai~gi einu` sa^u tuo vie~škeliu vîenas: nei važiúotų, nei pėsčių~ - nie~ko
+daugiau~ nebematy^ti. (J. Bil.) 3. Gai~sras negesi`namas išsi`plečia. (flk.)
+4 Bendrinėje kalboje vartojamas žodis pinti`nė.
+5 Leidžiama kirčiuoti dvejopai: sa^ulabrolis ir saula~brolis.
+n~
+2
+b. Kirčiuotame skiemenyje. Tariamas kaip ir nekirčiuotame.
+Palyginkime:
+lesu` - le`sti
+nesukau~ - ne`suka
+mažesni` - maže`snis
+trepsiu` - tre`psime
+sa^ulėje - gėlėje`
+ka^rves - žole`s
+pele`s, geresne`s, ne`nešame, ne`tepame
+Trumpasis e vartojamas:
+n~) dviskiemenėse bendratyse ir iš jų padarytose formose:
+me`sti: me`sdavau, me`siu, me`sčiau, me`sk, me`sdamas
+ve`sti: ve`sdavai, ve`si, ve`stum, ve`skit, ve`sdamas
+atne`šti: atne`šdavo, atne`š, atne`štų
+Išimtį sudaro formos:
+me~stas, ve~stas, ne~štas
+2) veiksmažodžių priešdėliuose:
+ne`suka, ne`neša, ne`veža, ne`taria, ne`gula
+nebe`suka, nebe`neša, nebe`veža, nebe`taria, nebe`gula
+te`suka, te`neša, te`veža, te`taria, te`gula
+tebe`suka, tebe`neša, tebe`veža, tebe`taria, tebe`gula
+be`sukant, be`nešant, be`vežant, be`tariant, be`gulant
+3) ištiktukuose ir tos pačios šaknies veiksmažodžiuose:
+kre`pšt: kre`pštelėti, kre`pštelėju, kre`pštelės
+tre`pt: tre`psi, tre`psime, tre`psite
+n~
+3
+4) priesagoje -e`snis, -e`snė:
+maže`snis, balte`snis, gere`snė, šaune`snė
+mažėle`snis, baltėle`snis, gerėle`snė, šaunėle`snė
+pirme`snis, pirme`snė
+5) paskutiniame žodžio skiemenyje:
+pele`s, šake`s, gėle`s, jaunuole`s
+medine`s, auksine`s, didesne`s, gerėlesne`s
+mane`, tave`, save`
+žolėje`, laukuose`, gražioje`
+6) vienaskiemeniuose žodžiuose:
+ne`š, ve`s, me`s
+ne`s, be`t, ne`t, te`
+Išimtį sudaro įvardis me~s, tariamas su ilguoju ç.
+Tarptautinių žodžių balsis e visada yra trumpas ir tariamas
+panašiai kaip lietuviškų žodžių trumpasis e:
+e`stas, ge`stas, Me`ksika, Bre`stas, ne`gras
+n~. Už tie~sų tiese`snis, už ku§pą kumpe`snis, už ge~ležį tvirte`snis,
+už paga^lvį minkšte`snis. (flk. - kumštis.) 2. Sunku` šie~ną ve`žti, bet
+len~gva žie~mą pe`šti. (flk.) 3. Tru`putį 6 pi`kta, kad ma`no geria^usias
+drau~gas ši`taip mane` teįve^rtina. (rš.) 4. Iš dire`ktoriaus kabine`to
+la^ngo skli`do balta` ele`ktros šviesa`. (rš.) 5. Iš mie~go dúonos neke`psi.
+(flk.) 6. Ka`s tur~guj ne`giria sa`vo ja^učio? (flk.)
+c. Palyginkime ilgąjį ç su trumpuoju e kirčiuotame skiemenyje:
+me~s - me`s
+šv3s - ve`s
+6
+Bendrinėje kalboje leidžiama kirčiuoti dvejopai: trupu`tį ir tru`putį.
+n~
+4
+ne~šė - ne`šti
+me~ta - me`stų
+tr3šti - tre`šti
+d. Palyginkime balsius ç ir e nekirčiuotame skiemenyje:
+tęsiu` - tesiu`
+tręšiu`- trešku`
+gręžiu` - geliu`
+sa^ulę - sa^ule
+golę - gole!
+pa~tarlę - pa~tarle
+núomonę - núomone
+Bū^k svei~kas!
+Grei~t le~do grandine`s sutru`pins
+Smarkau~s pava~sario sriautai~ 7 .
+Vėl subanguo~s upe~liai, u`pės,
+Ir sužaliuo~s aukšti` krantai~.
+Gyve~nimui ir la^isvei gi`męs,
+Mûs že~mės da^igas bu`s našu`s.
+Bū^k svei~kas, Lietuvo~s jauni`me!
+Pava~sariui tu panašu`s 8 .
+Salomėja Nėris
+Tai bu`vo nedi`delė balta` katy^tė. Jos men~kas suliesė^jęs kûne~lis
+vi`sas drebė^jo nuo šal~čio ir ba^imės; jos plaukai~, lietau~s sušla~pinti ir
+purvai~s apskre~tę, visi` kabė^jo susti`rę ir pasišia^ušę. Radau~ aš ją~ lauke`,
+patvory~ prit3⁄4pusią, susirie~tusią, nelaimi`ngą. Mane` pama~čiusi, ji tai~p
+gailesti`ngu balsu` su`miaukė ir pažiûrė^jo akimi`s, kuriose` švie~tė ir
+7 Bendrinei kalbai teiktinesnė forma srau~tai.
+8 Bendrinėje kalboje taisyklingai sakoma: į pavasarį tu panašus.
+n~
+5
+ba^imė, ir vilti`s. Ji bu`vo da^r visa^i visa^i jaunu`tė, bet tokia` sudžiū^vusi!
+Ga^l ją a`tėmė nuo jos mo^tinos žmo^nės; ga^l jie pirma` norė^jo ją įdė^ti
+maišiu`kan ir, nune~šę į u`pę, įme`sti vandenin~, bet paskui~ a`tnešė
+laukan~, pa`metė patvorin~, kad ji` nebera`stų namų~ ir nudvostų badu`:
+žmonėse` jau nebebu`vo ja^i vie~tos; ga^l jau nebe pi`rmą die~ną ji čia`
+iša^lkusi ir suša~lusi tu`pi...
+Jonas Biliûnas
+5. Ilgasis balsis û
+Rašte žymimas raide û arba nosine ų.
+a. Kirčiuotame skiemenyje:
+3⁄4gis, 3⁄4žia, ū^kauti, ū^žauti
+ži3⁄4ri, sių~sti, krū^mas, dū^rė
+skų~s, tų~, jų~, vaikų~, papročių~
+l. Iš tų~ šiaudų~ nebu`s grûdų~. (flk.) 2. Darbų~ iki langų~. (flk.)
+3. Gry~bai sugle~bę supū^sta, kiti` sudžiū^sta ir sudžiū^vę ilgai~ sty~pso.
+(J. Jabl.)
+b. Nekirčiuotame skiemenyje. Tariamas kaip ir kirčiuotame.
+Palyginkime:
+3⁄4žė - ûži`mas
+kū^rė - kûry^ba
+sū^ris - sûre~lis
+sū^nui - sûnu`s
+r3⁄4tą - rûta`
+ži3⁄4ri - žiûri`
+b3⁄4das - po^bûdis
+b3⁄4vis - po^bûvis
+d3⁄4dų, 3⁄4sų, p3⁄4stų, dū^mų, skn~⁄4stų, kûlių~, pûgų~
+ûmai~, ûkai~, ûso~rius
+dûda`, kûre^nti, rûšiúoti, siųstu`vas, Jokûbo^nis, prîežiûra
+sun~kûs, sa^ldûs, atka~klûs, ei~tų
+n~
+6
+n~. Ba^ltas name~lis be dure~lių, be lange~lių. (flk. - kiaušinis.)
+2. Ar matei~ kada gražių~ peteli`škių, raudo^nų, gelto^nų ir baltų~?
+(J. Balč.) 3. Sûnu`s atsisė^do šali`kelėj ir susi`gûžė. (V. Rimk.) 4. Jos
+bal~sas buvo vi`siškai natûralu`s, nė kîek nevirpė^jo ir nelûžinė^jo. (rš.)
+5. Bet nesuturė^jo tat naujų~ drąsuo~lių minių~ nuo aukų~ ir pasišventi`mo. (J. Bil.)
+6. Trumpasis balsis u
+Rašte šis balsis visada žymimas trumpąja u.
+a. Nekirčiuotame skiemenyje:
+ugni`s, upo^kšnis, užúovėja, Ukmergo
+žuvi`s, trukmo, sutema`, po^dukra
+sti`klius, kara~lius, po~pierius, ei~siu, pa`nešu
+n~. Vos vîeną mė^nesį iškuka~vusi, gegužo pavir~sta va~nagu. (flk.)
+2. Vėje~lis skrúostus kute~na. (J. Paukš.) 3. Ir, priojusi prie ugnia~kuro, pati` omė p3⁄4sti u`gnį, kuri bu`vo išblė^susi. (V. Rimk.)
+b. Kirčiuotame skiemenyje trumpasis u tariamas kaip ir nekirčiuotame. Palyginkime:
+ugni`s - u`gnys
+upe`s - u`pė
+buvau~ - bu`vo
+skuti` - sku`ta
+mažuma` - mažu`mas
+par~nešu - nešu`
+ly^gu - dygu`
+krutu`, suku`, lupu`, mu`du, ju`du
+u`pė, u`gdymas, u`ždarbis, u`žmokestis
+sku`sti, sku`ta, lu`pti, lu`po, pu`čia, ru`denį, šu`linį
+gražu`s, pastovu`s, malonu`s, verkiu`
+n~
+7
+l. Audrų~ ar lai~ko palaužti` šimtame~čiai milžinai~ pa~tys sava^ime
+griu`vo ir pu`vo. (A. Vien.) 2. Du` stačiu`kai, du` klaustu`kai, keturi`
+broliu`kai. (flk. - karvė.) 3. Vidu`s buvo švaru`s ir jauku`s. (rš.) 4. Su`pa, su`pa kûdikolį mo^tina ant ran~kų. (S. Nėr.) 5. Arto^jas pava^lgęs
+atsi`gulė lo^von, o bobu`lė prisė^dusi bai~gė sku`sti bu`lves. (V. Krėv.)
+6. Anksčiau~ mu`du su Simuku` ma~nėm, kad sa^ulė nusile^idžia į
+Kurbė^nų dva~ro šu`linį. (P. Cvir.) 7. Už gimti`nės klo^nius su dangu§
+giliu` vi`są že~mės a^uksą atidúot galiu`. (V. Vals.)
+c. Palyginkime ilgąjį û su trumpuoju u kirčiuotame skiemenyje:
+3⁄4gį - u`gnį
+3⁄4pas - u`pė
+bū^tas - bu`tas
+m3⁄4šis - mu`šis
+sių~sti - siu`sti
+užtrū^ko - užtru`ko
+p3⁄4sti - pu`čia
+kū^rė - ku`ria
+j3⁄4s - ju`s
+p3⁄4s - pu`s
+namų~ - namu`
+nuolaidžių~ - nuolaidžiu`
+d. Palyginkime balsius û ir u nekirčiuotame skiemenyje:
+ûži`mas - uži§ti
+dûda` - dukra`
+rûda` - ruda`
+bûriúotis - buriúoti
+ta^nkûs - ta^nkus
+a^iškûs - a^iškus
+ti`ltų - ti`ltu
+ke^ltų - ke^ltu
+n~
+8
+Kar~tais Simu`kas Vargdie~nį mė^gsta papuo~šti: nu`pina iš purîenų
+ar ru`giagėlių vaini`ką ir užkabi`na jñ ant mažų~ ragiu`kų. Vargdie~nis
+sto^vi ir ži3⁄4ri į Simu`ką geromi`s akimi`s, nesupra`sdamas, ką~ čia su
+juo~ da~ro. Vėliau~ Vargdie~nis įgu`do vaini`ką nukraty^t ir tuojau~ jñ suė^sti.
+Je^i Simu`kas kur no^rs atsigul~davo pîevoje snu`stelėti, ka^rvėms
+ri`mstant, žiûrė^k i§s jį ir prikel~s priojęs Vargdie~nis, snukučiu`
+ba`kstelėjęs į ve^idą.
+Petras Cvirka
+7. Ilgasis balsis î
+Rašte šis balsis žymimas raide y arba nosine į.
+a. Kirčiuotame skiemenyje:
+ñneša, y^la, y^pač
+ny~ksta, drñsta, grñžta, gy^vas, zy^lė
+gaidy~s, pražy~s, rašy~s, saky~s, širdy~
+n~. Be kantry^bės nėra` galy^bės. (flk.) 2. Tuo~j pažį^sta ją našla^itė -
+ei~t į pir~kią nebedrñsta - po slenksčiu` žari`jom grñsta. (S. Nėr.)
+3. Kai atojome į gamy~klą, bu`vo da^r anksty^vas ry^tas. (rš.) 4. Dy~kas
+pil~vas ne dėdîenė: jo~ neatsiprašy^si. (Vaižg.) 5. Tu buvai~ anksty^vas
+vieversy~s, kurs aušro~s pasve^ikinti paki`lo. (A. Balt.) 6. Kur sto~s du`
+try~s, vi`ską padary~s. (flk.)
+b. Ilgasis î nekirčiuotame skiemenyje. Tariamas kaip ir kirčiuotame. Palyginkime:
+y^da - ydi`ngas
+ly^gus - lygu`mas
+vy^ras - vyru`kas
+ty~lûs - tylu`mas
+gy^vas - gyva`
+ty^ras - tyra`
+sty~gos - styga`
+pagy^rė - pagyr3⁄4nas
+n~
+9
+išvy~ksta - i`švyka
+išky~la - i`škyla
+saky~s - a~kys
+gaidy~! - gai~dį
+ryšy~s, gyly~s, žy~gį, ry~klį
+yra`, įdomu`s, ypatu`mas, knyga`, slyva`
+tylė^ti, svyrúoti, lįsdami`, išdrįsdami`, vyrišku`mas, va^lgyti,
+ro^dyti
+žą~sys, grin~dys, mė^tys, ša^udys, a~kį, au~sį, pava~sarį, ru`denį
+l. Gere`snė tyla`, nekaip kokia` byla`. (flk.) 2. Ten~ yra` septyni` kalnai~, už tų septynių~ kalnų~ yra` klo^nis; tame` klo^nyje septyni` pîemenys
+vîeną a~vį ga~no. (V. Krėv.) 3. Sa^ulė į de~besį įlin~do. (rš.) 4. Jis ste^ngėsi
+ne ti`k įti`kinamai rašy^ti, bet kiek ga~lima ir taisyklingiau~ re^ikšti minti`s.
+(rš.) 5. Ger~bk sene~lį, nes ir pa`ts pase^nsi. (flk.) 6. į sniegy^nus sulin~dusioje žemi`nėje ry^mo prîeblanda ir fròntui neįprasta` tyla`. (rš.)
+7. Už gyvy^bę tu brange`snė, širdyje` kur pla~ka. (S. Nėr.)
+8. Trumpasis balsis i
+Rašte šis balsis visada žymimas trumpąja i.
+a. Nekirčiuotame skiemenyje:
+išei~siu, istòrija, išdidu`s, Irena`
+riba`, likimu`, atminimu`, pipiru`s
+a^ntis, bro^lis, dide`snis, me~tinis
+prau~sti, žadė^ti, drauga^uti, vežio^ti
+n~. Geriau~ nepradė^ti, ne ką pradė^jus nebai~gti. (flk.) 2. Dal~gis
+žo~lei - ne bro^lis. (flk.) 3. Se~nas sene~lis pasili`pęs ant sto^go py^pkę
+r3⁄4ko. (flk. - kaminas.) 4. Pava~saris mîelas vol mus aplan~kė.
+(S. Nėr.) 5. žolo pradė^jo a^ugti lapo^ti dideliai~s la~pais. (rš.)
+20
+b. Kirčiuotame skiemenyje. Tariamas kaip ir nekirčiuotame.
+Palyginkime:
+imu` - i`ma
+iriu` - i`ria
+dide`snė - di`delė
+vikru`s - vi`krų
+tikiu` - ti`ki
+ne`ši - neši`
+ba^lti - balti`
+didi`kas, pipi`ras, li`ki, mi`ki
+i`krai, i`ro, i`šnešė
+vi`sas, mi`škas, api`barė, paki`lo, jauni`mas, krepši`nis, medi`nis,
+atgri`sti
+kuri`s, aki`s, li`ks, gi`s, palieki`, užmiegi`, maloni`
+n~. Tuojau~ visi` suša~lę ir susti`rę sulin~do į vi`dų. (P. Cvir.)
+2. Lengviau~ li`pti, negu dri`bti. (flk.) 3. Ka`s miške` gi`mė, ta^m mi`škas
+kve~pia. (flk.) 4. Visa`s avi`s i`gnas miške` sura~do. (rš.) 5. Jis iški`šo
+iš po an~tklodės galvy^tę, pasi`vertė ant ki`to šo^no, į tą~ pu`sę, iš kur
+girdė^ti sene~lės bal~sas, ir pravė^rė aki`s. (V. Krėv.) 6. Nuti`lo trimi`tų
+gau~smas. (rš.) 7. Ir vol tu akyse` išsi`tiesei nušvi`tus, vienin~telė tu
+vol ma^n palikai~. (T. Tilv.)
+c. Palyginkime ilgąjį î su trumpuoju i kirčiuotame skiemenyje:
+y~ra - i`ro
+y^rė - i`ria
+gy^nė - gi`nė
+ry^siu - ri`siu
+dy~dis - di`dis
+gy~lis - gi`lûs
+paky~la - paki`lo
+nusvy~ra - nusvi`ro
+2n~Turinys
+išdrñsta - išdri`sko
+rody~klė - rodi`klis
+try~s - tri`s
+lñs - li`s
+pasiry~š - pasiri`š
+kurñ - kuri`
+d. Palyginkime balsius î ir i nekirčiuotame skiemenyje:
+įžen~gti - išžen~gti
+įsu`kti - išsu`kti
+įšo^kau - iššo^kau
+tyliu` - tikiu`
+šylu` - šilu`
+dydžiu` - didžiu`
+klau~symas - kla^usimas
+a^ntys - a^ntis
+o^belys - o^belis
+bro^lį - bro^li!
+grei~tį - ei~ti
+pir~tį - pir~kti
+Sesuo~ žydrio^ji 9 - Vi`lija
+Vilne~le, bė^k į Vi`liją,
+O Vi`lija - į Ne~muną, -
+Saky^k: tėvy~nę my^lime
+Labiau~ me~s už gyve~nimą.
+Kova`s kovo^ję - kruvini`
+Sugrñžtame, sugrñžtame.
+žaizda`s nupla^usim vandeny~,
+žaliai~s šilkai~s apri`šime.
+9
+Bendrinei kalbai teiktinesnė forma žydro^ji.
+22
+Kiekvîens akmuo~ praka^lbintas,
+Koki` n~0 me~s vy^rai, pasaky~s, -
+Kaip prîešo ša^lmus ska^ldėme,
+Mirti`s kaip me^rkė jų aki`s.
+Sesuo~ žydrio^ji - Vi`lija,
+Skubė^k, skubė^k į Ne~muną, -
+Saky^k, kad la^isvę my^lime
+Labiau~ me~s už gyve~nimą.
+Salomėja Nėris
+a^ugo čia pakelėje` seniau~ mi`škas išteki`nis n~n~  , tamsu`s kaip nakti`s,
+nusišako^jęs, nubujo^jęs n~2  . G3⁄4džiai švo~kšdavo e~glės, viršū^nėmis ty~liai
+lingúodavo puše~lės, šlamė^davo paslapti`ngai žali` plačiaša~kiai ąžuolai~. įeini`, bū^davo, gi`rion, lyg visa^i kita§ pasa^uly atsi`duri, paslapti`ngame, ne`t kū^nas pagaugai~s nuei~na: ramu` ir gûdu` lyg kažkokiuose` užburtuose` rū^muose. Me~džiai sto^vi ty~lûs, lyg dau~gel ma~tę
+sene~liai, ir nei vîenas la~pas nesu`kužda, nesu`šlama, nei viena` šake~lė
+nelingúoja. Girdi`, kaip nuo šako~s ant šake~lės paukštu`kas šokinė^ja,
+kaip pilka` voverolė lipinė^ja.
+Vincas Krėvė
+9. Balsis o
+a. Kirčiuotame skiemenyje:
+o~, o~lą, o~ną, o^da, o^ras, o^belys
+so~das, ro~žė, svo~ris, įdo~mûs, bo^kštas, dro^bė, no^ri, ro^dyti
+naujo~s, kavo~s, ieško~s, miego~s
+to~, ko~, namo~, katro~
+n~0
+Bendrinėje kalboje vartojamas įvardis kokie~.
+n~n~ Dabar bendrinėje kalboje leidžiama kirčiuoti dvejopai: i`štekinis ir išteki`nis.
+n~2 Vietoj bujo^ti bendrinėje kalboje vartotini veiksmažodžiai vešė^ti, tar~pti.
+23
+l. Visi` no^ri mokė^ti, bet ne visi` mo^kytis. (flk.) 2. Išilgai~ ko^ja,
+skersai~ ko^ja, aukšty~n ko^ja, žemy~n ko^ja ir jokių~ kampų~. (flk. -
+batas.) 3. Išjo^jo jo^jo bro^lis medžio^tų. (flk.) 4. Ant no^sies sė^di, už
+ausų~ ko^jas lai~ko. (flk. - akiniai.)
+b. Nekirčiuotame skiemenyje. Tariamas kaip ir kirčiuotame.
+Palyginkime:
+o~lą - ola`
+o~ną - Ona`
+so~das - sodu`s
+žo~dis - žodžiu`s
+ko^vas - kovai~
+nusto^ti - núostoliai
+mo^tina - pa~motė
+gero~s - ge~ros
+galvo~s - ga^lvos
+namo~ - na~mo
+katro~ - an~tro
+so~do, lo~po, jo^jo, ro^do, ko^to
+opa`, obuoly~s, obliúoti, ožiúotis
+broly^bė, dovana`, dobilai~, norė^ti, šokinė^ti, ra^nkioti, pe^rkrovė
+ran~kos, ša~kos, moky~klos
+ma~to, ra~šo, mie~sto, bra^ngiojo, ba^ltojo
+n~. Kas skai~to ra~šo, dúonos nepra~šo. (flk.) 2. Ny~kiai gi`rgžda po
+ko^jomis se~nos grindų~ len~tos. (J. Avyž.) 3. Plu`nksnos bu`vo raso^tos:
+ga^l ten~ bu`vo raso~s laše~liai, o ga^l ir kieno~ a~šaros - ka`s dabar~ ži`no!
+(J. Balč.) 4. Be pava~sario nėra` va~saros. (flk.) 5. Dai~lios laibako~jės
+sti`rnos ir bai~kščios lauki`nės o^žkos bė^go nuo žmonių~. (A. Vien.)
+6. Ant a^rklio jo^jo - a^rklio ieško^jo. (flk.) 7. Golės šo^ko a~sloj poromi`s, paskui~ su`kosi di`deliu ratu`, susikabi`nusios su vîena kita` sa`vo
+žaliai~s lape~liais. (J. Balč.) 8. Ki`škis ir la~po bi`jo. (flk.) 9. Pali`ko
+Joniu`kas trobe~lėj su sa`vo motute` ir mažúoju broliuku` vîenas. (J. Bil.)
+24
+n~0. Išde~gusios vy~šnios le^ido a~tžalas, o bòmbos išmuštoje` duobėje`
+pradė^jo dy^gti al~ksnis. (V. Rimk.)
+c. Palyginkime, kaip tariami balsiai o ir a:
+ožka` - ąsa`
+drobu`lė - drąsu`mas
+skai~to - skai~tą
+ge~ro - ge~rą
+obuoly~s - apyny~s
+kroviny~s - kratiny~s
+lu`po - lu`pa
+sku`to - sku`ta
+balčia^usio - balčia^usia
+Tarptautiniuose žodžiuose balsis o dažniausiai tariamas trumpai:
+Òslas, kòsmosas, motòras, kompòtas, kolona`, Violeta`, lotò
+n~. Automobi`lių ir autobu`sų sro~vės sku`ba Vi`lniaus ga~tvėmis. (rš.)
+2. Turti`nga Ne~muno istòrija. (rš.) 3. Minti`s ir į atòmą įsiskver~bia, ir
+į žvaigždy^nus... (A. Balt.) 4. Automobi`lis pasu`ko duobė^tu ir ne`grįstu keliuku`. (J. Dov.)
+Seniai į lietuvių kalbą atėję kitų kalbų žodžiai tariami su ilguoju o:
+milijo~nas, sekreto~rius, majo~ras, bo~sas, do^leris
+Tuo ta^rpu delčia`, jau kîek pradrñsusi, paki`lo aukščiau~ nuo horizònto ir, prisita^ikiusi prie karei~vio žin~gsnio, ro^dosi, ei~na su juo~
+kartu`... Tačiau~, nors ir labai~ ste^ngiasi pasitarna^uti že~mėje va^ikščiojantiems, ji` vis tîek nelabai~ reikali`nga, nes va~saros nakti`s netamsi`. Ir žvai~gždės, išbly~škusios, apsimiego^jusios, vi`siškai be jo^kio
+mudru`mo n~3  ir jau~sdamosi nereikali`ngos, lyg gė^dydamosi pa~čios
+sav3s, i`ma vis daugiau~ ir daugiau~ blė^sti arba` ne`t vi`siškai din~gti.
+Ieva Simonaitytė
+n~3
+Mudru`mas - žvalu`mas.
+25
+Susikalbė^jo
+šimonie~čiai di`delį vil~ką, kuris užpúola a^rklius, vadi`na žo^garas.
+Susiti`ko šimonie~tis su kupiškė^nu. šimonie~tis sa~kąs:
+- žo^garas kume~lę papjo^vė.
+- Gal vil~kas? - kla^usia kupiškė^nas.
+- Ne`, nevil~ko. Ant vie~tos papjo^vė. (flk.)
+n~0. Balsis ė
+a. Kirčiuotame skiemenyje:
+ojo, oglis, ė^sti
+lolę, golę, solinti, vė^jas, sė^di, mė^lynas, mė^nuo, dobilolis,
+ąžuololis
+mylos, žolos, tauro, aikšto, žvaigždo, patarlo
+l. Se~nas dodė kerčio~j sė^di. (flk. - krosnis.) 2. že~mė kė^lė žo~lę,
+žolo kė^lė ra~są, rasa` kė^lė pasagolę, pasagolė ži`rgą. (flk.) 3. Gė^da
+ant gė^dos nemokė^ti sa`vo tėvų~ kalbo~s. (flk.) 4. Ir pada^ngė mė^lyna
+ru`giagėles me~na, ir visa` tu kaip daina`, tėviškole ma`no! (V. Vals.)
+5. Nors žaliúoja - ne žolo, nors su 3⁄4sais - ne kato. (flk. - morka.) 6. Negali` - nežadė^k, pažadė^jęs - ištesė^k. (flk.) 7. čia reikė^jo,
+bet ne vė^jo. (flk.)
+b. Nekirčiuotame skiemenyje. Tariamas kaip ir kirčiuotame.
+Palyginkime:
+ojo - ėjau~
+odis - ėdi`mas
+lolę - lėle`s
+mė^go - po^mėgis
+klė^tis - prîeklėtis
+sė^do - núosėdos
+totė, dodė, omė, gė^lė, lėlo, gėlo, dėmo, kėdo, strėlo
+26
+ėmiau~, ėriu`kas, ėji`mas
+nėra`, sėja`, mėta`, gėly^nas, mėlyna`sis, po^sėdis, po^lėkis,
+pe^rkėlimas
+la~pės, ka~tės, sa~kė, da~rė, pe^rkėlė
+n~. žy^di golės: motos, bij3⁄4nai, ro~žės - čia`, kur gria^udėjo di`delės
+ko~vos. (V. Reim.) 2. Va^ikščiojo merge~lė po pîevą ir išbar~stė perlu`s,
+mė^nuo ma~tė, nie~kam nesa~kė, sa^ulė kė^lės ir surin~ko. (flk. - rasa.)
+3. Kė^kštas tupė^jo viršū^nėj ir sna^udė; nugą~sdintas rokdamas nu`lėkė
+į ki`tą me~dį. (V. Krėv.) 4. Prie virtu`vės seser~s Ane`lės kambarolis;
+jame` dabar~ įsikū^rusi Akvi`lė. (J. Avyž.) 5. Dodė omė le^ist iš sa`vo
+py^pkės dū^mų de~besis. (P. Mš.)
+d. Palyginkime, kaip tariami balsiai ė ir e:
+skėsdami` - skęsdami`
+ro^dė - ro^dę
+pasa~kė - pasa~kę
+ėriu`kas - ereliu`kas
+vėsu`mas - vešlu`mas
+bu`lvė - bu`lve
+sa^ulė - sa^ule
+koky^bė - koky^be
+Ir tiesa`, Kistynolės upe~lėje n~4  nėra` jo^kio vanden~s gy^vio, o visoje`
+tarpu`kalnėje nė vîeno aū^lo ir nė vieno~s kalnė^no sa~klės, i`šskiriant
+ke~letą palapi`nių piemeni`ms, kurie~ čionai~ vidu`rvasarį, kai nuo artimų~jų kalnų~ aptir~psta baugîeji snie~go gabalai~, atsiva~ro di`deles avių~
+kai~menes. Ir tokia` dykuma` tyrúoja kone` per vi`są tarpu`kalnę. Tik
+retai~ kur tarp uolų~ ir didelių~ kaip namai~ akmenų~ a^uga kreivi` me~džiai,
+gel~tonuoja n~5  aza~lijos, rododen~drai ir ve~ši trąši` žolo, kurioje` sla~pstosi baikštîeji taurai~, lauki`nės o^žkos ir kiti` žvėre~liai, o pada^ngėse ere~liai,
+kalnų~ kara~liai, savo gali`ngais sparnai~s rai~žo o^rą ir su`ka ratu`s apie
+sa`vo so^stus - nepasîekiamas kalnų~ viršū^nes.
+Antanas Vienuolis
+n~4 Bendrinei kalbai bûdingesnė forma upe~lyje.
+n~5 Dabar jau įsigalėjo priesaginis kirčiavimas - geltonúoja.
+27
+
+28
+II. DVIGARSIAI
+n~. Dvibalsis uo
+a. Kirčiuotame skiemenyje:
+uo~los, uo~slę, úodas, úoga
+guo~lis, jaunuo~lis, púodas, dúoti, važiúoti
+duo~s, dainuo~s, šuo~, ruduo~
+n~. Iš guo~lio neke`psi raguo~lio. (flk.) 2. Per lygiúosius lauku`s,
+pro žaliúosius mišku`s ran~gos, tvi`ska Neri`s, tar~tum júosta šilki`nė.
+(L. Gir.) 3. Nauja` šlúota gražiai~ šlúoja. (flk.) 4. Raudo^nosios bru`knių úogų ke~kės sla~pstėsi po tankiúosius lapeliu`s. (žem.) 5. Krau~jas -
+ne vanduo~, širdi`s - ne akmuo~. (flk.) 6. Keturi` lapatúoja, penki`
+šimtai~ že~mę šlúoja. (flk. - arklys.)
+b. Nekirčiuotame skiemenyje. Tariamas kaip ir kirčiuotame.
+Palyginkime:
+úodas - uodai~
+dúona - duone~lė
+júodas - juodu`mas
+púodas - Puodžiū^nas
+pagúoda - paguodi`mas
+puo~šia - puošiu`
+padúoda - pe^rduoda
+tuo~ - tuometi`nis
+ruduo~ - mė^nuo
+juokiúos, dúoduos, púoduose
+29
+uoslo, uoga^uti, uodega`, uolu`mas
+ruoša`, kruopštu`s, suodini`, skruosti`kaulis, šuoliu`kas,
+duobė^tas, pe^rduoti, pe^rvažiuoti
+ne`šiuos, ke^lsiuos
+l. Gegužos sa^ulė sto^vi pačiuose` pietuose` ir sa`vo spinduliai~s
+tai~p maloniai~ n~6  ši`ldo iš žiemo~s mie~go atbu`dusius prigimtie~s gai~valus. (J. Bil.) 2. Ne visi` mie~žiai akuotúoti. (flk.) 3. Vi`lius tuojau~
+parkrin~ta į lo^vą ir knar~kia. (I. Simon.) 4. ąžuololis tankuololis
+devynla~pis devynša~kis, viršuje` mėnu`lis te~ka. (flk. - žirnis.) 5. Vis
+darbuose`, vis r3⁄4pesčiuose Druktenîenė su`kasi, lygu skruzdėlo vis
+kru`ta. (žem.) 6. Pasipy^lė naujîenos, apsakinė^jimai, juoka~vimai.
+(J. Bil.) 7. Juoda` tamseny^bė u`žgulė že~mę, bet nuo snie~go tru`putį n~7  ro^dėsi balte`snė už dan~gų. (žem.) 8. Kau~no Vy^tauto ka^lno vaizdai~ - šimtai~ margų~ name~lių - taip pa`t sk3sta me~džiuose ir sa^ulės
+spinduliuose`. (A. Vencl.)
+c. Palyginkime, kaip tariamas dvibalsis uo ir balsis o kirčiuotame
+skiemenyje:
+úodą - o^dą
+uo~lą - o~lą
+lúomą - lo~mą
+kúoja - ko^ja
+rúožas - ro~žė
+kuo~pti - ko^pti
+važiúoti - vežio^ti
+nusijuo~k - nusijo^k
+kuo~ - ko~
+katruo~ - katro~
+n~6 Leidžiama kirčiuoti dvejopai: malo~niai ir maloniai~.
+n~7 Leidžiama kirčiuoti dvejopai: trupu`tį ir tru`putį.
+30
+d. Palyginkime, kaip tariamas uo ir o nekirčiuotame skiemenyje:
+uola` - ola`
+kuopi`mas - kopi`mas
+luošu`mas - loši`mas
+suodini` - sodini`
+baltuose` - baltose`
+žaliuose` - žaliose`
+prau~siuos - gau~sios
+pe^rduok - pe^ršok
+Juozu`kas svajo^davo apie mi`šką, bet ja^m ir nejauku` pasidary^davo, kai įsivaizdúodavo, kad štai~ jis jau~ miške`, pačio~j gilumo~j, aplin~kui tik me~džiai ir me~džiai. O kai pamany^davo, kad miške` ga~li
+bū^t viso^kių žvėrių~, tai šiur~pas jį paga^udavo.
+Su mažu` miškeliu` Juozu`kas jau bu`vo susipaži`nęs. Jo tėvų~ lau~ko
+gale` bu`vo alksny^nas. į tą alksny^ną vai~kas dažnai~ nuei~davo da^r ma~žas
+bū^damas pauoga^ut ir tai~p pasidairy^t. Tik visado~s ei~davo su kuo
+no^rs, ne vîenas. Vîenas bijo^davo.
+Pranas Mašiotas
+Obuoliu`kai
+Ant šito~s obel~s - matai~? -
+Obuoliu`kų try~s šimtai~.
+Raudonskruo~sčiai, dideli`,
+Nenuski`nti negali`.
+Ei~ sesy^te, ei~ broliu`k!
+šo^k į sa^ują, obuoliu`k!
+Obuoliu`kas to^ks gardu`s,
+Su`ltys var~va kaip medu`s.
+Janina Degutytė
+3n~Turinys
+2. Dvibalsis ie
+a. Kirčiuotame skiemenyje:
+ie~šmas, die~nos, îenos, îeško, pîenas, uolîena
+tie~s, petie~s, namie~, sudie~
+l. Ant Siesartie~s kran~to kra^una la^užą darbinin~kai, kurie tie~sia
+nau~ją ke~lią. (V. Rimk.) 2. Kai žy^di lîepos, vi`sas mie~stas ske^ndi
+kvapuose`. (rš.) 3. Gedimi`nas pakabi`no le^mpą ant sîenos, sė^dasi
+prie sta~lo prîešais tė^vą. (J. Avyž.) 4. Bite~lės tri3⁄4siasi po žîedus
+lîepų ir klevų~... (T. Tilv.) 5. Ry^tas buvo gražu`s, gie~dras, sa^ulė linksmai~ švie~tė, danguje` nebu`vo nie~kur nei debesolio; tik kai kada` pa`pučia vėje~lis, - ir vol tylu`. (V. Krėv.) 6. Lie~knos, da^r nesutvirtė^jusios
+obelolės buvo tîek nuki`busios vai~siais, jog sunku` buvo patikė^ti sa`vo
+pačių~ akimi`s. (J. Balt.)
+b. Nekirčiuotame skiemenyje. Tariamas kaip ir kirčiuotame.
+Palyginkime:
+ie~vos - ievo~s
+gîeda - giedo^ti
+lîeti - Lietuva`
+sie~ti - sietuva`
+die~nos - dieni`nis
+šie~nas - šienu`
+pie~tûs - po^pietė
+tie~sė - i`štiesė
+kvie~tė - pa`kvietė
+petie~s - svi`rties
+îeties, mielîeji, kietîeji, riebîeji
+ieva`, ieško^ti, lietu`s, kasdieni`nis, vienúolika
+pirma~dienis, pusia^udienis, pe^rtiesti
+rū^šies, ne`šies, ve`sies
+32
+n~. Kiekviena` diena` ki`tą mo^ko. (flk.) 2. Arti` vidu`dienis, sa^ulė
+į pietu`s slen~ka. (V. Krėv.) 3. a`triekė rieke~lę kaip kle~vo lakšte~lį n~8  .
+(flk.) 4. Kaip pava~sarį pîeva žiedų~ sklidina`, čia graži` ir gaivi`
+mûs jauny~stės diena`. (V. Reim.) 5. Ma^n pasiro^dė, kad ne vieni`
+me~s klau~some, bet ir šitie~ me~džiai, kurie nė vîenu lapu` nesu`šlama. (V. Krėv.)
+c. Palyginkime, kaip tariamas dvibalsis ie ir balsis ė kirčiuotame
+skiemenyje:
+kîelė - kė^lė
+rie~kia - rokia
+gîeda - gė^da
+grie~bia - grė^bia
+susie~ti - susė^ti
+mie~go - mė^go
+mîelo - molo
+lîeti - lotas
+avie~s - avos
+akie~s - akos
+d. Palyginkime, kaip tariami ie ir ė nekirčiuotame skiemenyje:
+lieti` - lėti`
+lietu`vis - lėtu`mas
+rieki`mas - rėki`mas
+griebi`mas - grėbi`mas
+sieji`mas - sėji`mas
+pakvieti`mas - įkvėpi`mas
+i`štiesiau - i`štėškiau
+pa`liečiau - pa`lėkiau
+n~8
+Lakšte~lis - lape~lis.
+33
+Bu`vo ka^imas - ir ka^imo nėra`.
+Jį sude~gino gy^vą -
+Su tai~s, kur turė^jo gyve^nti,
+Su tai~s, kur turė^jo mir~ti,
+Ir su tai~s, kur turė^jo gi`mti.
+Bu`vo ka^imas - ir ka^imo nėra`.
+Netiesa`!
+ši`tas ka^imas yra`.
+Jis de~ga ir šian~dien,
+Ir de`gs ligi to~l,
+Kol gyvi` bus jo~ padegė^jai.
+Justinas Marcinkevičius
+Purîena
+Pava~sario die~ną
+Pražy^do purîena,
+Pražy^do marga§ paupy~.
+- Iš kur~ tie žiede~liai
+Kaip sa^ulės laše~liai, -
+Saky^k ma^n, purîena kvapi`?
+Atsa~kė purîena:
+- Pava~sario die~ną
+Suspi`ndo saulu`tė šviesi`.
+Ir ta~po žiede~liai
+Kaip sa^ulės laše~liai -
+Gelto^ni gelto^ni visi`.
+Vincas Giedra
+34
+3. Dvigarsiai, prasidedantys balsiais a, e: dvibalsiai au, ai,
+ei ir mišrieji dvigarsiai al, am, an, ar, el, em, en, er
+a. Kirčiuotame skiemenyje. Tariami dvejopai:
+n~) su ilgaisiais atviraisiais a, e:
+a^uga, a^idas, e^ižėti, a^ntis, e^lnias
+ka^ulas, la^imė, ve^idas, ka^rvė, pe^mpė
+ta^u, visa^i, je^i, da^r, vaike^l
+2) su trumpaisiais uždaraisiais a, e:
+au~sys, ai~trûs, ei~lės, an~takis, el~giasi
+Kau~nas, lai~vas, vei~kia, lan~kas, per~ka
+matau~, rašai~, sakei~, miškan~, didelia§
+n~. Jau šal~nos bai~giasi, žydos aly~vos, - lakštin~gala nega~li nečiulbė^ti. (S. Nėr.) 2. Var~pas da^r garsiau~ ir da^r aiškiau~ gau~džia, o graudu`s
+bal~sas ver~žiasi per o^rą. (V. Kudir.) 3. že~mės neapga^usi - ką pasė^jai,
+tą ir pja^usi. (flk.) 4. Dabar~ pasa^ulis visa^i ne ta`s kaip anai~s laikai~s,
+kada a`š ma~žas buvau~. (V. Krėv.) 5. žo~dis skriau~džia, žo~dis glau~džia.
+(flk.) 6. Ge^rvių vir~vės nuringa~vo per pada^nges. (S. Nėr.)
+b. Nekirčiuotame skiemenyje. Tariamas su trumpaisiais uždaraisiais a, e:
+augi`mas, eilo, arti`
+sausuma`, leidi`mas, velku`
+ro^dau, ra~tai, ne~šam
+l. Snie~go vė^jas pripu`stė vė^pûtinius aukščiau~ langų~. (V. Krėv.)
+2. Kiti` me~tai - kiti` la~pai. (flk.) 3. Girdė^ti, kaip lietu`s barbe~na į
+lenti`nį in~kilo stoge~lį, angoje` švi`lpauja vė^jas, kaip bra~zdinasi už sîenų
+ka~tinas, prašy^damasis į vi`dų. (J. Avyž.) 4. Po langai~s mū^sų o^bels
+žydos. (E. Miež.) 5. Dabarti`nių laikų~ vaikai~ gudresni`, negu kada^ise
+buvo sua^ugę vy^rai. (V. Krėv.)
+35
+Ant a^ukšto statau~s ka^lno pasiro^dė stebukli`ngas žibury~s. žibė^jo
+jis kaip žvaigždo, a`psiaustas šviesiu` ratu` iš a^ukso rai~džių. Pama~tę
+tat žmo^nės ojo prie ka^lno, stebė^jos į ži`burį, bet, negalė^dami ant to
+ka^lno užli`pti, negalė^jo išskaity^ti a^ukso rai~džių. Pagaliau~ atsira~do
+jaunika^itis, kuris susirin~kusiai mi`niai pe^rskaitė: žmonių~ La^imė.
+Paskli`do apie tai~ gar~sas po vi`są ša~lį: visur~ tik apie tai~ tekalbė^jo. Bet
+nie~kas negalė^jo gerai~ supra`sti ir kitîems iša^iškinti, ką~ tie žo~džiai
+re^iškia. i`štisas diena`s ir nakti`s budė^jo žmonių~ mi`nios prie to ka^lno,
+vîenos nuei~damos, ki`tos atei~damos, ir la^ukė nau~jo, da^r dide`snio
+stebu`klo ar iša^iškinimo se~nojo.
+Jonas Biliûnas
+Lapu`s ša^ldo sa^ulė
+Galçsdamas dal~gį, pir~štą iki ka^ulo įsipjo^viau. Plū^sta iš žaizdo~s
+krau~jas, nėra` kuo sulaiky^ti, o kar~štis nežmo^niškas. įkai~to a~kmenys, tvoro~s ka^rtys, vanduo~, ne`t cementi`niai la^iptai, o kie~mo gyslo~čiai
+buvo šalti` šalti`. Apsukau~ jais pir~štą... Ranka` užgi`jo. Li`ko tik ra^ndas.
+Kai~trią, saulė^tą die~ną augalų~ la~pai, ga~rindami drogmę, gero^kai
+atšą~la. Ne mažiau~ vėsi`na ir júodalksnio la~pai, nors sa^ulės ir jîems
+užten~ka.
+Gediminas Isokas
+4. Dvigarsiai, prasidedantys balsiais u, i: dvibalsis ui ir
+mišrieji dvigarsiai ul, um, un, ur, il, im, in, ir
+a. Kirčiuotame skiemenyje. Tariami dvejopai:
+n~) su pabrėžtais (bet nepailgintais) pirmaisiais nariais u, i; palyginkime, kaip tariami balsiai u, i ir dvigarsiai:
+u`ja - u`iti
+ku`ria - ku`rti
+stu`mia - stu`mti
+ku`lia - ku`lti
+pi`la - pi`lti
+36
+vi`rė - vi`rti
+tri`na - tri`nti
+užki`mo - užki`mti
+u`rbonas, u`lba, i`ltis, i`rtis
+zu`iti, ku`rti, su`ltys, ku`mštis, sku`ndė, Vi`lnius, nuri`mti, pi`nti,
+pi`rmas
+mu`ms, sûnu`ms, aki`ms, pi`nk, pu`lk
+2) su pabrėžtais antraisiais nariais:
+pui~kûs, pul~kas, klu§pa, sun~kûs, pur~vas
+vil~nys, ši§tas, krin~ta, lin~ksta
+paskui~, atsigul~s, sûnu§, vidun~, kur~, kil~s, aki§, šalin~, pagir~s
+l. Vo~s tik pi`rmas sa^ulės spinduly~s pa`lietė žvi`lgantį e~žero pavir~šių, mi`škas atgi`jo, sukle~go. (rš.) 2. Ka`s teisi`ngas, ta`s ir garbi`ngas.
+(flk.) 3. Vaikai~, grįždami` iš mo^kslo, kasdie~n ma~tė i`lgas žąsų~ vi`rtines, tra^ukiančias pada^ngėse. (rš.) 4. Tiktai~ girdė^tis buvo švil~piant
+ir gîedant artimia^usioj lîepoj varnė^ną, o kito~j čir~škė pul~kas žvi`rblių:
+bu`vo pava~saris. (J. Bil.) 5. Daina` jėga`s gi§do, daina` núovargį ti`ldo.
+(flk.) 6. De~šimt uždi`rba, tri`sdešimt du` pradi`rba. (flk. - pirštai ir
+dantys.) 7. Ir ca~ro ba~tas mi`ndė kny~gą, ir žo~dį gi§tąjį užgy^nė, leta^rgu
+Lietuva` užmi`go. (S. Nėr.)
+b. Nekirčiuotame skiemenyje:
+smuikúoti, kulka`, pirma`
+vai~kui, pe^rpilk, pe^rdurs
+n~. žmogu`s žmo~gui - drau~gas. (flk.) 2. Miškai~ papilka~vo, lyg
+dū^mais apr3⁄4kę, šniokšta~vo tirštu` ir šiltu` vė^ju. (žem.) 3. Lai~vą be
+i`rklo va~rė, linga~vo vėso~s dvelkimu`. (Mair.) 4. Iš ry^to paskli`do pilki`
+karei~viai po sodu`s, kurie bu`vo arčia^usia apkasų~. (V. Rimk.)
+37
+Sudurtiniuose žodžiuose ar žodžio gale kartais susidaro dvigarsių
+ir su ilgaisiais û, y, o, ė:
+sū^rmaišis, dū^mtraukis, ty^rlaukis, aukšty~n, pirmy~n, šo^nkaulis,
+ran~kom, sa~kom, ma~tom, galvo~n, dešinon, ma~tėm, ra~šėm, kiau~lėm
+Apei~ki vi`są Lîetuvą
+Nuo Kur~šmarių lig Vi`lniaus, -
+Kiekvienoje` ta^u vie~toje
+Bus lin~ksma ir šviesu`.
+Visur~ sura`si ši`lumą
+Ir ši`rdis, džiau~gsmo pi`lnas,
+Visur~ - per že~mę my^limą,
+Brangia^usią iš visų~.
+Vacys Reimeris
+Jone~lis, užmir~šęs ir į klu`mpius įsispi`rti, ba~sas nuta~škė į die~ndaržį, bet nema~tė nei pur~vo, nei kume~lės ė^džių, tai~p galvoje` ir akyse`
+mirgė^jo tas Kaziu`ko lemento~rius n~9 . Parbė^gęs atgal~, šo^ko prie
+Kaze~lio, patyliai~s ja^m prižadė^jo atidúoti dėžu`tę, tu`ščią nuo degtu`kų,
+kad tik ja^m le^istų sykiu` į lemento~rių   žiûrė^ti, bet vol šeiminin~kė
+prabi`lo:
+- Jonu`k! bu`lvių sku`sti vakarie~nei... bene ta^u čia vėpso^ti...
+Jone~liui tvi`nktelėjo skausmu` širde~lė, kodol ne ja^m vėpso^ti?
+Bet grei~tai šo^ko bu`lvių sku`sti, many^damas susku`tus vol gre~tintis
+prie Kaze~lio. Skubė^jo, sku`to, ta~škė į va^ndenį, mė^tė bu`lves, ne`t a~slą
+prita~škė.
+žemaitė
+n~9
+Lemento~rius - elemento~rius.
+38
+III. PRIEBALSIAI
+l. Skardieji ir duslieji priebalsiai
+Priebalsių skardumas-duslumas padeda atskirti žodžius. Palyginkime:
+du` - tu`
+bu`s - pu`s
+žu`s - šu`s
+ba~das - pa~das
+žy~la - šy~la
+a. Priebalsius žodžio gale tariame dusliai šiais atvejais:
+n~) prieš pauzę:
+be`t, ne`t, ka`d, ta`d, visa`d, nie~kad, ju`k, jo^g, dau~g, a`š, i`š, u`ž, bema`ž,
+daugma`ž
+l. Gi`rių čia dau~g, bet jos ta§sios, drė^gnos ir nuobo~džios.
+(V. Krėv.) 2. Snie~go bu`vo nedau~g. (rš.) 4. Aš einu` tiesio^g. (V. Krėv.)
+2) prieš balsius, pusbalsius ir priebalsius j, v:
+iš aikštos
+iš namų~
+iš ra~što
+iš mamo~s
+iš lokštės
+iš javų~
+iš va~karo
+vai~kas ra~šo
+vai~kas mą~sto
+39
+vai~kas juo~kiasi
+vai~kas ver~kia
+kad i§čiau
+kad nėra`
+kad rašy^tume
+kad ma^n
+kad le^istų
+kad jauny~stė
+kad vėliau~
+visa`d i§siu
+visa`d rei~kia
+visa`d ja^unas
+visa`d va^ikšto
+dau~g i`ma
+dau~g yra`
+dau~g namų~
+dau~g ra~tų
+dau~g minčių~
+dau~g lîepų
+dau~g javų~
+bema`ž aikšto
+bema`ž nau~jas
+bema`ž ly^gus
+bema`ž vė^tra
+Išimtį sudaro prielinksnis už, kur tariamas skardusis ž:
+už
+už
+už
+už
+akių~
+mi`ško
+jñ
+visu`s
+l. Dau~g ran~kų di`džią na~štą pa`kelia. (flk.) 2. Kai sa^ulė paki`lo
+gana` aukštai~, pra`verstos ari`mų va~gos omė švitė^ti ir de`gti drėgmos
+ugnimi`, spinduliúodamos lyg e~žero vil~nys. (P. Cvir.) 3. Atro^dė, jog
+40
+vabaliu`kai ty^čia krin~ta žemy~n, kad vol galė^tų ka~panotis aukšty~n į
+gėlos viršū^nę. (I. Simon.) 4. Vîenas už visu`s, o visi` už vîeną. (flk.)
+5. Mąsčiau~ tik apie~ tai~, kad nepasivolinčiau, kad suspė^čiau užli`pti,
+kol išsisklaidy~s r3⁄4kas. (J. Bil.) 6. Vîenas bė^ga, šimtai~ ve~ja - nie~kad
+nepa`veja. (flk. - vėjas pučia, rugiai linksta.) 7. Labiau~ už vi`ską
+ve^rtinu tie~są ir atviru`mą. (rš.) 8. Mū^sų ši`rdys tai~p pla~kė krûti`nėje,
+jog atro^dė - išsiploš iš ten~. (J. Balt.) 9. Lin~ksmas jis bu`vo, ir la^imė
+iš akių~ žibė^jo. (V. Krėv.)
+b. Priebalsis h tariamas skardžiai:
+hi`mnas, he`rbas, heròjus, hekta~ras, Hen~rikas, horizòntas
+n~. Ri`mas tu`ri gau~sų, ge~rą savo su`rinktą herba~rą. (E. Miež.)
+2. Kitame` moky~klos gale` paky~la fisharmònijos balsai~. (P. Cvir.)
+3. Sun~kûs de~besys pajuo~dę horizònte drai~kėsi. (S. Nėr.) 4. Kaip
+ka^ržygį tave` supra`s jie ir la^isvės hi`mnuose minos. (S. Nėr.)
+Try~s sesu`tės grė^bia šie~ną;
+Ne tiek grė^bia, kiek dûmo^ja:
+Tu`ri bro^lį tą~ tik vîeną,
+Ir tas vîenas jo^ms išjo^ja.
+Ir išjo^ja į tą ša~lį,
+Kur tėvų~ tėvai~ nebu`vo;
+Re~tas ten~ ištve^rti ga~li,
+Dau~g jaunų~jų ten~ pražu`vo.
+Maironis
+Kada mū^sų kieme` apsigyve~no gy^dytojo šeima`, ir ma~žas baltagal~vis berniu`kas pi`rmą kar~tą išojo į kie~mą, jį tuo~j apni`ko visi` mū^sų
+pada^užos.
+- Kuo~ vardu`? - pirmuti`nis pakla^usė Senka`.
+- Ju`chanas, - atsa~kė naujo~kas.
+- Tai tu` vo^kietis, je^igu Jòhanas? - nuste~bo ilgaka~sė Ro~žė, bet
+naujo~kas ramiai~ ją patai~sė:
+- Ne Jòhan, bet Ju`chan. Aš - e`stas. (rš.)
+4n~Turinys
+2. Kietieji ir minkštieji priebalsiai
+Priebalsių kietumas-minkštumas padeda atskirti žodžius. Palyginkime:
+ša^udo - šia^udo
+sakau~ - sakiau~
+rašau~ - rašiau~
+mo^kau - mo^kiau
+sau~so - sau~sio
+ka~ro - ka~rio
+geru` - geriu`
+kuru` - kuriu`
+la^užu - la^užiu
+a. Prieš balsius y (į), i, e (ę), ė ir šiais balsiais prasidedančius
+dvigarsius atskirus priebalsius ir priebalsių grupes tariame
+minkštai:
+n~) atskiri priebalsiai:
+ty~li, ry^tas, ri`mtas, šy~la, ši§tas, žy~mûs, ži`no, cy~ps, cemen~tas,
+citata`
+se~ka, re~tas, reti`, še~štas, šepety~s, že~mė, žemi`
+ne`gras, ne`rvai, de`monas, che`mija, kome`dija, te`chnika
+kė^lė, rokė, šolo, ro~žė
+sîena, rieko, šie~nas, žîedas
+rei~kia, še^rnas, žer~davo, žen~gs
+2) priebalsių grupės:
+ku`lti, kalbė^ti, smu`lkmena, al~ksnis, Ba^ltija
+a^lgebra, Alžy~ras, buha^lteris, buhalte`rija, fi`lme
+ver~kti, pir~kti, pi`rmininkas
+n~. Kai sušą~la - stiklu` ska§ba, kai sušy~la - dangun~ skren~da.
+(flk. - vanduo.) 2. Juk my^li tė^viškę lietu`vis jausmu` kaip Ne~munas
+giliu`! (S. Nėr.) 3. šia`pus Ne~muno ka~manos žvi`lga, ana`pus - ži`rgas
+42
+žve^ngia. (flk. - perkûnas.) 4. ši`rdį drą~sią ir gin~klą ran~koj išlaiky^k!
+(S. Nėr.) 5. Tik re~tkarčiais rė^kavo miške` čirkšly~s. (J. Bil.) 6. Bė^kite toly~n, šešė^liai, - spinduliai~ telan~ko! (S. Nėr.)
+b. Prieš balsius û (ų), u, o, a (ą) ir šiais balsiais prasidedančius
+dvigarsius atskirus priebalsius ir priebalsių grupes tariame kietai
+ir minkštai:
+l) kietai tariame:
+pa~sakos, sa~ko, žmogu`s
+ba^ltas, kalba`, pa^ltas, asfa^ltas, albu`mas, fi`lmas
+kultûra`, pu`lsas, Aldona`, a^lfonsas, Va^ldas 20
+2) minkštai tariame:
+lio^vėsi, ka~rio, šio~, žio^gas, gra~žios
+bučiúoti, važiúoti, žiu`rkė, šiur~pas
+li3⁄4tas, karių~, gražių~, ro~žių, žiûriu`
+turiu`, ne`šiu, ve`šiu, pe`šiu, ei~siu, ve`siu, ski`nsiu
+n~. Per asfa^ltą ga~tvėm bė^ga milijo~nai žiburolių, lyg ugnie~s taškai~
+lėktu`vai na^rdo gelmėse` naktie~s. (A. Vencl.) 2. Aš tuojau~ šią e~glę
+kir~siu, o nukir~tęs la~zdą di`rbsiu, su ta lazda` kai jau dúosiu, tai iš
+kar~to ir priplo^siu. (P. Cvir.) 3. Vieni` didži3⁄4nai bu`vo gali3⁄4nai.
+(A. Baran.) 4. Gy^vulius patra^ukė vidury~ gi`rios spin~gsąs žibury~s.
+(P. Cvir.) 5. Tylo~m sė^džiu, prisiglau~dęs prie sa`vo mo^tinos, žiûriu` ir
+klausau~s, klausau~s... (J. Bil.) 6. Ir gra~žios, ir ska§bios, ir jausmi`ngos
+vi`sos jų daine~lės. (V. Krėv.) 7. Galbū^t visa^i nemalonu`s bū^siu sve~čias.
+(J. Bil.) 8. žiûriu` ir negaliu` atsižiûrė^ti. (J. Bil.)
+c. žodžio gale priebalsius tariame kietai:
+ei~t, bė^gt, rašy^t, maty^t, dainúot
+ko~l, to~l, dol, kodol, todol, vol, ga^l, atgal~, y^pač, ma^n
+20
+Baltiškos kilmės vardas kirčiuojamas tvirtagališkai - Val~das.
+43
+n~. Vė^jas bai~gė lîetų ber~t. šliau~žia sra^igė atsige^rt... (K. Kub.)
+2. Paskubė^k, Eglužol, tu vaikai~s vedina`, - niau~riai me^rkiasi vol devinto^ji diena`. (S. Nėr.) 3. štai~ pamažol pamažol ir įsikur~s ugne~lė.
+(V. Krėv) 4. Va^lgyk, kol gardu`, dėvė^k, kol gražu`. (flk.) 5. Turė^jome grñžti atgal~. (rš.)
+Sunku` aprašy^t ir apsaky^t, ko^kį į^spûdį da~ro Ja^lta na~ktį iš jū^ros
+pi`rmą kar~tą į Kry~mą atvy~kusiam žmo~gui: u`gnys vandeny~, u`gnys viršu§ vanden~s, u`gnys ka~bo viršu§ úosto, ties bu`rėmis, vi`rtinėmis bė^ga
+úosto pakraščiai~s, pajū^riu, li`pa ant kalnų~, ant namų~, ir nie~kaip žmogu`s
+negali` atski`rt žiburių~ nuo žvaigždžių~ ir kalnų~ nuo debesų~.
+Da^r arčiau~ kran~to - da^r įvairiau~. Viena` iliu`zija pakei~čia ki`tą.
+u`gnys išsisklai~sto, žiburiai~ sutir~psta bendro~j švieso~j. Pasiro^do aukšti`
+keisti` namai~, aukštų~ fanta~stiškų me~džių apgobti`.
+Antanas Vienuolis
+Vy^rai mū^rai, ąžuolai~!
+Kur brûkliai~, kur spragilai~!
+čiu`pkit lu`pkit ka^rtis i`lgas!
+Ežere` įša~lo vil~kas!
+Ir suki`lo vy^rai tuo~j:
+To~lia to~lia! To~j to~j to~j!
+Mu`šti vil~ko! Mu`šti vil~ko!
+Ko~l ave~lių nenuvil~ko...
+Grie~bė grė^blį, grie~bė ša~kę
+Ir prie vil~ko k3⁄4liais le~kia.
+Vi`sas e~žeras tik du`nda...
+®! - Ir vil~kas atsibun~da...
+Ir nusti`ro jis staiga`:
+o^i, priša~lo uodega`!
+Vil~kas kau~kt, vil~kas sta^ugt:
+Kai~p ma^n úodegą ištra^ukt!
+Kad pradė^jo žmo^nės pu`lt,
+Kad pradė^jo vil~ką ku`lt,
+44
+Lū^žta vozdai ir bruktu`vės 2n~ !
+še` ta^u žu`vys! še` ta^u žu`vys!
+še` už a~vį, už paršiu`ką!
+še` už ver~šį ir veršiu`ką!
+Kostas Kubilinskas
+3. Priebalsių supanašėjimas (asimiliacija)
+a. Duslieji priebalsiai p, t, k, s, š prieš skardžiuosius b, d, g, z, ž, dz,
+dž tariami skardžiai. Palyginkime:
+ta~po - ta`pdavo
+su`ko - su`kdavo
+ka~sė - ka`sdavo
+išojo - išbė^go
+apžiûrė^ti, šla~pdriba, atga^uti, la^ukdavo, vi`rkdžiau, pu`sbrolis,
+kasdie~n, išdžiū^vo, ne`šdavo
+n~. La^ukdavo pava~sario visi`. (P. Cvir.) 2. Joniu`ko širdi`s sudrebė^jo, tuos žodžiu`s išgir~dus. (J. Bil.) 3. Aš kia^urą na~ktį išbudė^jau,
+neli`pdė mie~gas ma^n akių~. (S. Nėr.) 4. Priemenoj susirin~kę žmo^nės
+kalbė^josi pu`sbalsiu. (J. Balt.) 5. Ma`no apy^sakų veikė^jai nėra` išgalvo^ti ir iš pir~što išlaužti`. (P. Cvir.) 6. To kara~liaus so^stinėje vi`rė
+triukšmi`ngas, lin~ksmas gyve~nimas; kasdie~n privažiúodavo ten~
+daugy^bė žmonių~ iš svetimų~ že~mių. (J. Balč.)
+b. Skardieji priebalsiai b, d, g, z, ž prieš dusliuosius p, t, k, s, š, c, č
+tariami dusliai. Palyginkime:
+di`rba - di`rbti
+me~dį - me~dkirtį
+bė^ga - bė^gčiau
+zir~zė - zir~zti
+užojo - užti`ko
+2n~
+Bendrinės kalbos kirčiavimo norma bru`ktuvės (dgs.).
+45
+skal~bti, ki`bti, me`gzti, se`gti, ve`žk, užpu`lti, ve`žčiau, sni`gs
+l. Ger~bk save`, ir kiti` tave` ger~bs. (flk.) 2. Tiesiu` šviesiu` ka~spinu
+din~gsta ple^ntas tarp aukštų~ klevų~, a^ugančių jo~ pakraščiai~s. (I. Simon.) 3. ža~lias lin~ksta, sau~sas lū^žta. (flk.) 4. Garbo žmogau~s panaši`
+į a^ukštą me~dį, kuria^m ilgai~ rei~kia a^ugti, o grei~tai nulū^žti ga~li. (flk.)
+c. Priebalsis s prieš č tariamas kaip š, o priebalsis z prieš dž - kaip
+ž. Palyginkime:
+ka~sa - ka`sčiau
+vabzdy~s - vabzdžiai~
+pavyzdy~s - pavyzdžiai~
+gai~lesčio, anksčiau~, paprasčiau~, le`sčiau, vai~zdžiai, skruzdžių~,
+vyzdžiai~
+l. Mė^lyni katiliu`kai ir balti` palazdžiai~ klegė^jo kaip skambu`čiai.
+(J. Balč.) 2. Mo^tina sodi`na jį greta`, ant slen~ksčio. (V. Krėv.) 3. Kad
+pavir~sčiau gegute`, skri`sčiau į tėvy~nę. (flk.) 4. Ka^lvis galvo^jo, kad
+Ado~mas anksčiau~ ar vėliau~ ga~li grñžti namo~. (A. Vencl.)
+d. Iš dviejų greta esančių tų pačių priebalsių tariamas tik vienas:
+iššo^ko, išša^uti, u`žžiebė, užžė^lė, pu`sseserė, keli`ssyk, pe^rrašyk,
+šva^rraštis
+iš šo^no, už žîedo, tas sa~pnas, per rûgštu`s, skai~to ir ra~šo, Ròmas
+ir Ri`mas, kol la~ša, taip pa`t, kad di`rbtų
+l. Vidu`j iššlúota, šviesu`. (J. Bil.) 2. Iššo^ko peru`kas iš ba^lto
+akmeniu`ko šil~ko drabužiu`kais. (flk. - viščiukas.) 3. Užžė^lė takai~
+ir take~liai, kuriuo~s buvo išsky^nusi sene~lio ranka`. (rš.) 4. Rai~telis keli`ssyk atsisu`ko ir kiekvîeną kar~tą vis įnirtingiau~ vi`jo a^rklį.
+(J. Balt.) 5. Sa^ulė riedė^jo žemy~n ir ruo~šėsi grei~tai pasislopti už
+a^ukšto švento~sios kran~to. (J. Bil.) 6. Ma^n atro^dė, kad dabar~ jo
+žvil~gsnis pasida~rė aštre`snis ir kiete`snis. (rš.) 7. Pe^rrašydamas ra~šinį į šva^rraštį, bū^k atidu`s.
+46
+e. Iš dviejų tarpusavyje susidûrusių priebalsių s, š, z, ž tariamas
+tik antrasis:
+išsivaly^ti, išsu`ko, išžen~gti, i`šzvimbė, u`žsienis, užšo^ko, u`žzirzė,
+pu`sžalis, pu`sšimtis
+iš sa`vo, iš žolos, iš zoològijos, už ši`tą, už sū^nų, už Zi`gmą, tas
+žo~dis, tas š3⁄4kis
+l. Nusipi`nsiu vainikolį iš žiede~lių, iš margų~. (flk.) 2. Išsima^udę
+pasta~tėm bure`s ir, laiky^damiesi arti` pa~kraščio, nu`plaukėm toliau~.
+(A. Vien.) 3. Turiu` pasîekti kra~štą, kur už šito~s gi`rios, ir tu` man3s
+nesutrukdy^si. (V. Krėv.) 4. Ant baso~s ko^jos užšo^ko maža`, ruda`
+varly^tė. (K. Saj.) 5. Tik kovo^dami tega~lime išsilaiky^ti. (I. Simon.)
+6. Ei~na ba^lnis 22  iš pakal~nės, ragu`s užsiver~tęs, ato~lą pasker~dęs. (flk. -
+eina su dalgiu šieną pjovęs.)
+f. Iš dviejų gretimų priebalsių kg, gk, td, dt, tč, dč tariamas tik
+antrasis:
+daugkarti`nis, a~tdaras
+jog karto^tų, juk ge~ras, kad ta`vo, bet dúoda, kad čia`, bet čia`
+n~. Kaziu`kas atsargiai~ išli`po pro a~tdarą la^ngą. (rš.) 2. Kad tu
+pavir~stum į drebulolę, kad tu drebė^tum die~ną nakte~lę. (flk.) 3. Gulė^jo
+jis ten~ kiek gulė^jęs ir užmi`go. (J. Balč.)
+g. Prieš priebalsius k, g tariamas gomurinis n. Palyginkime:
+banda` - banga`
+lenta` - lanka`
+ra^ndas - ra^ngas
+pinti` - penki`
+ana` - anga`
+senu` - senku`
+anga`, an~glys, ten~ka, penkio^lika, Le^nkija
+22
+Ba^lnis - gyvulys su ba^lta nu`gara.
+47
+l. Iš penkių~ atomus penki`s - lie~ka penki`. (flk. - ranka ir pirštinė.) 2. Dangu`s giedru`s 23 , nie~kur nė debesolio. (V. Krėv.) 3. Vakare`
+susirin~kome prie lietu`viško vaiši`ngo sta~lo. (rš.) 4. Be mėso~s, be
+ka^ulų, o su plu`nksnomis. (flk. - pagalvis.) 5. Minia`, kaip vė^tros
+sukelta` jū^ra, lingúoja ir 3⁄4žia. (J. Bil.) 6. Kupro^tas sene~lis paluboj
+tin~klą ringúoja. (flk. - voras.)
+Mo^kytojas nega~li nie~ko daugiau~ saky^ti. Jis la^ukia užsiknia^ubęs,
+nule^idęs ga^lvą, pasku§ atsisto^ja, priei~na prie Juozapolio ir sto^vi.
+- Užte`ks, Juozapoli, - sa~ko mo^kytojas. - Tave` nu`skriaudė drau~gas.
+Bet a`š jo nebau~siu, no^rs jis užsitarna~vo didelos ir sunkio~s atgailo~s.
+Miku`tis ta`vo ran~kose, Juozapoli. Pasaky^k, kai~p turiu` su juo~ pasiel~gti?
+Juozapolis sto^jasi, ran~komis užsiomęs ve^idą. Jo lū^pos pati`nusios.
+Jis no^ri kažką~ saky^ti, bet vol kniu§ba ant súolo ir pro a~šaras i`štaria:
+- M-mo^kytojau... aš no^riu, kad Mi-mi`kei... aš... j3⁄4s dovano^tumėt...
+Petras Cvirka
+Kada saulė^lydy berniu`kas
+Priglau~džia smui~ką prie petie~s,
+Iš smui~ko ra^udančios širdie~s
+Ištry^kšta, re~gis, upeliu`kas,
+Ištry^kšta ve^rsmės ir šalti`niai,
+Išgri3⁄4va prunkšdami` lauki`niai
+Audro~s ir vîesulo arkliai~,
+Išša^una griau~smas - ka~ro griau~smas!
+Išvir~sta vė^jas ir lietu`s.
+Išplau~kia vi`sas smui~ko jau~smas,
+Slypė^jęs i`lgus ten~ metu`s...
+šis smui~kas tu`ri jau~trią ši`rdį,
+Nes sun~kûs bu`vo jo keliai~, -
+Apra^uda smui~kas grau~džiai mir~tį,
+Gyve^nti šau~kia pakiliai~...
+Eduardas Mieželaitis
+23
+Bendrinėje kalboje bûdingesnė forma gie~dras, -a`.
+48
+4. Priebalsis j
+a. j tariamas ir rašomas:
+ji`s, jo^ja, jazmi`nas, jurgi`nas, jie~, Jie~znas
+linkė^jimai, liu`dijimas, pažiûrė^jo, paėjė^jęs, žiûrinė^ja,
+vaikštinė^ja, atjau~čia, apjo^ja
+pa^rtija, a^nglija, Prancûzija`, milijo~nas, fortepijo~nas, ra~dijas,
+barje`ras
+l. Ti`k jaunoje` žolėje` grîežė nakti`niai smui~kininkai žiogai~. (rš.)
+2. Ir ja^m be`kalbant, ore` paskli`do to^ks gardu`s kva~pas, lyg bū^tų ki`lęs
+nuo milijo~nų ro~žių. (J. Balč.) 3. žai~džia, kry^kštauja, dainúoja
+gražu`sis jauni`mas. (S. Nėr.) 4. šita` moteri`škė visų~ to patie~s klausinė^ja. (Just. Marc.) 5. Jis jausmi`ngai apdainúoja samano^tą trobe~lę.
+(V. Myk.-Put.) 6. įojęs jis atsisto^jo ties du`rimis, ir nė žin~gsnio toliau~! (I. Simon.)
+b. j tariamas, bet nerašomas:
+n~) šaknies pradžioje prieš dvibalsį ie:
+ieva`, ie~šmas, îena, îetis, ieško^ti, apieško^ti, išieško^ti
+l. Îeško žuvi`s gilumo~s, o žmogu`s - gerumo~s. (flk.) 2. Çžuolo
+îenos yra stipre`snės kaip be^ržo. (rš.) 3. Ka`s ko îeško, tai ir susiîeško.
+(flk.) 4. Vieno~j ran~koj sky~das, kitoje` ilga` îetis. (V. Krėv.) 5. Jo
+ieško^ti jis ei~davo kasdie~n ir grñždavo vis labiau~ paniu`ręs. (P. Cvir.)
+6. Sė^k a~vižas, kai ie~vos žy^di. (flk.)
+2) tarptautiniuose žodžiuose tarp balsio i ir kitų balsių (ne
+galûnėje):
+biogra~fija, amonia~kas, avia~cija, abiturien~tas, klien~tas, patriòtas,
+akva~riumas, spartakiada`
+n~. Reikė^jo parodo~s rengė^jų - entuzia~stų. (rš.) 2. Jis tro^ško
+pate`kti avia~cijon, bet jį pasky^rė bate`rijon, telefonistu`. (rš.) 3. Mū^sų
+moky~klos stadione` prasidė^jo rajòninė spartakiada`. (rš.)
+49
+šaukiau~ iš vi`so vie~ko, bet vis tîek nie~kas neatsi`liepė. Nors
+spja^udyk ir ga^udyk iš nuobodu`mo. Pagriovyje` pamačiau~ di`delį žal~svą
+žio^gą. Vargai~s negalai~s nutvė^riau jį ir, patu`pdęs ant de^lno, sušukau~:
+- žio^ge, žio^ge, dúok degu`to! Je^i nedúosi, ga^lvą su`ksiu.
+O žio^gas supy~kęs kad gny~bs ma^n į pir~štą! Cy^ptelėjau ir
+svîedžiau bjaury^bę į ša~lį.
+Ir vol nebebu`vo kas vei~kti. Iš mū^sų trobo~s raudo^no ka~mino
+tik dabar~ paki`lo dū^mas. Pie~tûs da^r negrei~tai... Kur~ dabar~ benusidau~žti? Girdė^jau, kad nuobodžia^ujant labai~ tñsta no^sis. Pasičiupinė^jau, - ro^dos, iš tikrų~jų dide`snė...
+Kazys Saja
+50
+IV. KIRTIS IR PRIEGAIDė
+n~. Kirtis
+Kirčio vieta padeda atskirti žodžius:
+a^rti - arti`
+kal~ba - kalba`
+na~mo - namo~
+golės - gėlos
+ge~ra - gera`
+Jau rei~kia dirva`s a^rti. - Namai~ jau visa^i arti`.
+Tri`kampis yra` geome`trinė figûra`. - Trika§pis sta~las yra`
+nepatogu`s.
+Lietuvių kalboje gali bûti kirčiuotas bet kuris skiemuo:
+a. Kirčiuojame paskutinį skiemenį:
+gera`, daina`, Lietuva`, šatrija`, elektra`, barikada`, telegrama`,
+Ada`, Tatjana`, Elvyra`, Loreta`, Odesa`, Kanada`, Bratislava`, Kuba`,
+ženeva`, jaunuoliu`s, namuose`, mieste`, institute`, komitete`
+b. Kirčiuojame priešpaskutinį skiemenį:
+veži`mas, vaike~lis, pajū^ris, sava^itė, ketvir~tis, Tra~kai, lietu`vis,
+atjau~čia, neken~čia, pašau~kia, pedagògas, autobu`sas, troleibu`sas,
+komite`tas, kilome`tras, termome`tras, kilogra~mas, vagònas
+c. Kirčiuojame kitus skiemenis:
+fa~brikas, la~pkritis, vo^kietis, sçsiuvinis, sçjunga, me~džiaga,
+mo^teris, di`dvyris, pu`siasalis, spa^usdinti, sîelotis, žu`vintas,
+Pu`ntukas, Stel~mužė
+5n~Turinys
+n~. Smagu` pasimė^tyti sniegu`. (rš.) 2. Ne`gi gero^ji sa^ulė, kurio~s
+dažnai~ taip pasii`lgsta lietu`vis, dabar~ pražudy~s vi`są jo da^rbą. (rš.)
+3. Raudo^nų ply~tų ka~minas kvėpúodavo tamsiai~s dū^mais. (rš.) 4. Ar
+j3⁄4s ma~tėte zoològijos sode` li3⁄4tą? 5. Striúoksi ki`škiai per mišku`s,
+bai~do ki`škiai skaliku`s. (K. Kub.) 6. Sui§k trumpai~ kamanėle`s, kad
+nesuskambė^tų. (flk.) 7. Po slenksčiu` dru`skos maiše~lis. (flk. - liežuvis.) 8. Stry^kt pastry^kt rateliu`, ge~ra bū^ti drąsuoliu`. (K. Kub.)
+9. Trobe~lė pasili`ko ka^ime ne`t už pen~keto kilome`trų. (J. Balt.)
+l0. Daige~lis min~ta sė^klos mai~sto me~džiagomis. (rš.)
+Tyliai~s va~saros vakarai~s, kai šilti` prîeblandos šešė^liai nusile^idžia
+į Ne~muno slonį, kai nuty~la da^rbo garsai~, išgirstu` pîevoje ka~lant kuo~lą,
+dusliai~ ir vieno^dai, prie kurio~ na~kčiai ri`šamas arkly~s. Pasku§ 24 atsilie~pia griežlo. Ji grîežia sausu`, ta^rškančiu balsu`, bet grei~tai ir ji` nuty~la.
+Ir kokia` tyla`! Tar~si girdi`, kaip alsúoja dieno~s metu` įkai~tinta že~mė,
+kaip brė^žia pelekai~s žvyrúotą u`pės du`gną žuvi`s. Bet tai~p tik atro^do į
+dieno~s triu`kšmą įpra~tusiai au~siai! Geriau~ įsiklausy^k ir išgir~si nuolati`nį skambė^jimą, nepalia^ujantį nė aki`mirkai: tai žiogai~, pasislopę
+žoly^nuose, gro^ja savo mažai~s, žmogau~s a~kiai neregimai~s smui~kais.
+Gaivi`nančios raso~s la~šas, nuriedė^jęs nuo me~džio šako~s, paly~ti ma`no
+skrúostą, ir a`š pajuntu` jo sun~kią ir gai~vią drogmę.
+Petras Cvirka
+Saulu`tės poilsolis
+(ištrauka)
+Saulu`tė įsirau~sia
+į debesų~ pûku`s.
+Lietu`čio du`šas prau~sia
+Kišku`čiams kailiuku`s.
+Nemė^gsta ki`škiai du`šo -
+Lietau~s iš debesų~.
+Po krū^mais susig3⁄4žo 25 ,
+Neprau~sia nė ausų~...
+23 Bendrinėje kalboje bûdingesnė forma paskuñ.
+25 Bendrinei kalbai teiktinesnė forma susi`gûžė.
+52
+Atskri`do ša^ltas vė^jas,
+Apnúogino medžiu`s.
+Lape~liai sukinė^jas,
+Lydė^dami paukščiu`s...
+Saulu`tei pasida~rė
+Ir li3⁄4dna, ir baisu`.
+- Aš pailsė^siu, - ta~rė, -
+Už ši`tų 26 debesų~...
+Per va~sarą pavar~go,
+Plušė^dama laukuo~s.
+Pabu`s mėnu`lis sa^rgu,
+Kol ji kietai~ miego~s...
+- Pelnei~ tu poilsolį,
+į da^rbą eidama`...
+Paklo^k sa^u debesolį, -
+Pasiū^lo ja^i žiema`.
+Saulu`tė pasiklo^ja
+žiemo~s debesėliu`s, -
+Saulu`tei jie atsto^ja
+šiltu`s patalėliu`s...
+Eduardas Mieželaitis
+2. Priegaidė
+Priegaidė padeda atskirti žodžius:
+ša^uk - šau~k
+la^uk - lau~k
+ta^i - tai~
+la^ido - lai~do
+ka^ltas - kal~tas
+26
+Bendrinėje kalboje leidžiama kirčiuoti dvejopai: šitų~ ir ši`tų.
+53
+neve^rki - never~ki
+du`lkė - dul~kė
+siū^siu - sių~siu
+ko^šė - ko~šė
+Na~mas yra a^ukštas. - čia` yra` an~tras au~kštas.
+Ka~bo ant pla^uko. - Tvenkiny~ a^ntys plau~ko.
+Nukri`to du`lkė. - Lietu`tis dul~kė.
+Pîeną ko^šė. - Ve^rda ko~šė.
+a. Tvirtapradė priegaidė:
+la^imė, ve^idas, da^rbas, ke^lti
+pi`lti, pi`rmas, pu`lti, stu`mti, u`iti
+dúona, klúonas, vîenas, gîeda
+kçsti, spr2sti, gy^rė, krū^mas, plo^nas, dė^ti
+l. Iš da^rbo paži`nsi žmo~gų. (flk.) 2. Zui~kis la~pą nusila^užė, nusila^užė ir sugra^užė. (E. Miež.) 3. Vy^rus tar~tum úosius m3⁄4šio vė^tra
+grio^vė. (V. Giedr.) 4. O palîepė kad įtū^žo ir perpu`s iš ba^imės lū^žo.
+(Just. Marc.) 5. Danguje` nė mažia^usio ba^lto debesolio. (J. Bil.)
+6. čia` tu ja^m pe^rnešk, ten~ pake^lk, - vis to^kius da^iktus, kur penki`
+nepaju`dintų. (P. Cvir.) 7. Spen~giai gi`rgžda seno^ji svi`rtis, ski`mbčioja kibi`rai. (J. Avyž.) 8. Ir svajo^čiau, ir klausy^čiau, kaip dejúoja,
+ver~kia vė^jas. (S. Nėr.)
+b. Tvirtagalė priegaidė:
+rai~dė, ver~kti, ka§pas, der~lius
+vil~kas, pul~kas, sun~kûs, pui~kûs
+guo~lis, juo~ktis, die~nos, lie~ka
+drą~sûs, sk3sta, ly~ja, l3⁄4žis, so~das, golės
+l. Lau~ko pau~kštis laukan~ ži3⁄4ri. (flk.) 2. ši§tas zui~kių susirin~ko, ne`t žalia` gire~lė lin~ko. (E. Miež.) 3. O me~s plau~kiame plačiu`
+Ne~munu toliau~. (J. Bil.) 4. Kaip vil~kas, išei~damas iš sa`vo guo~lio,
+54
+su ba^ime dai~rosi aplin~kui ir kale~na dantimi`s, tai~p ir ca~ras bi`jo išlñsti
+iš sa`vo rū^mų, nes visur~ ma~to šešė^lius tų~, kuriuo~s nekaltai~ ar
+nu`skriaudė, ar pražu`dė. (J. Bil.) 5. Sutemo~j na~ktį ir die~ną ka~lėme
+ge~ležį, plie~ną. (V. Myk.-Put.)
+c. Palyginkime tvirtapradę priegaidę su tvirtagale:
+kla^usė - klau~sė
+la^imė - lai~mi
+te^isė - tei~smas
+va^rpa - var~pas
+la^ngas - lan~kas
+ke^lti - kel~sis
+pu`lti - pul~kas
+dúok - duo~s
+lîeti - lie~ka
+sky^rė - sky~rius
+žū^ti - ž3⁄4va
+šo^kti - šo~kis
+dė^siu - dos
+Nuka^ršęs sene~lis
+Beržai~ nusi`ėmė kepure`s ir nusi`lenkė žie~mai. Pasiti`ko ją tar~si
+ko^kią valdo~vę. ža~lias kadagy~s puo~šė beržy^no pa~kraštį. a`tûžė žiema`,
+šal~čiais ir pûgomi`s alsúodama, o ka~dagio krûme~lis žalia~vo sa^u lyg
+nie~kur nie~ko. Supy~ko žiema` ir sugalvo^jo pasišaipy^ti iš ka~dagio.
+Einu` ry^tą - kadagy~s vi`siškai pase~nęs. ži`los ga^rbanos išdabi`no
+jo ga^lvą. Jis se~nas, nuka^ršęs sene~lis. Beržai~ pamojúoja šakomi`s ir
+nubar~sto šer~kšną, o kadagy~s sto^vi praži`lęs nuo šarmo~s. (rš.)
+Bu`vo bu`vo - kai~p nebu`vo:
+šlu`mšt į šu`linį įgriu`vo
+La~pė, ka~tinas, ožka`,
+še^rnas, vil~kas ir meška`.
+55
+La~pė sty~psi,
+še^rnas kriu`ksi...
+Neišli`psi,
+Nepaspru`ksi...
+čiul~pia le~teną
+Meška`,
+Ba`ksi ka~tiną
+Ožka`...
+Susitra^ukę,
+Alkani`
+žvė^rys kau~kia
+šuliny~:
+Nei prigul~ti,
+Nei prisė^sti...
+Ką užpu`lti,
+Ką suė^sti?
+Vil~kas ban~do svi`rtį ry^ti,
+La~pė - ren~tinį laižy^ti.
+še^rnas kriu`ksi: Kriu` kriu` kriu`...
+Gai~la, gi`lių neturiu`...
+Kostas Kubilinskas
+56
+Tekstai tarties kursui kartoti
+Dvy^lika bro^lių, júodvarniais la~kstančių
+Lietu`vių lia^udies pa~saka
+Vîeno po~no mi`rė pati` ir pali`ko dvy^lika sûnų~ ir da^r vîeną dukre~lę.
+Po kurio~ lai~ko tė^vas suma~nė ve`sti ki`tą. O to^ji bu`vo ra~gana. Ji`
+ir sa~ko:
+- Dukto tebûnie~, bet sa`vo sū^nus visu`s sude~gink ir, supy^lęs jų
+pe~lenus į po~pierius, atsių~sk ma^n, tai tada` už tav3s tekė^siu.
+Tė^vas galvo^jo šiai~p, galvo^jo tai~p ir neži`no, ką~ dary^ti. Jis omė ir
+papa~sakojo vi`ską viena^m sa`vo tar~nui. Ta`s ja^m sa~ko:
+- Ko~ čia rū^pintis? Juk dvare` yra` didelių~ šunų~: dvy^lika jų~ sude~ginsi, pe~lenus supi`lstysi į po~pierius, padė^si an~tspaudus ir nusių~si
+ja^i. Bene` ji pe^rmanys? O po vestu`vių, kad ir ra`s, bene` ką~ jiems
+bedary~s.
+Po~nas tai~p ir pada~rė: sude~gino dvy^lika šunų~, pe~lenus supy^lė į
+po~pierius, prispa^udė an~tspaudus ir nu`siuntė ra~ganai. Ta` apžiûrė^jo
+visu`s popierėliu`s, apúostė ir pasa~kė tin~kanti tekė^ti. Po vestu`vių,
+parvažia~vusi į dva~rą, pradė^jo visur~ uostinė^ti - šniu`kšt šniu`kšt ir
+ta~rė:
+- Ka`s čia smi`rdi? Tie~ visi`, kas čia yra` nereikali`ngi, júodvarniais tei`šlekia!
+O jos po^sûnių bū^ta tuo~kart rûsyje`. Tuo~j visi` vîenas pa~skui ki`tą
+stri`kt ant la^ngo ir skri`do išskri`do.
+Ir li`ko tė^vui tik viena` dukre~lė. Ji nie~ko nežino^jo apie sa`vo
+bro^lius - tė^vas buvo uždrau~dęs dvari`škiams ja^i pa~sakoti.
+Vîeną kar~tą - merga^itė bu`vo jau dvy^likos me~tų - dvari`škiai
+omė šnekė^ti:
+- Argi ta` viena` dukre~lė bu`vo mi`rusios ponio~s?
+Vîenas jų atsa~kė:
+- Kur~ ta^u! Bu`vo sûnų~ dvy^lika, bet kai po~nas ve~dė ra~ganą, tai ji`
+visu`s juos užke^ikė, ir i`šlėkė visi` júodvarniais!
+Merge~lė, išgir~dusi dvari`škių kal~bą, ir išsi`rengė ei~ti savo bro^lių
+ieško^ti. Pasisiū^dino dvy^lika marškinių~, dvy^lika ke^lnių, dvy^lika
+57
+paklo~džių, u`žvalkčių dvy^likai paga^lvių ir išojo, susiri`šusi visu`s da^iktus ryše~lyje.
+ajo, ojo per lauku`s, per mišku`s. Ką~ tik susitin~ka, vis kla^usia, ar
+nema~tė jos bro^lių, júodvarniais la~kstančių, ir visi` atsa~ko nema~tę. Beeidama` per di`delę gi`rią, užojo atsisky^rėlį; pas tą~ įojusi, kla^usia, ga^l yra
+ma~tęs kur jo~s bro^lius, júodvarniais la~kstančius. Atsisky^rėlis ja^i sa~ko:
+- Nesu` ma~tęs, bet aš turiu` va~lią ant visų~ debesų~; pe^rnakvok
+čia` pas mane`, ryto^j susišau~ksiu visu`s de~besis, tai tie~, je^i bu`s, tai bu`s
+ma~tę.
+Ry^to me~tą tas atsisky^rėlis ir su`šaukė de~besis. Kai su`gulė tie
+de~besys apie~ jo~ trobe~lę, tai pasida~rė tamsu` kaip juoda` nakti`s. Išojo
+atsisky^rėlis laukan~ ir kla^usia debesų~:
+- Ar ne~sat kur ma~tę dvy^likos bro^lių, júodvarniais la~kstančių?
+Visi` atsa~kė nė vîenas nema~tęs ir išsiski`rstė kiekvîenas sa^u. Tada`
+tas atsisky^rėlis ja^i sa~ko:
+- Kai šian~dien ei~si per tą gi`rią, tai vakaro^p ra`si ma`no bro^lį,
+taip pa`t atsisky^rėlį; jis tu`ri val~džią ant visų~ vė^jų; jis vė^jus paklau~s,
+ar tie~ bu`s kur užp3⁄4tę tavo bro^lius.
+Ir išojo merge~lė. Ei~na, ei~na per tą gi`rią, apie~ va~karą priojo ki`tą
+atsisky^rėlį, įojo ir to~ pasikla^usti, ar jis nema~tė, ar negirdė^jo jos
+bro^lių, júodvarniais la~kstančių. Ir ta`s atsa~kė:
+- Aš nie~ko nežinau~. Pe^rnakvok pas mane`, ryto^j ry^tą susišau~ksiu
+vė^jus, tai tie~, je^i bu`s kur užp3⁄4tę, tai ir ta^u pasaky~s.
+Ry^to me~tą susi`šaukė atsisky^rėlis visu`s vė^jus. Tie su`pûtė, su`ûžė,
+su`šniokštė. Visų~ išklausinė^jo, ir visi` atsa~kė nei vîenas nema~tęs, nei
+vîenas nie~kur neužojęs. Tada` atsisky^rėlis ja^i sa~ko:
+- Kai šian~dien ei~si per gi`rią, apie va~karą atra`si mū^sų tre~čią
+bro^lį. Jis tu`ri val~džią ant visų~ pau~kščių; je^i bu`s, tai bu`s koks pau~kštis
+juos užti`kęs.
+Ir merge~lė vol išojo.
+ajo, ojo per vi`są die~ną ir vakaro^p priojo tre~čią atsisky^rėlį. Ta`s
+vol ja^i pasa~kė:
+- Pe^rgulėk pas mane`, aš ryto^j sušau~ksiu visu`s paukščiu`s, tai
+jie~, jei bu`s kur užoję, ta^u pasaky~s.
+58
+Ry^to me~tą tas atsisky^rėlis ir su`šaukė visu`s paukščiu`s. Kad pri`lėkė, kad priskri`do ir didelių~, ir mažų~ pau~kščių! Išojo atsisky^rėlis ir
+klausinė^ja visu`s. Tie visi` atsa~kė nei vîenas nie~kur nema~tęs, nei vîenas
+nie~ko neži`nąs. Atsisky^rėlis pulku`s atle^ido, ir visi` išsiski`rstė. Netru`kus kur bu`vęs, kur nebu`vęs šlu`bas ere~lis a`tlėkė. Atsisky^rėlis
+ant jo~ sušu`ko:
+- Kodol tu` nesisku`binai, ko~ gaišai~?
+Ere~lis atsa~kė:
+- Ma^n ko^ją šauly~s pašo^vė, ir negalė^jau ve^ikiai atlokti.
+Atsisky^rėlis vol kla^usia ere~lį:
+- Ar nesi` kur ma~tęs dvy^likos bro^lių, júodvarniais la~kstančių?
+Ere~lis atsa~kė:
+- Mačiau~ ir žinau~: jie~ per die~ną júodvarniais lakio^ja, o na~ktį
+žmonėmi`s viename` kalne` gyve~na.
+Tada` atsisky^rėlis da~vė merge~lei dvy^lika smaigte~lių ir įsa~kė,
+li`pant į tą ka^lną, vis smaigy^ti ir smaigy^ti.
+- Tiktai~, - sa~ko ji`s, - sa^ugokis, kad nė vîenas ta^u iš ran~kų
+neiškri`stų: je^igu nors vîenas iškri`s, tai ir nebegalė^si ant ka^lno užli`pti.
+O ere~liui pasa~kė:
+- Tu` žiûrė^k, kad ji` nenukri`stų ir ga~lo nega^utų!
+Ir išojo merge~lė su tuo~ ereliu`, paplasta` le~kiančiu, ir nu`lėkė
+abu`du prie to ka^lno. O tas ka^lnas buvo to^ks a^ukštas, ne`t už de~besis aukšte`snis. amė merge~lė tuo~j į tą ka^lną smaigteliu`s smaigy^ti ir
+li`pti aukšty~n. Smai~gė, ka^išiojo, ga^l ko^ks pu`svarstis li`ko, ir bū^tų jau
+užli`pusi, tik staiga` vîenas smaigte~lis omė ir iškri`to. Ji, bežiûrė^dama į krin~tantį smaigte~lį, ir pati` pradė^jo kri`sti. Bet ere~lis, tupė^damas pakal~nėje, tuo~j paki`lo nuo že~mės, grie~bė sveikçja ko^ja ja^i už
+ryše~lio, tuo~j aukšty~n, aukšty~n ir u`žnešė ne`t už debesų~. Pri`nešė prie
+di`delio u`rvo, pale^ido ir sa~ko:
+- štai~ tas u`rvas, kur jie~ vakare` parlokę su`lenda. Tu` čia įojusi
+ra`si dvy^lika lo^vų; ja`s apdangsty^k paklo~dėmis ir visu`s paga^lvius apvalksty^k u`žvalkčiais, o ma^rškinius, ke^lnes išdėlio^k kiekviena^m ant
+lo^vų. Prie kiekvieno~s lo^vos ra`si po staliu`ką ir ant staliu`kų padė^ta
+dúonos po kepalolį; nuo tų~ kepalolių galė^si po rieke~lę atsirie~kusi
+59
+suva^lgyti. Prie du`rų ra`si mažia^usiojo bro^lio love~lę, tai, po jçja palin~dusi, galė^si pati` pe^rnakvoti.
+Ere~lis, vi`ską ja^i pasa~kęs, nu`lėkė sa^u, o ji įlin~do į tą u`rvą. Tenai~
+ra~do vi`ską tai~p, kaip ja^i tas ere~lis bu`vo išpa~sakojęs. Paklo~dėmis
+apdan~gstė lo^vas, u`žvalkčiais apval~kstė paga^lvius, ke^lnes ir ma^rškinius kiekviena^m ant lo^vų išdėlio^jo, pava^lgė nuo kiekvîeno kepalolio
+atsiriekdama` po rieke~lę, palin~do po ma~žojo bro^lio lo^va ir atsi`gulė.
+Atojus va~karui, tuo~j ir išgir~do: júodvarniai sukranksė^jo, nusile^ido
+ir suojo žmonėmi`s į tro^bą; visi` džiau~gėsi, kad pataisy^tos lo^vos ir
+padėti` marškiniai~ su ke^lnėmis. Visi` apsitai~sė, ei~na va^lgyti, ži3⁄4ri -
+jų dúona nuraiky^ta. Vyresny~sis sa~ko:
+- Lo^vas ir mus pačiu`s aprodė 27  - gerai~, bet kad dúonos trū^ksta,
+tai negerai~; na`, bet ką~ padary^si!
+Pe^rnakvojo, ry^tą atsikė^lė, sukranksė^jo ir i`šlėkė sa^u. Tada` atsikė^lė iš palo^vio ir merge~lė. Lo^vas paklo^jo, tro^bą i`ššlavė, vi`ską sutvar~kė ir la^ukia bro^lių. Pavakary~ vol atsi`riekė po rieke~lę nuo
+kiekvîeno kepaliu`ko ir palin~do po ma~žojo bro^lio lovele`.
+Vakare` ir vol omė júodvarniai kranksė^ti, ir suojo į tro^bą visi`
+bro^liai. Vyresny~sis sa~ko:
+- Matai~, ir vol dúona nuva^lgyta. Jau kas no^rs nege~ras yra
+įsime~tęs. Dabar~ da^r nie~ko nedary^siu, bet je^i tre~čią die~ną taip bu`s,
+tai, nors vi`są ka^lną sugria^usiu, bet turė^siu ra`sti.
+Merge~lė gulė^dama išsigan~do ir galvo^jo, ka`s bu`s. Jau visi` bro^liai
+mie~ga, knar~kia, o ji` nega~li užmi`gti, ir tîek. Ken~tusi, ken~tusi pagaliau~ omė savo jaune`snįjį bro^lį bu`dinti ir tru`ktelėjo jį už ko^jos. Ta`s
+kla^usia:
+- Ka`s čia?
+ši` tylomi`s atsa~kė:
+- a`š, brole~li, jū^sų sese~lė, atėjau~, susiieško^jau ju`s; bet kad ana`s
+brole~lis py~ksta, ba~rasi, ką~ aš dabar~ dary^siu?
+Bro^lis ja^i atsa~kė:
+- Na`, ką~ dabar dary^si? Bū^k, kaip bu`vusi, ryto^j pamaty^sime.
+27
+Vietoj aprodė bendrinėje kalboje vartotina a`prengė, aptai~sė.
+60
+Ry^to me~tą atsikė^lę visi bro^liai jau tai~sosi ei~ti laukan~, maža`sis
+ir omė saky^ti:
+- Na`, bro^li, va~kar žadė^jai ka^lną ardy^ti, ver~sti, o kad ra`stum
+kokį gimina^itį ar se~serį, ką tada` dary^tum?
+Vyresny~sis bro^lis sa~ko:
+- Matau~, kad tu` jau žinai~, ka`s čia yra`, na`, tai pasaky^k, ka`s?
+ši`s, atiden~gęs paklo~dę, ta~rė:
+- Lñsk, sese~le, laukan~, kai~p jau bu`s, tai~p.
+Tada` vyresny~sis bro^lis ir sa~ko:
+- Kad tu bū^tum išken~tusi namie~ da^r vîenerius metu`s 28  , tai
+bū^tum mū^sų sula^ukusi, o dabar~, sese~le, reikos ir mu`ms, ir ta^u vol
+var~gti da^r dvy^lika me~tų. Je^i iškentė^si nie~ko nešnekė^jusi per tîek
+me~tų, tai da^r pasimaty^sime.
+Tai~ pasa~kęs, lie~pė sese~lei sė^sti ja^m ant nu`garos, ir visi`, pavir~tę
+júodvarniais, nu`lėkė. Jie nu`nešė se~serį į di`delę gi`rią, pasodi`no į
+e~glės viršū^nę, atsisve^ikino ir pali`ko. Ilgai~ ji ten~ sėdė^jo, ne`t drabu`žiai
+visa^i suply^šo.
+Vîeną die~ną į tą gi`rią atojo medžio^damas karala^itis su sa`vo
+dvari`škiais. Bema~tant šu`nys apsto^jo tą me~dį, kur merge~lė sėdė^jo,
+ir pradė^jo lo^ti. Tuo~j atojo karala^itis su medžio^tojais, ma~to - me~dyje žmogu`s. Ir šiai~p ją ka^lbina, ir tai~p ka^lbina, ty~li, ir tîek. šau~kia -
+li`pk laukan~, gą~sdina - nuša^usime, o ji` vis ty~li ir ty~li. Tada` karala^itis
+ta~rė savo tar~nui:
+- Li`pk ir iške^lk laukan~, pamaty^sime, ka`s gi ten~ yra`.
+Ta`s ir įli`po. Merge~lė ro^do, tar~tum norė^dama pasaky^ti e~santi
+be drabu`žių. Medžio^tojas, išli`pęs laukan~, pasa~kė karala^ičiui: me~dyje
+e~santi jauna`, graži` moteri`škė, tiktai ji` be drabu`žių. Karala^itis da~vė
+tar~nui drabužiu`s, ir ši`s nu`nešė merge~lei. To^ji apsirodė 29  ir išli`po iš
+me~džio. Karala^ičiui tai~p ji pati`ko, kad ji`s niekado~s nenorė^jo kito~s
+nė maty^ti. Parsive~dęs namo~, pasisa~kė sa`vo tėva^ms no^rįs i§ti ją sa^u
+28 Geriau - vîenus metu`s.
+29 Vartotina apsi`rengė, apsitai~sė.
+6n~Turinys
+už pa~čią. Tėvai~ nenorė^jo nebylos marčio~s, bet, ilgai~ pra~šomi, le^ido.
+Ir karala^itis ve~dė dvy^likos bro^lių sese~lę.
+Po kelerių~ me~tų juo~du susila^ukė sûnau~s. Tą die~ną karala^ičio
+nebu`vo namie~, o ja^unąją karalîenę slaugy^ti buvo pakviesta` jos pa~motė ra~gana. To^ji ra~gana vaike~lį i`šmetė laukan~ ir, sugrie~busi šuniu`ką,
+ro^do visîems:
+- žiûrė^kite, ko^ks jo~s vai~kas!
+Nusigan~do karala^ičio tėvai~ ir para~šė sū^nui ra~štą, kad jis greičiau~ gri~žtų namo~ ir sa`vo pačia` atsikraty^tų. Karala^itis grñžo, pažiûrė^jo į sa`vo pa~čią ir nu`tarė nie~ko ja^i nedary^ti: ji tokia` gera`, tokia`
+graži` e~santi.
+Po me~tų juo~du susila^ukė ki`to sûnau~s. Karala^ičio taip pa`t nebu`vo
+namie~, ir vol jos pa~motė ra~gana vaike~lį i`šmetė laukan~, pa`griebė
+kačiu`ką ir ro^do visîems:
+- žiûrė^kite, ka`s dabar~!
+Visi` stebė^josi, ir tėvai~ nura~šė sū^nui ra~štą. Sûnu`s vol para~šė
+namo~, kad nie~kas nie~ko ja^i nedary^tų be jo~ patie~s. Sugrñžo karala^itis
+namo~ ir sa~ko, kad jo~ pati` labai~ graži`, patin~kanti ja^m ir da^r toliau~
+žiûrė^siąs.
+Da^r po me~tų - karala^ičio vol nebu`vo namie~, - gi`mė tre~čias
+sûnu`s. Ra~gana, jos pa~motė, vol i`šmetė sū^nų laukan~ ir ro^do visîems
+gi`musį šuniu`ką. Tėvai~ vol ra~šo ja^m greičia^usiai skubė^ti namo~ ir
+dary^ti ja^i ar šio^kį, ar to^kį ga~lą. Karala^itis parkelia~vo namo~, bet ja^m
+bai~siai gai~la žudy^ti sa`vo pa~čią. Nebežino^damas, ka`s čia rei~kia dary^ti,
+ji`s ir sa~ko:
+- žino^kitės, dary^kite, kaip išma~note!
+Teisė^jai apka^ltino ją~ ir nu`baudė kaip ra~ganą sude~ginti. Sukro^vė
+di`delį la^užą, u`ždegė ir ve~da, bet netru`kus užojo di`delis lietu`s ir
+užlîejo u`gnį. Ir vol lie~pė prive`žti sausų~ me~džių. O jau visa^i bai~giasi
+dvy^liktieji me~tai, tiktai~ vieno~s valando~s berei~kia, tuo~j atskri`s jos
+bro^liai. Kaip tiktai~ omė ku`rti iš nau~jo u`gnį, ži3⁄4ri - atplasno^ja, a`tlekia dvy^lika júodvarnių, a`tlekia ir le^idžiasi. Tuo~j nusile^ido pirma`sis,
+vir~to žmogu§ ir atsi`vedė už ran~kos trejų~ me~tų sûne~lį; nusile^ido
+antra`sis ir atsi`nešė sûne~lį antrų~ me~tų; trečia`sis nusile^idęs atsi`nešė
+62
+da^r vystykluose` ką ti`k gi`musį vaike~lį. Tuo~j visi` bro^liai pribė^go prie
+la^užo ir sušu`ko:
+- Ką~ j3⁄4s čia di`rbate? Ka^m jûs nekal~tą mûsų sese~lę no^rite nužudy^ti? Geriau~ me`skite į u`gnį pa~motę ra~ganą!
+Ir jie vi`ską papa~sakojo, kaip to^ji ra~gana ti`k gi`musius vaikučiu`s
+išme`sdavo laukan~ ir kaip jie~ tuo~j juos pasii§davo ir augi`ndavo.
+Dabar~ ir sese~lė vi`ską pasa~kė; sa`vo broleliu`s labai~ mylė^jusi, už tai~
+taip ilgai~ ir tylė^jusi. Tada` visi` pa`griebė tą ra~ganą ir ñmetė į u`gnį.
+Kara~lius pakė^lė di`delį po^kylį. Ir a`š ten~ buvau~, ir a`š dau~g mačiau~,
+ir a`š ten~ va^lgiau ir gė^riau, per bar~zdą varvė^jo, burno~j neturė^jau.
+Tė^viškė
+Ma`no tė^viškė - mė^lyno Ne~muno vi`ngis,
+Gintari`niai krantai~ ir sena` Palanga`.
+Su`pa vil~nį ramiai~ drun~gnas vė^jas apti`ngęs,
+Smoly pla~kas pavar~gusi ma~rių banga`.
+Ma`no kra~štas - laukai~ ir beržy^nai, ir kal~vos.
+Lyg pražy^dę linai~ - ten~ pada^ngė gili`.
+Neužmir~štamas tė^viškės kva~pas ir spal~vos,
+Kai užmin~ga diena` - ir skaisti`, ir tyli`.
+Neužmir~štamos tė^viškės na~ktys raso^tos
+Su šlamė^jimu žîedo, su la~po šerkšnu`,
+Ir vari`niai beržy^nai, ir die~nos miglo^tos,
+Ir laukai~, išrašy^ti sida~bro šalnų~.
+My^liu aš gîesmę pa`prastą vy~turio ma~žo
+Melsvame` danguje` ant ari`mų pilkų~.
+My^liu aš gi`lią žie~mą, kur brai~žo ir ra~šo
+Ra~štą nuosta~bų ant ežerų~ ir langų~.
+63
+Aš ilgiúosi nublan~kusių lîepų prie so~do
+Ir karpy^tų klevų~, ir miegū^sto vanden~s,
+Ir čežė^jimo dal~gio - graudau~s ir vieno^do,
+Ir pava~sario ža~lio, ir pi`lko ruden~s.
+Bet labia^usiai ilgiúosi tav3s, mano lia^udie!
+Ska§ba ta`vo kalba` nuostabi` ausyse`,
+Ilgesi`nga daina` gau~džia vol ma^n kaip gau~dė, -
+Vol išvar~gusi ky~la lyg žîedas dvasia`.
+a^mžių sm3⁄4giai giliai~ ta`vo ve^idą išrai~žė,
+a~kys d3⁄4bso duobom nuo rûsčių~ sopulių~.
+Tave` prîešai kanki`no ir dra~skė, ir ai~žė -
+- Tai dėl to~ aš tav3s nemylė^t negaliu`.
+Aš gimiau~ tavyje`. Tavyje` a`š iša^ugau.
+Vîenas kū^nas ir krau~jas. Tu` - a`š, a`š - tai tu`.
+Su tavi§ šaknimi`s, šakomi`s aš sua^ugau, -
+Me~s kovo^sim drauge` ir laimė^sim kartu`.
+Antanas Venclova
+Suki`lėliai
+(Ištrauka)
+XI
+Antra` sava^itė bai~gėsi, kai Bagy^nų dva~ro valstie~čiai susikivir~čijo
+su dvarininku`. Nie~kur tuo metu` dva~ro laukuose` nepasiro^dė nė vîeno
+arto^jo, nie~kas su jo^kia prîevole nesisku`bino į dva~ro vai~tą ar prîevaizdą. Lau~ko darbų~ dva~ras da^r nelabai~ nė pasige~do. Po gražių~, saulė^tų
+balan~džio pradžio~s dienų~ o^ras staiga` pabju`ro. žiemių~ vė^jas dienomi`s
+va~rė žemu`s, pa^lšus de~besis su snie~go ir krušo~s g3⁄4siais, o naktimi`s,
+pragiedrė^jus dan~gui, šal~tis spi`rgino jau bepradė^jusius sklei~stis žîedus
+ir ja^unus krū^mų, beržų~ ir lîepų lapeliu`s.
+Su ba^ime valstie~čiai žiûrė^jo į atšiauriai~ apsinia^ukusį dan~gų, į
+64
+šalnų~ pakçstą žo~lę, į besibai~giantį daržinėse` paskuti`nį šie~no globį
+ir beny~kstančią vasaro^jaus šiaudų~ a~tsargą. Išvary^tos į lauku`s a~vys
+da^r šiai~p tai~p mi`to, la^ndžiodamos pakrū^mėmis ir padirviai~s, ja^učiai
+da^r šiai~p tai~p te^nkinosi rugi`nių ir aviži`nių šiaudų~ kra~tiniu, bet ka^rvės
+įdu`busiais šo^nais, atsiki`šusiais klu`bais, išsišo^vusiomis nu`garomis
+jau vo~s besilai~kė ant ko^jų. Panari`nusios ga^lvas, jos gai~liai my~kė ir,
+pe^rkreipusios aki`s, liûdnai~ žiûrė^jo į mo^teris, kurios ry^tą va~karą vi`s
+da^r atei~davo tampy^ti jų tuščių~ tešmenų~, bene` išgau~s la~šą pîeno.
+O iš pir~kių, prispa^udę nosy^tes prie padûma~vusių lange~lių,
+spokso^jo į kie~mą ir la^ukė pîeno išbadė^ję vaiku`čiai. Mo^tinos grñždavo
+į pir~kią, staty^davo mi`lžtuvę ant súolo, o vaikai~ skver~bdavosi prie
+jų~ su moli`niais puode~liais. Je^i koks gu`rkšnis milžtuvoj atsira`sdavo,
+pi`ldavo į buteliu`ką ir ne`šdavo jaunia^usiajam, kur gai~liai spie~gė
+lopšy~, maskatúodamas ran~komis ir ko^jomis. Je^i nė to gu`rkšnio
+nebū^davo, tai mo^tina pakramty^davo dúonos, kar~tais maišy^davo su
+aguo~nų pîenu, ri`šdavo į skudurolį ir dúodavo mažy^čiui čiul~pti.
+Go~džiai čiul~pdavo mažy^tis žindu`ką ir paskui~ miego^davo ligi pietų~.
+Trobose` ir kiemuose` nebu`vo jo^kio da^rbo. Nie~kas nenorė^jo
+nie~ko i§tis, nes diena` iš dieno~s la^ukė pagerė^jimo ir jau ti`kro, šį
+kar~tą pastovau~s darby^mečio pradžio~s. Tad kaimy^nai va^ikščiojo vieni`
+pas kitu`s, ištisomi`s valandomi`s sėdinė^jo pir~kiose, prîeklėčiuose,
+ja^ujose, stovinė^jo užu`vėjose, pypkia~vo, pe^rsimesdami vîenu kitu`
+žodžiu`, žiûrė^jo į dan~gų, spėlio^dami o^rą ry^tdienai. Reti` pra~giedruliai, kai sa^ulė jau aukštai~ paki`lusi staiga` žer~davo pro debesų~ ply~šį
+švieso~s ir šilumo~s sro~vę, arba` netikė^tai išsiblai~vę saulė^lydžiai
+suke^ldavo malo~nią vi`ltį, kad štai~ jau ry^t ga^l vė^jas pasikei~s, grñš giedra`
+ir šiluma`, da^rbas ir džiau~gsmas.
+Tokiomi`s pava~sario šilumo~s lauki`mo dienomi`s r3⁄4pesčio prikamúoti Bagy^nų valstie~čiai ir iš kitų~ so~džių omė lanky^tis vieni` pas
+kitu`s, y^pač je^i kokia` nepapraste`snė žinia` iš tolimesnių~ vie~tų pasîekdavo jų pirkia`s ir suke^ldavo čia drąso~s ir pasitikė^jimo, čia neviltie~s
+ir ba^imės.
+O gandų~ pradė^jo pli`sti kaskar~t vi`s daugiau~. Atei~davo žinių~ ne
+ti`k nuo Pa~nevėžio, Ukmergos, Rase^inių ir šiaulių~, bet ir iš tolimes
+65
+nių~ Lietuvo~s vie~tų - Zarasų~, Bi`ržų, Kau~no, ne`t iš Vi`lniaus, Paku`ršės,
+u`žnemunės ir to^limojo žemaiti`jos pajū^rio. Gandai~ ei~davo iš lū^pų į
+lū^pas, šliau~ždavo iš mieste~lio į mieste~lį, iš so~džiaus į so~džių. Vieni`
+ny~kdavo ir din~gdavo be gar~so, kiti` a^ugdavo lyg de~besys prieš au~drą.
+Atsira`sdavo žmonių~, kurie pa~tys ma~tė maišta^ujančių baudžia^uninkų minia`s, de~gančius dvaru`s, žu`domus ponu`s arba`, prîešingai, drag3⁄4nų
+nu`siaubtus ka^imus, ry^kštėmis mirtinai~ pla~kamus žmo^nes. Atsira`sdavo žino~vų, sa`vo ausimi`s girdė^jusių ti`krąją cie~soriaus gro~matą, sutei~kiančią žmonė^ms vi`sišką la^isvę ir jų di`rbamą že~mę be išpirki`mų, mo^kesčių ir prîevolių. Tokie~ ku`rstė, kad valstie~čiai nesudarinė^tų jokių~ sutarčių~ su dvarinin~kais, neapsii§tų jokių~ prîevolių, nestei~gtų val~sčių, nerin~ktų vai~tų ir seni3⁄4nų, nes vi`sa tai ve~da į bau~džiavos įa^mžinimą, į
+nauju`s lažu`s, į da^r dide`snį po~nų sauvalia~vimą 30 .
+Vîeną ša^ltą, vėjúotą po^pietę Balsių~ vy^rai, tė^vas ir abu`du sū^nûs,
+tri3⁄4sėsi klojime` ir ja^ujoje. čia` da^r nuo pe^reito ruden~s ir žiemo~s
+buvo užsili`kę viso^kių šapų~, spa~lių; lauke`, nugrebo^jus kie~mą ir pa~tvorius, riogso^jo šiu`kšlių ir stagarų~ kr3⁄4vos. Se~nis Balsy~s, žmogu`s taupu`s
+ir apdairu`s, lie~pė sûnu`ms vi`sa tai sutvarky^ti - kas tin~ka, sunaudo^ti
+pakrata^ms, kas ne` - sude~ginti ja^ujos kro^snyje.
+Besitriûsdami` nie~kas nepastebė^jo, kaip iš ga~tvės pro varteliu`s
+į kie~mą atsargiai~ įslin~ko keturi` augalo^ti vy^rai - du` žanda~rai ir du`
+poli`cininkai. žanda~rai pasili`ko prie var~tų, o poli`cininkai grei~tai
+púolė į ja^ują, kur prie kro^snies prit3⁄4pęs Pe~tras ku`rstė u`gnį. Nespė^jo
+ji`s nė apsižiûrė^ti, kaip poli`cininkai stvė^rė jį už ran~kų, užla^užė ja`s
+už nu`garos ir suri`šo vir~vagaliu. Ve^ltui Pe~tras kovo^jo ir šau~kė.
+Atbė^go žanda~rai, ir visi` keturi` ėmė te§pti su`imtąjį pro vartu`s į
+ga~tvę. Tuo ta^rpu pasiro^dė di`delis dviejų~ arklių~ per purvy^ną te§piamas veži`mas, kuriame`, be vežė^jo, sėdė^jo da^r vîenas poli`cininkas.
+Arklia^ms susto^jus, poli`cininkai ir žanda~rai suki`bę ñvertė Pe~trą į
+veži`mą. Surištomi`s ran~komis ji`s ne ką~ tegalė^jo prîešintis. Tė^vas ir
+bro^lis Vin~cas suglu`mę ir išsigan~dę žiûrė^jo, ka`s čia da~rosi. Vi`sa tai
+atsiti`ko tai~p grei~tai ir netikė^tai!
+30
+Bendrinėje kalboje bûdingesnė forma savavalia~vimas.
+66
+- Vin~cai! - vo~s suspė^jo šū^ktelėti Pe~tras. - Bė^k pas kaimy^nus,
+dúokit ži`nią į Palîepius.
+Su Palîepių Juozu` Prana^ičiu Pe~tras neseniai~ buvo ta~ręsis, ka`s
+rei~ktų dary^ti, je^i kurį no^rs poli`cija sučiu`ptų. Su`tarė nepasidúoti ir
+vîenas ki`tą ge^lbėti.
+įver~tę Pe~trą į veži`mą, abu`du žanda~rai atsisė^do iš šalių~, o poli`cininkai sto^jo iš abiejų~ veži`mo šo^nų. Vežė^jas suplîekė a^rklius, veži`mas
+sujudė^jo ir per purvy^ną žin~gine stū^mėsi dva~ro lin~k.
+Tuo ta^rpu Vin~cas įšo^ko pas Noreiku`s.
+- Pe~trą su`ėmė! - sušu`ko uždu`sęs.
+- Ka`s su`ėmė?.. Kur~ su`ėmė?.. Ką~ tu čia!..- sukle~go keli` balsai~.
+Vin~cas užsiry^damas omė pa~sakoti, kai~p vi`sa tai atsiti`ko. Pir~kioje, be savi`škių, bu`vo da^r Jankauskų~ Kazy~s, Kedulių~ Jo~nas ir Dzi`das
+Mo~rkus iš Kar~kliškių, drąsu`s vy^ras, labai~ neken~čiąs Skròdskio ir
+visų~ jo dvari`škių.
+Tuo pačiu` metu` įpúolė Katro 3n~  . Ji ma~tė, kas atsiti`ko ties Balsių~
+kiemu` ir kaip Vin~cas bė^go pas Noreiku`s.
+Bai~gus Vin~cui pa~sakoti, Katro, grąžy^dama ranka`s, sušu`ko:
+- Vy^kitės!.. Ati§kit!.. Jį užpla`ks Skròdskis negyvai~!
+Visi` pašo^ko iš vie~tų, visi` kartu` omė kalbė^ti, šau~kti, gin~čytis:
+- Kai~p ati§ti?.. Mu`štis su žanda~rais?!. Ar įvei~ksime? šau~s!..
+Vy^rai, vy^kimės raiti`! Užúolankom!.. į Kar~kliškius dúoti ži`nią!.. Lok
+į Palîepius, Vin~cai!.. Dzi`das į Palîepius!.. Nesuspė^sime - va~karas!
+Katro neatsto^jo nuo Dzi`do Mo~rkaus:
+- Dzi`dai, tu` dary^k ką no^rs. Be tav3s čia nie~ko nebu`s. Pai§k
+Vin~cą ir Jankauskų~ Ka~zį, jo^kite į Palîepius. Prana^itis pados. Jûs
+visi` tokie~ geri` draugai~. Prie jū^sų ir kiti` prisidos. Skròdskis tai~p neken~čia Pe~tro! Užpla`ks, užkankin~s!..
+a~šaros pasiro^dė jos akyse`.
+Dzi`das, atsiromęs pečiai~s į sîeną, paniu`ręs, įbe~dęs aki`s į že~mę,
+kažką~ sun~kiai mą~stė, ne`t jo kakta` išraso^jo. Staiga` ki`lstelėjo ga^lvą ir
+paguodžiamai~ su`davė Katry^tei per pe~tį.
+3n~
+Leidžiama kirčiuoti dvejopai: Ka~trė ir Katro.
+67
+- Nežliu§bk! žinau~, ką padary^sim. Nebijo^k, me~s jį išlu`psim
+ir iš patie~s ve^lnio nagų~!
+Dzi`do akyse` spindė^jo narsa` ir pasiryži`mas.
+- Vy^rai! - sušu`ko jis, nustel~bdamas kitu`s. - Lai~ko tu`rim nedau~g. Je^i neatmu`šim jo kelyje`, tai tu`rim ben~t sutrukdy^ti, kad jie~
+kuo vėlia^usiai pasîektų dva~rą. Na~ktį jo~ nepla`ks, o iki ry^to me~s sa`vo
+padary^sim. Vin~cai, Kazy~, na` kas da^r? Jo~nai, sė^skit ant arklių~ ir
+ma^ukit papîeviais užúolankom jîems už akių~. Suspė^sit. Ko~l jie apvažiuo~s aplin~kui per purvy^ną, jûs bū^sit jau ten~. ži`not, už krū^mų
+per grio~vį yra tilte~lis. Grei~t jį nuardy^kit. Griovy~s dabar pi`lnas vanden~s. Ten~ jie susto~s. Kirviu`s pasii§kit. Grei~tai! Tiesio^g papîeviais.
+Vîenas du`mkit į Palîepius pas Prana^itį. O me~s jiems iš pasko~s.
+Balsių~ Vin~cas, Jankauskų~ Kazy~s ir Kedulių~ Jo~nas, Katros ir
+Ony^tės padedami`, stvė^rė kirviu`s ir da^lbą, sė^do ant arklių~ ir nukū^rė
+papîeviais.
+žinia`, kad su`ėmė ir i`švežė Balsių~ Pe~trą, jau apskri`do vi`są so~džių.
+žmo^nės bûria~vosi vieni` prie Balsių~, kiti` prie Noreikų~. Mo^terys
+gar~siai klegė^jo ir aimana~vo, vy^rai spie~tėsi apie Dzi`dą, nes ji`s buvo
+ži`nomas kaip sumanu`s vy^ras ir jo ryžtingu`mas visîems pati`ko.
+Ka^imas grėsmi`ngai d3⁄4zgė kaip paki`ršintas bi`čių avily~s. Nebu`vo
+kie~mo, iš kurio~ kas no^rs nebū^tų išbė^gęs į Balsiu`s ar Noreiku`s. Tik
+Sta~šio kie~mas atro^dė kaip išmi`ręs. Nie~kas nepasiro^dė lauke`, nie~kas
+neknapso^jo prie tvoro~s ar var~tų. Bet pa`ts Stašy~s pro k3⁄4tės sçsparą
+atsargiai~ stebė^jo, ka`s čia da~rosi pas kaimy^nus.
+Tuo ta^rpu Dzi`das išsirin~ko iš no^rinčių penki`s vy^rus vy^tis poli`cijos veži`mo ir iš to^lo jo se`kti, nepale^idžiant iš akių~. Ka`s už júostos
+užsiki`šo kir~vį, ka`s sugrai~bstė kastu`vą, ka`s šiai~p ba~slį ir po tri`s iš
+abiejų~ ke~lio šo^nų spar~čiai nužingsnia~vo link dva~ro.
+Sa^ulė jau bu`vo netoli` laido~s. Vakarų~ dangu`s, kaip dažnai~ tomi`s
+dienomi`s, prieš na~ktį omė giedrė^ti. Pro blankia`s debesų~ pro^peršas
+lîejosi kaip a^uksas žėrúojančios saulė^lydžio ža~ros. ša~lo. Sky^stas
+ke~lio ma~daras sti`ngo, balu`tės den~gėsi plony^te, bruožúota le~do žievele`. Ei~ti ke~lio pakraščiai~s da~rėsi lengviau~; ko^ja jau nebegri§zdo
+ir nebeslidinė^jo, o pur~vas nebeki`bo prie a~pavo. šeši` vy^rai spar~čiai
+68
+žingsnia~vo, stengdamîesi 32  ei~ti tai~p, kad pakelos me~džių kamîenai
+ir krū^mai priden~gtų juo~s nuo bet kieno~ me~sto į ke~lią žvil~gsnio.
+Po kurio~ lai~ko jie pama~tė priešaky~ ke~lio vi`duriu ju`dantį veži`mą.
+Sun~kiai jis slin~ko prîekin, vo~s išplė^šdamas ratu`s iš sti`ngstančio
+purvy^no. šeši` vy^rai sulotino žingsniu`s. Vežime`, be vežė^jo, sėdė^jo
+trise`, kiti` try~s tapno^jo iš šalių~.
+Dzi`das grėsmi`ngai mo^stelėjo sa`vo basliu`.
+- Vy^rai, - ta~rė pakuždomi`s, - me~s juos pai§tume plikomi`s
+ran~komis.
+  - Kad ti`k anie~ suspė^tų tilte~lį nuardy^ti, - atsi`liepė Noreika`.
+Dzi`das dėl to~ nė kîek neabejo^jo:
+- Suspos. Tikria^usiai jau jie~ dabar~ tenai~.
+Veži`mas vo~s vo~s judė^jo. Bu`vo girdė^ti, kaip vežė^jas ke^ikia ir
+mu`ša a^rklius. Du` iš sėdė^jusių vežime` vy^rų išli`po, kad arklia^ms bū^tų
+lengviau~. Dzi`do šešiu`kė 33  sta`btelėjo po me~džiais, kad anie~ kiek
+nuto~ltų. Ke~lias buvo vi`siškai tu`ščias, p3⁄4tė žvarbu`s vė^jas, vakaruose`
+debesų~ pro^peršos prasi`plėtė, ir pro vîeną ky^štelėjo raudo^nas kaip
+žarija` sa^ulės kra~štas. Bet že~mėje nuo to~ pasida~rė da^r tamsiau~ ir
+nykiau~. Didžiu`liai juodi` šešė^liai nusi`driekė laukai~s ir pîevomis, o
+vi`sas slėny~s 34  , kuriuo ojo ke~lias, pasken~do sutemose`.
+Po^sûkyje veži`mas išny~ko iš akių~. še~šetas vy^rų vol paspar~tino
+žingsniu`s. Už po^sûkio ke~lias din~go krū^muose. Veži`mo nebu`vo
+maty^ti, bet a^iškiai buvo girdė^ti vežė^jo bal~sas, bota~go pliaukšė^jimas
+ir arklių~ prunkšti`mas.
+Po valandolės vy^rai lengviau~ atsi`kvėpė. Jie pasîekė pîevą su
+tankiai~s al~ksnių ir kar~klų krū^mais. čia` bu`vo len~gva nepastebė^tiems
+se`kti veži`mą. Griovy~s ir tilte~lis turė^jo bū^ti jau nebetoli`.
+Stai`ga iš kar~klų krū^mo išni`ro Balsių~ Vin~cas.
+- Na kai~p? - kla^usė Dzi`das, - pavy~ko?
+- Pavy~ko, - atsa~kė pašnibždomi`s Vin~cas. Ji`s buvo regimai~ susija^udinęs, ne`t jo ran~kos virpė^jo, gnia^užydamos la~zdą.
+32 Bendrinės kalbos kirčiavimo norma yra ste^ngdamiesi.
+33 Bendrinės kalbos norma yra še~šetas.
+34 Dabar teikiama bendrinės kalbos norma slonis.
+69
+- Kîek ten~ jū^sų?
+- Penkîese.
+- Prana^itis yra`?
+- Yra`. Krū^muose, pakelė~j, netoli` tilte~lio.
+Dzi`das susta~bdė saviškiu`s.
+- Vy^rai, ka`s tu`rit pei~lį?
+Pei~lį turė^jo Vin~cas.
+- Gerai~. Kai me~s grie~bsim žandaru`s ir poli`ciją, tu šo^k prie
+Pe~tro ir pe^rpjauk virve`s.
+Visi` susi`kaupė, suka^ndo danti`s, suspa^udė lazda`s. Noreika` išsitra^ukė kir~vį. Bet Dzi`das visu`s įspė^jo:
+- Vy^rai, sa^ugokitės, mirtinai~ nemu`škit. Bus mažiau~ bėdo~s. Ir
+rei~kalo nėra`. žiûrė^kit, kad neša^utų. čiu`pkit pištalietu`s. Kai tik
+Pe~tras bus lai~svas, atgal~ į krū^mus ir kas sa^u. Vin~cai, ei~k pas saviškiu`s. Pala^ukit mū^sų. Vieni` nepradė^kit. Klausy^kit, kada` suū^baus
+pelė^da. Tai bus že^nklas.
+Vin~cas din~go krū^muose, o šeši` vy^rai atsargiai~, iš to^lo apeidami`
+veži`mą, spar~čiai tra^ukė prie grio~vio. Pasi`slėpė kar~kluose ir alksne~liuose arti` ke~lio ir to~s vie~tos, kur bu`vo tilte~lis. Tik rą~stai, pagaliai~ ir len~tgaliai 35  mė^tėsi ant kran~to. Griovy~s, dve~jeto sîeksnių plo~čio,
+pi`lnas gurguliúojančio vanden~s, dabar~ suda~rė nenu`galimą kliū^tį tiek
+pėsčia^m, tiek važiúotam. Sa^ulė nusile^ido, slonį den~gė tiršta` prîeblanda.
+Netru`kus pasiro^dė veži`mas ir susto^jo prie grio~vio. Pasigir~do
+keiksmai~ ir šū^kavimai:
+- Ka`s per ve^lnias!.. Ti`lto nė^ra! Vanduo~ nugrio^vė?.. Na` ir
+tvarka`!.. Ka`s dabar~ dary^t? Êch, ru`pûžės!
+žanda~rai ir poli`cininkai susto^jo prie grio~vio kran~to, pasilenkdami` žiûrė^jo į va^ndenį, sa^mprotavo ir ta~rėsi, užmir~šę vežime` pa`liktą
+belai~svį.
+Staiga` krū^muose suū^bavo pelė^da. Vîenu metu` bûry~s vy^rų, kaip
+iš že~mės išdy^gę, púolė prie grio~vio sto^vinčius. Tą pa`t aki`mirką du` žanda~rai kûliai~s nuvir~to į va^ndenį, o kiti` bejogiškai tą~sėsi su
+apspi`tusiais juos užpuoli`kais.
+Vin~cas šo^ko prie veži`mo ir pe^rpjovė vir~vę ant bro^lio ran~kų.
+Pe~tras išsi`vertė iš sėdy~nės, púolė prie besiru`ngiančių, stvė^rė poli`cininką į globį ir toškė į grio~vį. Bet čia` nuskardė^jo švilpesy~s. Prana^itis
+su Dzidu` ti`mptelėjo į ša~lį kovo~s į^niršiu užside~gusį Pe~trą, kiti` taip
+pa`t šo^ko atgal~ į krū^mus, subraškė^jo ša~kos, sudundė^jo že~mė po
+arklių~ kano^pomis. Užpuoli`kai kaip vaiduo~kliai žu`vo sutirštė^jusioje va~karo sutemoje`.
+Iš grio~vio išsika~pstę sargy^biniai kale~no dantimi`s, šokinė^jo,
+pu`rtėsi, mostaga~vo ran~komis, grasi`no nežinia` ka^m ir ke^ikė paskuti`niais žo~džiais. Kai~p pe^rsikraustyti į aną~ pu`sę per tą prake^iktą
+grio~vį ir pasîekti dva~rą? Jis čia pa`t, netolîese. Pagaliau~ pavy~ko pe^rdėti
+per grio~vį vîeną iš li`kusių rą~stų ir pe^rsikelti į aną~ kran~tą. Vežė^jas
+pasu`ko atgal~ ieško^ti aplin~kinio ke~lio.
