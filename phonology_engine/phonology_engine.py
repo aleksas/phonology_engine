@@ -16,8 +16,9 @@ class PhonologyEngine:
                 return output
 
         self.collapsor = _collapsor
+        self.phrase_separators = _phrase_separators
 
-    def _process(self, text, separators=_phrase_separators, normalize=True, include_syllables=True, normalize_only=False):
+    def _process(self, text, separators, normalize=True, include_syllables=True, normalize_only=False):
         text = text.strip()
         if len(text) == 0:
             return text
@@ -75,10 +76,10 @@ class PhonologyEngine:
         return _valid_word_formats
 
     def process(self, s, include_syllables=False):
-        return self._process(s.upper(), normalize=True, include_syllables=include_syllables, normalize_only=False)
+        return self._process(s.upper(), separators=self.phrase_separators, normalize=True, include_syllables=include_syllables, normalize_only=False)
 
     def process_and_collapse(self, s, word_format='word', normalize=True, include_syllables=False):
-        return self.collapse(self._process(s, normalize=normalize, include_syllables=include_syllables, normalize_only=False), word_format)
+        return self.collapse(self._process(s, separators=self.phrase_separators, normalize=normalize, include_syllables=include_syllables, normalize_only=False), word_format)
 
     def collapse(self, output, word_format='word'):
         if word_format not in _valid_word_formats:
@@ -96,9 +97,9 @@ class PhonologyEngine:
             return self.collapsor(output)
 
     def normalize(self, text):
-        return self._process(text.upper(), normalize=True, include_syllables=False, normalize_only=True)
+        return self._process(text, separators=self.phrase_separators, normalize=True, include_syllables=False, normalize_only=True)
 
     def normalize_and_collapse(self, text):
-        return self.collapse(self._process(text.upper(), normalize=True, include_syllables=False, normalize_only=True))
+        return self.collapse(self._process(text, separators=self.phrase_separators, normalize=True, include_syllables=False, normalize_only=True))
 
 

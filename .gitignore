@@ -1,6 +1,8 @@
 bin/*
 build/*
 dist/*
+phonology_engine/.noseids
+phonology_engine/.vscode/
 phonology_engine.egg-info/
 phonology_engine/Linux_x86/
 phonology_engine/Linux_x86_64/
@@ -9,5 +11,3 @@ phonology_engine/Win64_x64/
 phonology_engine/__pycache__/
 __pycache__/
 nosetests.xml
-
-

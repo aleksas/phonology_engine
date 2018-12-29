@@ -58,3 +58,15 @@ def test_normalize_and_collapse_text_1():
     pe = PhonologyEngine()
     res = pe.normalize_and_collapse(u'1 žmogus. Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
     assert_equal(res, u'VIENAS ŽMOGUS. IŠTIKIMA SAVO DVASINIAM IR DOROVINIAM PAVELDUI SĄJUNGA REMIASI NEDALOMOMIS IR VISUOTINĖMIS VERTYBĖMIS: LABA DIENA. KUR BUVAI?')
+
+def test_normalize_and_collapse_abbr_1():
+    pe = PhonologyEngine()
+    pe.phrase_separators = ''
+    res = pe.normalize_and_collapse(u'proc.')
+    assert_equal(res, u'PROCENTAS')
+
+def test_normalize_and_collapse_text_roman_num_1():
+    pe = PhonologyEngine()
+    pe.phrase_separators = ''
+    res = pe.normalize_and_collapse(u'IV.')
+    assert_equal(res, u'KETVIRTAS')
