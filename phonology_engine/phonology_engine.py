@@ -30,11 +30,14 @@ class PhonologyEngine:
                     processed_phrases = []
 
                     if normalize_only:
-                        return ('', [' '.join(normalized_phrases)])
+                        return ('', [' '.join([p for p,_ in normalized_phrases])])
                     else:
-                        for phrase in normalized_phrases:
+                        r = []
+                        for phrase, letter_map in normalized_phrases:
                             processed_phrases.append(self._process(text=phrase, separators=separators, normalize=False, include_syllables=include_syllables, normalize_only=normalize_only))
-                        return ('', processed_phrases, list(normalized_phrases))
+                            r.append((phrase, letter_map))
+
+                        return ('', processed_phrases, r)
                         
             else:
                 if len(text) > _max_prase_length:
