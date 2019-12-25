@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
-VERSION = '0.1.15'
+VERSION = '0.1.16'
 RELEASE = '4'
