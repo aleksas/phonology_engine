@@ -37,12 +37,21 @@ class PhonologyEngineNormalizedPhrases:
             letter_map = self.get_phrase_letter_map(self.current)
 
             if self.remove_stress_chars:
-                for c in _stress_ascii_chars:
-                    value = value.replace(c, '')
+                remove_indeces = []
+                for i, c in enumerate(value):
+                    if c in _stress_ascii_chars:
+                        remove_indeces.append(i)
 
             if self.remove_syllable_chars:
-                for c in _syllable_chars:
-                    value = value.replace(c, '')
+                for i, c in enumerate(value):
+                    if c in _syllable_chars:
+                        remove_indeces.append(i)
+
+            remove_indeces.sort(reverse=True)
+
+            for i in remove_indeces:
+                value = value[:i] + value[i+1:]
+                letter_map = letter_map[:i] + letter_map[i+1:]
 
             self.current += 1
             return value, letter_map
