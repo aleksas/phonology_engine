@@ -7,6 +7,7 @@ import re
 _phrase_separators = '.?!;:\r\n,'
 _max_prase_length = 200
 _valid_word_formats = [None, 'word', 'word_with_syllables', 'word_with_all_numeric_stresses', 'word_with_only_multiple_numeric_stresses', 'number_stressed_word', 'utf8_stressed_word', 'ascii_stressed_word']
+_pattern_normalized_words = re.compile(u'[A-ZĄ-Ž]+')
 
 class PhonologyEngine:
     def __init__(self):
@@ -45,7 +46,7 @@ class PhonologyEngine:
             return res
 
     def _get_norm_index_spans(self, letter_map):
-        span_first, span_last = -1, -1
+        span_first = -1
         last_v = None
         for i, v in enumerate(letter_map):
             if v != last_v or i == len(letter_map) - 1:
@@ -54,16 +55,67 @@ class PhonologyEngine:
                 span_first = i
             last_v = v
 
+
+    # deprecated - unncessary span grouping
+    def _get_word_mappings_ex(self, normalized_phrase, letter_map, offset_source=0, offset_normalized=0):
+        map_length = len(letter_map)
+        span_first = map_length
+        last_pair = None
+        for i, v in enumerate(letter_map):
+            is_last = i == map_length - 1
+            if normalized_phrase[i] == ' ' or is_last:
+                if is_last:
+                    i += 1
+                if i - span_first >= 1:
+                    pair = (letter_map[span_first] + offset_source, letter_map[i - 1] + 1 + offset_source), (span_first + offset_normalized, i + offset_normalized)
+
+                    if last_pair:
+                        if last_pair[0] == pair[0]:
+                            last_pair = last_pair[0], (last_pair[1][0], pair[1][1])
+                        else:
+                            yield last_pair
+                            last_pair = pair
+                    else:
+                        last_pair = pair
+
+                span_first = i + 1
+
+        if last_pair:
+            yield last_pair
+
+    def _get_word_mappings(self, normalized_phrase, letter_map, offset_source=0, offset_normalized=0):
+        if len(normalized_phrase) != len(letter_map):
+            t = ''.join([pair[0] + str(pair[1]) for pair in zip(normalized_phrase, letter_map)])
+            raise Exception("Phrase length differs from phrase letter map length (%d != %d)." % (len(normalized_phrase), len(letter_map)))
+        mappings = []
+        normalized_words = []
+
+        span_first = 0
+        map_length = len(letter_map)
+        for i, _ in enumerate(letter_map):
+            is_last = i == map_length - 1
+            if normalized_phrase[i] == ' ' or is_last:
+                if is_last:
+                    i += 1
+                if i - span_first >= 1:
+                    mapping = (letter_map[span_first], letter_map[i - 1] + 1), (span_first, i)
+                    offsetted_mapping = (mapping[0][0] + offset_source, mapping[0][1] + offset_source), (mapping[1][0] + offset_source, mapping[1][1] + offset_source)
+                    mappings.append( offsetted_mapping )
+                    normalized_words.append( normalized_phrase[mapping[1][0]:mapping[1][1]])
+                span_first = i + 1
+
+        return mappings, normalized_words
+
     def _process(self, text, separators, normalize=True, include_syllables=True, normalize_only=False, letter_map=None):
-        pattern = re.compile(r'[^%s]+' % separators)
+        p = ('[^' + re.escape(separators) + ']+') if separators else '^.*$'
+        pattern = re.compile(p)
         if len(text.strip()) == 0:
             yield text
 
         last_span_end = 0
+        offset_normalized = 0
         for m in pattern.finditer(text):
             span = m.span()
-            if span[0] > last_span_end:
-                yield text[last_span_end, span[0]]
             last_span_end = span[1]
             phrase = m.group()
 
@@ -71,20 +123,35 @@ class PhonologyEngine:
                 handle = phonology_engine_normalize_text(phrase)
                 with PhonologyEngineNormalizedPhrases(handle) as normalized_phrases:
                     if normalize_only:
-                        yield ' '.join([p for p,_ in normalized_phrases])
+                        for normalized_phrase, letter_map in normalized_phrases:
+                            word_mappings, words = self._get_word_mappings(normalized_phrase, letter_map, span[0], offset_normalized)
+                            offset_normalized += len(normalized_phrase)
+                            processed_phrase = []
+                            
+                            for (orig, norm), word in zip(word_mappings, words):
+                                d = {
+                                    'span_source': orig,                   
+                                    'span_normalized': norm
+                                }
+                                d.update( { k:word for k in _valid_word_formats if k} )
+                                processed_phrase.append(d)
+                            yield processed_phrase, phrase, normalized_phrase, letter_map
                     else:
-                        for nornalized_phrase, letter_map in normalized_phrases:
-                            if len(nornalized_phrase) != len(letter_map):
-                                t = ''.join([pair[0] + str(pair[1]) for pair in zip(nornalized_phrase, letter_map)])
-                                print (t)
-                                raise Exception("Phrase length differs from phrase letter map length (%d != %d)." % (len(nornalized_phrase), len(letter_map)))
+                        for normalized_phrase, letter_map in normalized_phrases:
+                            word_mappings, _ = self._get_word_mappings(normalized_phrase, letter_map, span[0], offset_normalized)
+                            offset_normalized += len(normalized_phrase)
 
-                            processed_phrase = self._process_phrase(nornalized_phrase, include_syllables)
+                            processed_phrase = self._process_phrase(normalized_phrase, include_syllables)
+                            if len(processed_phrase) != len(word_mappings):
+                                raise Exception("Word span calculation incosistent.")
 
-                            yield processed_phrase, phrase, nornalized_phrase, letter_map
+                            for i, (orig, norm) in enumerate(word_mappings):
+                                processed_phrase[i]['span_source'] = orig
+                                processed_phrase[i]['span_normalized'] = norm
+                                
+                            yield processed_phrase, phrase, normalized_phrase, letter_map
             else:
                 processed_phrase = self._process_phrase(phrase, include_syllables)
-
                 yield processed_phrase, phrase, phrase, list(range(len(phrase)))
 
     def get_collapse_formats(self):
@@ -94,19 +161,24 @@ class PhonologyEngine:
         return self._process(s.upper(), separators=self.phrase_separators, normalize=True, include_syllables=include_syllables, normalize_only=False)
 
     def process_and_collapse(self, s, word_format='word', normalize=True, include_syllables=False):
-        return self.collapse(self._process(s, separators=self.phrase_separators, normalize=normalize, include_syllables=include_syllables, normalize_only=False), word_format)
+        return self.collapse(s, self._process(s, separators=self.phrase_separators, normalize=normalize, include_syllables=include_syllables, normalize_only=False), word_format)
 
-    def collapse(self, output, word_format='word'):
+    def collapse(self, original_text, output, word_format='word'):
         if word_format not in _valid_word_formats:
             raise Exception('Invalide word format "%s". Can be one of: %s.' % (word_format, str(_valid_word_formats)))
 
-        res = ''
-        for element in output:
+        res = str(original_text)
+        output_reversed = reversed(list(output))
+        for element in output_reversed:
             if isinstance(element, tuple):
-                processed_phrase, phrase, normalized_phrase, letter_map = element
-                res += self.collapsor(processed_phrase, phrase, normalized_phrase, letter_map, word_format)
+                processed_phrase, _, _, _ = element
+
+                for word_details in reversed(processed_phrase):
+                    start, end = word_details['span_source']
+                    res = res[:start] + word_details[word_format] + res[end:]
+                    
             else:
-                res += element
+                res = element + res
         
         return res
 
@@ -114,6 +186,6 @@ class PhonologyEngine:
         return self._process(text, separators=self.phrase_separators, normalize=True, include_syllables=False, normalize_only=True)
 
     def normalize_and_collapse(self, text):
-        return self.collapse(self._process(text, separators=self.phrase_separators, normalize=True, include_syllables=False, normalize_only=True))
+        return self.collapse(text, self._process(text, separators=self.phrase_separators, normalize=True, include_syllables=False, normalize_only=True))
 
 
