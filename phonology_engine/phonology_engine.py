@@ -134,7 +134,7 @@ class PhonologyEngine:
         if word_format not in _valid_word_formats:
             raise Exception('Invalide word format "%s". Can be one of: %s.' % (word_format, str(_valid_word_formats)))
 
-        res = str(original_text)
+        res = original_text
         output_reversed = reversed(list(output))
         for element in output_reversed:
             if isinstance(element, tuple):
