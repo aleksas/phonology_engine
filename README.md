@@ -77,6 +77,7 @@ Would result in
 ```
 ... 
 {'ascii_stressed_word': 'TRI`SDEŠIMT VI^ENAS',
+ 'normalized': True,
  'number_stressed_word': 'TRI0SDEŠIMT VI1ENAS',
  'span_normalized': (0, 17),
  'span_source': (0, 2),
@@ -90,6 +91,7 @@ Would result in
  'word_with_only_multiple_numeric_stresses': 'TRISDEŠIMT VIENAS',
  'word_with_syllables': 'TRI-SDE-ŠIMT VIE-NAS'}
 {'ascii_stressed_word': 'kačiu`kas',
+ 'normalized': True,
  'number_stressed_word': 'kačiu0kas',
  'span_normalized': (18, 26),
  'span_source': (3, 11),
@@ -108,6 +110,7 @@ Would result in
  'word_with_only_multiple_numeric_stresses': 'kačiukas',
  'word_with_syllables': 'ka-čiu-kas'}
 {'ascii_stressed_word': 'pe^rbėgo',
+ 'normalized': False,
  'number_stressed_word': 'pe1rbėgo',
  'span_normalized': (27, 34),
  'span_source': (12, 19),
@@ -122,6 +125,7 @@ Would result in
  'word_with_only_multiple_numeric_stresses': 'perbėgo',
  'word_with_syllables': 'per-bė-go'}
 {'ascii_stressed_word': 'ke~lią',
+ 'normalized': False,
  'number_stressed_word': 'ke2lią',
  'span_normalized': (35, 40),
  'span_source': (20, 25),
