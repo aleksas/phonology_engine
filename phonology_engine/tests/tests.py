@@ -57,7 +57,7 @@ def test_normalize_text_1():
 def test_normalize_and_collapse_text_1():
     pe = PhonologyEngine()
     res = pe.normalize_and_collapse(u'1 žmogus. Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
-    assert_equal(res, u'VIENAS ŽMOGUS. Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
+    assert_equal(res, u'VIENAS žmogus. Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
 
 def test_normalize_and_collapse_text_2():
     pe = PhonologyEngine()

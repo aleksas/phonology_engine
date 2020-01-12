@@ -117,8 +117,10 @@ class PhonologyEngine:
                 offset += 1
                 new_word += l
                 continue
-            if l.lower() != orig_word[i - offset].lower():
-                raise Exception('%s incosistent with %s' % (word, orig_word))
+            
+            # 
+            #if l.lower() != orig_word[i - offset].lower():
+            #    raise Exception('%s incosistent with %s' % (word, orig_word))
 
             new_word += orig_word[i - offset]
 
