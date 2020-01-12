@@ -1,12 +1,22 @@
 # -*- coding: utf-8 -*-
 from os.path import join, dirname, abspath
 from .pe_output import PhonologyEngineOutput, PhonologyEngineNormalizedPhrases
+from .pe_output import _syllable_chars, _numeric_stress_map, _utf8_stress_map, _ascii_stress_map
 from .pe_native import phonology_engine_process_phrase, phonology_engine_normalize_text
 import re
 
 _phrase_separators = '.?!;:\r\n,'
 _max_prase_length = 200
-_valid_word_formats = [None, 'word', 'word_with_syllables', 'word_with_all_numeric_stresses', 'word_with_only_multiple_numeric_stresses', 'number_stressed_word', 'utf8_stressed_word', 'ascii_stressed_word']
+_word_format_symbols = {
+    None:'',
+    'word': '',
+    'word_with_syllables': _syllable_chars,
+    'word_with_all_numeric_stresses': [_syllable_chars] + list(_numeric_stress_map.values()),
+    'word_with_only_multiple_numeric_stresses': _numeric_stress_map.values(),
+    'number_stressed_word': _numeric_stress_map.values(),
+    'utf8_stressed_word': _utf8_stress_map.values(),
+    'ascii_stressed_word': _ascii_stress_map.values()
+}
 
 class PhonologyEngine:
     def __init__(self):
@@ -100,7 +110,7 @@ class PhonologyEngine:
                                     'span_source': orig,                   
                                     'span_normalized': norm
                                 }
-                                d.update( { k:word for k in _valid_word_formats if k} )
+                                d.update( { k:word for k in _word_format_symbols if k} )
                                 processed_phrase.append(d)
                             yield processed_phrase, phrase, normalized_phrase, letter_map
                     else:
@@ -122,7 +132,7 @@ class PhonologyEngine:
                 yield processed_phrase, phrase, phrase, list(range(len(phrase)))
 
     def get_collapse_formats(self):
-        return _valid_word_formats
+        return _word_format_symbols.keys()
 
     def process(self, s, include_syllables=False):
         return self._process(s.upper(), separators=self.phrase_separators, normalize=True, include_syllables=include_syllables, normalize_only=False)
@@ -131,7 +141,7 @@ class PhonologyEngine:
         return self.collapse(s, self._process(s, separators=self.phrase_separators, normalize=normalize, include_syllables=include_syllables, normalize_only=False), word_format)
 
     def collapse(self, original_text, output, word_format='word'):
-        if word_format not in _valid_word_formats:
+        if word_format not in _word_format_symbols:
             raise Exception('Invalide word format "%s". Can be one of: %s.' % (word_format, str(_valid_word_formats)))
 
         def consolidate_phrase_words(phrase):
@@ -146,14 +156,32 @@ class PhonologyEngine:
                             max(last_word_details['span_normalized'][1], word_details['span_normalized'][1]),
                         )
 
-                        for word_format in _valid_word_formats:
+                        for word_format in _word_format_symbols.keys():
                             if word_format:
                                 last_word_details[word_format] += ' ' + word_details[word_format]
                     else:
                         yield last_word_details
                         last_word_details = word_details
             if last_word_details:
-                yield last_word_details                
+                yield last_word_details
+
+        def recover_casing(phrase, word, word_format, span_orig, span_norm):
+            if span_norm != span_orig:
+                return word
+            offset = 0
+            orig_word = phrase[span_orig[0]: span_orig[1]]
+            new_word = ''
+            for i, l in enumerate(list(word)):
+                if l in _word_format_symbols[word_format]:
+                    offset += 1
+                    new_word += l
+                    continue
+                if l.lower() != orig_word[i - offset].lower():
+                    raise Exception('%s incosistent with %s' % (word, orig_word))
+
+                new_word += orig_word[i - offset]
+
+            return new_word
 
         res = original_text
         output_reversed = reversed(list(output))
@@ -162,7 +190,7 @@ class PhonologyEngine:
 
             for word_details in reversed(list(consolidate_phrase_words(processed_phrase))):
                 start, end = word_details['span_source']
-                res = res[:start] + word_details[word_format] + res[end:]
+                res = res[:start] + recover_casing(original_text, word_details[word_format], word_format, word_details['span_source'], word_details['span_normalized']) + res[end:]
         
         return res
 
