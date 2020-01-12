@@ -43,8 +43,8 @@ class PhonologyEngine:
                     'number_stressed_word': output.get_word_with_numeric_stress(i, include_syllables=include_syllables),
                     'utf8_stressed_word': output.get_word_with_utf8_stress(i, include_syllables=include_syllables),
                     'ascii_stressed_word': output.get_word_with_ascii_stress(i, include_syllables=include_syllables),
-                    'word_with_all_numeric_stresses' :output.get_word_with_all_numeric_stresses(i, include_syllables=include_syllables),
-                    'word_with_only_multiple_numeric_stresses' :output.get_word_with_only_multiple_numeric_stresses(i, include_syllables=include_syllables),
+                    'word_with_all_numeric_stresses': output.get_word_with_all_numeric_stresses(i, include_syllables=include_syllables),
+                    'word_with_only_multiple_numeric_stresses': output.get_word_with_only_multiple_numeric_stresses(i, include_syllables=include_syllables),
                     'syllables': output.get_word_syllables(i),
                     'stress_options': output.get_word_stress_options(i)
                     }
@@ -165,7 +165,8 @@ class PhonologyEngine:
             if last_word_details:
                 yield last_word_details
 
-        def recover_casing(phrase, word, word_format, span_orig, span_norm):
+        def recover_casing(phrase, word_details, word_format, span_orig, span_norm):
+            word = word_details[word_format]
             if span_norm != span_orig:
                 return word
             offset = 0
@@ -190,7 +191,7 @@ class PhonologyEngine:
 
             for word_details in reversed(list(consolidate_phrase_words(processed_phrase))):
                 start, end = word_details['span_source']
-                res = res[:start] + recover_casing(original_text, word_details[word_format], word_format, word_details['span_source'], word_details['span_normalized']) + res[end:]
+                res = res[:start] + recover_casing(original_text, word_details, word_format, word_details['span_source'], word_details['span_normalized']) + res[end:]
         
         return res
 
