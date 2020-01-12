@@ -136,6 +136,55 @@ class PhonologyEngine:
 
             yield word_details
 
+    def _consolidate_normalized_words(self, phrase):
+        last_word_details = None
+        for word_details in phrase:
+            if last_word_details == None:
+                last_word_details = word_details
+            else:
+                if word_details['span_source'] == last_word_details['span_source']:
+                    last_word_details['span_normalized'] = (
+                        min(last_word_details['span_normalized'][0], word_details['span_normalized'][0]),
+                        max(last_word_details['span_normalized'][1], word_details['span_normalized'][1]),
+                    )
+
+                    for word_format in _word_format_symbols.keys():
+                        if word_format:
+                            last_word_details[word_format] += ' ' + word_details[word_format]
+                else:
+                    yield last_word_details
+                    last_word_details = word_details
+        if last_word_details:
+            yield last_word_details
+    
+    def _recover_casing(self, original_text, word_details, word_format, span_orig, span_norm):
+        word = word_details[word_format]
+        span_length = lambda span: span[1] - span[0]
+        
+        # theck is not universal, sometimes normalized word length corresponds to the original
+        if span_length(span_norm) != span_length(span_orig):
+            return word
+        offset = 0
+        orig_word = original_text[span_orig[0]: span_orig[1]]
+        new_word = ''
+        for i, l in enumerate(list(word)):
+            if l in _word_format_symbols[word_format]:
+                offset += 1
+                new_word += l
+                continue
+
+            new_word += orig_word[i - offset]
+
+        word_details[word_format] = new_word
+    
+    def _enhance_details(self, original_text, processed_phrase):
+        for word_details in self._consolidate_normalized_words(processed_phrase):
+            for word_format in _word_format_symbols.keys():
+                if word_format:
+                    self._recover_casing(original_text, word_details, word_format, word_details['span_source'], word_details['span_normalized'])
+
+            yield word_details
+
     def _process(self, text, separators, normalize=True, include_syllables=True, normalize_only=False, letter_map=None):
         p = ('[^' + re.escape(separators) + ']+') if separators else '^.*$'
         pattern = re.compile(p)
