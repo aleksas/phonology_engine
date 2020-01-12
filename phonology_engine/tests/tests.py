@@ -62,7 +62,7 @@ def test_normalize_and_collapse_text_1():
 def test_normalize_and_collapse_text_2():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'31 kačiukas perbėgo kelią.', 'ascii_stressed_word')
-    assert_equal(res, u'TRI`SDEŠIMT VI^ENAS KAČIU`KAS PE^RBĖGO KE~LIĄ.')
+    assert_equal(res, u'TRI`SDEŠIMT VI^ENAS kačiu`kas pe^rbėgo ke~lią.')
 
 def test_normalize_and_collapse_abbr_1():
     pe = PhonologyEngine()
