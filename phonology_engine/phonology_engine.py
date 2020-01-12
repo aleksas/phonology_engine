@@ -81,7 +81,60 @@ class PhonologyEngine:
                     normalized_words.append( normalized_phrase[mapping[1][0]:mapping[1][1]])
                 span_first = i + 1
 
-        return mappings, normalized_words
+        normalized_word_map = [
+                len(set(letter_map[span_orig[0]:span_orig[1]])) == 1 and span_norm[1] - span_norm[0] > 1 
+                for span_orig, span_norm in mappings
+            ]
+        return mappings, normalized_words, normalized_word_map
+
+    def _consolidate_normalized_words(self, phrase):
+        last_word_details = None
+        for word_details in phrase:
+            if last_word_details == None:
+                last_word_details = word_details
+            else:
+                if word_details['span_source'] == last_word_details['span_source']:
+                    last_word_details['span_normalized'] = (
+                        min(last_word_details['span_normalized'][0], word_details['span_normalized'][0]),
+                        max(last_word_details['span_normalized'][1], word_details['span_normalized'][1]),
+                    )
+
+                    for word_format in _word_format_symbols.keys():
+                        if word_format:
+                            last_word_details[word_format] += ' ' + word_details[word_format]
+                else:
+                    yield last_word_details
+                    last_word_details = word_details
+        if last_word_details:
+            yield last_word_details
+    
+    def _recover_casing(self, original_text, word_details, word_format, span_orig, span_norm):
+        word = word_details[word_format]
+        span_length = lambda span: span[1] - span[0]
+        
+        # theck is not universal, sometimes normalized word length corresponds to the original
+        if span_length(span_norm) != span_length(span_orig):
+            return word
+        offset = 0
+        orig_word = original_text[span_orig[0]: span_orig[1]]
+        new_word = ''
+        for i, l in enumerate(list(word)):
+            if l in _word_format_symbols[word_format]:
+                offset += 1
+                new_word += l
+                continue
+
+            new_word += orig_word[i - offset]
+
+        word_details[word_format] = new_word
+    
+    def _enhance_details(self, original_text, processed_phrase):
+        for word_details in self._consolidate_normalized_words(processed_phrase):
+            for word_format in _word_format_symbols.keys():
+                if word_format:
+                    self._recover_casing(original_text, word_details, word_format, word_details['span_source'], word_details['span_normalized'])
+
+            yield word_details
 
     def _consolidate_normalized_words(self, phrase):
         last_word_details = None
@@ -150,30 +203,32 @@ class PhonologyEngine:
                 with PhonologyEngineNormalizedPhrases(handle) as normalized_phrases:
                     if normalize_only:
                         for normalized_phrase, letter_map in normalized_phrases:
-                            word_mappings, words = self._get_word_mappings(phrase, normalized_phrase, letter_map, separators, span[0], offset_normalized)
+                            word_mappings, words, normalized_word_map = self._get_word_mappings(phrase, normalized_phrase, letter_map, separators, span[0], offset_normalized)
                             offset_normalized += len(normalized_phrase)
                             processed_phrase = []
                             
-                            for (orig, norm), word in zip(word_mappings, words):
+                            for (orig, norm), word, normalized in zip(word_mappings, words, normalized_word_map):
                                 d = {
                                     'span_source': orig,                   
-                                    'span_normalized': norm
+                                    'span_normalized': norm,
+                                    'normalized': normalized
                                 }
                                 d.update( { k:word for k in _word_format_symbols if k} )
                                 processed_phrase.append(d)
                             yield self._enhance_details(text, processed_phrase), phrase, normalized_phrase, letter_map
                     else:
                         for normalized_phrase, letter_map in normalized_phrases:
-                            word_mappings, _ = self._get_word_mappings(phrase, normalized_phrase, letter_map, separators, span[0], offset_normalized)
+                            word_mappings, _, normalized_word_map = self._get_word_mappings(phrase, normalized_phrase, letter_map, separators, span[0], offset_normalized)
                             offset_normalized += len(normalized_phrase)
 
                             processed_phrase = self._process_phrase(normalized_phrase, include_syllables)
                             if len(processed_phrase) != len(word_mappings):
                                 raise Exception("Word span calculation incosistent.")
 
-                            for i, (orig, norm) in enumerate(word_mappings):
+                            for i, ((orig, norm), normalized) in enumerate(zip(word_mappings, normalized_word_map)):
                                 processed_phrase[i]['span_source'] = orig
                                 processed_phrase[i]['span_normalized'] = norm
+                                processed_phrase[i]['normalized'] = normalized
 
                             yield self._enhance_details(text, processed_phrase), phrase, normalized_phrase, letter_map
             else:
