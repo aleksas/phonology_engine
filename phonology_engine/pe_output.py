@@ -1,8 +1,27 @@
 from __future__ import with_statement
 from . import pe_native
 
-_stress_ascii_chars = '`^~'
 _syllable_chars = '-'
+
+_numeric_stress_map = {
+    0: '0',
+    1: '1',
+    2: '2'
+}
+
+_utf8_stress_map = {
+    0: u'\u0300', # grave
+    1: u'\u0301', # acute
+    2: u'\u0303'  # tilde
+}
+
+_ascii_stress_map = {
+    0: "`", # grave
+    1: "^", # acute - no printable acute accent in ascii table only in extended ASCII:239
+    2: "~"  # tilde
+}
+
+_stress_ascii_chars = _ascii_stress_map.values()
 
 class PhonologyEngineNormalizedPhrases:
     def __init__(self, handle, remove_stress_chars=True, remove_syllable_chars=True):
@@ -162,55 +181,25 @@ class PhonologyEngineOutput:
         return glue.join(res)
 
     def get_word_with_all_numeric_stresses(self, word_index, include_syllables=True):
-        stress_map = {
-            0: '0',
-            1: '1',
-            2: '2'
-        }
-        
-        res = self.get_word_with_stress_and_syllables(word_index, stress_map, None)
+        res = self.get_word_with_stress_and_syllables(word_index, _numeric_stress_map, None)
 
         glue = '-' if include_syllables else ''
 
         return glue.join(res)
 
     def get_word_with_only_multiple_numeric_stresses(self, word_index, include_syllables=True):
-        stress_map = {
-            0: '0',
-            1: '1',
-            2: '2'
-        }
-        
-        res = self.get_word_with_stress_and_syllables(word_index, stress_map, None, True)
+        res = self.get_word_with_stress_and_syllables(word_index, _numeric_stress_map, None, True)
 
         glue = '-' if include_syllables else ''
 
         return glue.join(res)
     
     def get_word_with_numeric_stress(self, word_index, stress_option_index=None, include_syllables=True):
-        stress_map = {
-            0: '0',
-            1: '1',
-            2: '2'
-            }
-
-        return self.get_word_with_stress(word_index, stress_map, stress_option_index, include_syllables)
+        return self.get_word_with_stress(word_index, _numeric_stress_map, stress_option_index, include_syllables)
 
     def get_word_with_utf8_stress(self, word_index, stress_option_index=None, include_syllables=True):
-        stress_map = {
-            0: u'\u0300', # grave
-            1: u'\u0301', # acute
-            2: u'\u0303'  # tilde
-            }
-
-        return self.get_word_with_stress(word_index, stress_map, stress_option_index, include_syllables)
+        return self.get_word_with_stress(word_index, _utf8_stress_map, stress_option_index, include_syllables)
 
     def get_word_with_ascii_stress(self, word_index, stress_option_index=None, include_syllables=True):
-        stress_map = {
-            0: "`", # grave
-            1: "^", # acute - no printable acute accent in ascii table only in extended ASCII:239
-            2: "~"  # tilde
-            }
-
-        return self.get_word_with_stress(word_index, stress_map, stress_option_index, include_syllables)
+        return self.get_word_with_stress(word_index, _ascii_stress_map, stress_option_index, include_syllables)
 

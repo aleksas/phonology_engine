@@ -1,12 +1,22 @@
 # -*- coding: utf-8 -*-
 from os.path import join, dirname, abspath
 from .pe_output import PhonologyEngineOutput, PhonologyEngineNormalizedPhrases
+from .pe_output import _syllable_chars, _numeric_stress_map, _utf8_stress_map, _ascii_stress_map
 from .pe_native import phonology_engine_process_phrase, phonology_engine_normalize_text
 import re
 
 _phrase_separators = '.?!;:\r\n,'
 _max_prase_length = 200
-_valid_word_formats = [None, 'word', 'word_with_syllables', 'word_with_all_numeric_stresses', 'word_with_only_multiple_numeric_stresses', 'number_stressed_word', 'utf8_stressed_word', 'ascii_stressed_word']
+_word_format_symbols = {
+    None:'',
+    'word': '',
+    'word_with_syllables': _syllable_chars,
+    'word_with_all_numeric_stresses': [_syllable_chars] + list(_numeric_stress_map.values()),
+    'word_with_only_multiple_numeric_stresses': _numeric_stress_map.values(),
+    'number_stressed_word': _numeric_stress_map.values(),
+    'utf8_stressed_word': _utf8_stress_map.values(),
+    'ascii_stressed_word': _ascii_stress_map.values()
+}
 
 class PhonologyEngine:
     def __init__(self):
@@ -33,8 +43,8 @@ class PhonologyEngine:
                     'number_stressed_word': output.get_word_with_numeric_stress(i, include_syllables=include_syllables),
                     'utf8_stressed_word': output.get_word_with_utf8_stress(i, include_syllables=include_syllables),
                     'ascii_stressed_word': output.get_word_with_ascii_stress(i, include_syllables=include_syllables),
-                    'word_with_all_numeric_stresses' :output.get_word_with_all_numeric_stresses(i, include_syllables=include_syllables),
-                    'word_with_only_multiple_numeric_stresses' :output.get_word_with_only_multiple_numeric_stresses(i, include_syllables=include_syllables),
+                    'word_with_all_numeric_stresses': output.get_word_with_all_numeric_stresses(i, include_syllables=include_syllables),
+                    'word_with_only_multiple_numeric_stresses': output.get_word_with_only_multiple_numeric_stresses(i, include_syllables=include_syllables),
                     'syllables': output.get_word_syllables(i),
                     'stress_options': output.get_word_stress_options(i)
                     }
@@ -73,6 +83,55 @@ class PhonologyEngine:
 
         return mappings, normalized_words
 
+    def _consolidate_normalized_words(self, phrase):
+        last_word_details = None
+        for word_details in phrase:
+            if last_word_details == None:
+                last_word_details = word_details
+            else:
+                if word_details['span_source'] == last_word_details['span_source']:
+                    last_word_details['span_normalized'] = (
+                        min(last_word_details['span_normalized'][0], word_details['span_normalized'][0]),
+                        max(last_word_details['span_normalized'][1], word_details['span_normalized'][1]),
+                    )
+
+                    for word_format in _word_format_symbols.keys():
+                        if word_format:
+                            last_word_details[word_format] += ' ' + word_details[word_format]
+                else:
+                    yield last_word_details
+                    last_word_details = word_details
+        if last_word_details:
+            yield last_word_details
+    
+    def _recover_casing(self, original_text, word_details, word_format, span_orig, span_norm):
+        word = word_details[word_format]
+        span_length = lambda span: span[1] - span[0]
+        
+        # theck is not universal, sometimes normalized word length corresponds to the original
+        if span_length(span_norm) != span_length(span_orig):
+            return word
+        offset = 0
+        orig_word = original_text[span_orig[0]: span_orig[1]]
+        new_word = ''
+        for i, l in enumerate(list(word)):
+            if l in _word_format_symbols[word_format]:
+                offset += 1
+                new_word += l
+                continue
+
+            new_word += orig_word[i - offset]
+
+        word_details[word_format] = new_word
+    
+    def _enhance_details(self, original_text, processed_phrase):
+        for word_details in self._consolidate_normalized_words(processed_phrase):
+            for word_format in _word_format_symbols.keys():
+                if word_format:
+                    self._recover_casing(original_text, word_details, word_format, word_details['span_source'], word_details['span_normalized'])
+
+            yield word_details
+
     def _process(self, text, separators, normalize=True, include_syllables=True, normalize_only=False, letter_map=None):
         p = ('[^' + re.escape(separators) + ']+') if separators else '^.*$'
         pattern = re.compile(p)
@@ -100,9 +159,9 @@ class PhonologyEngine:
                                     'span_source': orig,                   
                                     'span_normalized': norm
                                 }
-                                d.update( { k:word for k in _valid_word_formats if k} )
+                                d.update( { k:word for k in _word_format_symbols if k} )
                                 processed_phrase.append(d)
-                            yield processed_phrase, phrase, normalized_phrase, letter_map
+                            yield self._enhance_details(text, processed_phrase), phrase, normalized_phrase, letter_map
                     else:
                         for normalized_phrase, letter_map in normalized_phrases:
                             word_mappings, _ = self._get_word_mappings(phrase, normalized_phrase, letter_map, separators, span[0], offset_normalized)
@@ -115,52 +174,31 @@ class PhonologyEngine:
                             for i, (orig, norm) in enumerate(word_mappings):
                                 processed_phrase[i]['span_source'] = orig
                                 processed_phrase[i]['span_normalized'] = norm
-                                
-                            yield processed_phrase, phrase, normalized_phrase, letter_map
+
+                            yield self._enhance_details(text, processed_phrase), phrase, normalized_phrase, letter_map
             else:
                 processed_phrase = self._process_phrase(phrase, include_syllables)
                 yield processed_phrase, phrase, phrase, list(range(len(phrase)))
 
     def get_collapse_formats(self):
-        return _valid_word_formats
+        return _word_format_symbols.keys()
 
     def process(self, s, include_syllables=False):
-        return self._process(s.upper(), separators=self.phrase_separators, normalize=True, include_syllables=include_syllables, normalize_only=False)
+        return self._process(s, separators=self.phrase_separators, normalize=True, include_syllables=include_syllables, normalize_only=False)
 
     def process_and_collapse(self, s, word_format='word', normalize=True, include_syllables=False):
         return self.collapse(s, self._process(s, separators=self.phrase_separators, normalize=normalize, include_syllables=include_syllables, normalize_only=False), word_format)
 
     def collapse(self, original_text, output, word_format='word'):
-        if word_format not in _valid_word_formats:
-            raise Exception('Invalide word format "%s". Can be one of: %s.' % (word_format, str(_valid_word_formats)))
-
-        def consolidate_phrase_words(phrase):
-            last_word_details = None
-            for word_details in phrase:
-                if last_word_details == None:
-                    last_word_details = word_details
-                else:
-                    if word_details['span_source'] == last_word_details['span_source']:
-                        last_word_details['span_normalized'] = (
-                            min(last_word_details['span_normalized'][0], word_details['span_normalized'][0]),
-                            max(last_word_details['span_normalized'][1], word_details['span_normalized'][1]),
-                        )
-
-                        for word_format in _valid_word_formats:
-                            if word_format:
-                                last_word_details[word_format] += ' ' + word_details[word_format]
-                    else:
-                        yield last_word_details
-                        last_word_details = word_details
-            if last_word_details:
-                yield last_word_details                
+        if word_format not in _word_format_symbols:
+            raise Exception('Invalide word format "%s". Can be one of: %s.' % (word_format, str(_word_format_symbols.keys())))
 
         res = original_text
         output_reversed = reversed(list(output))
         for element in output_reversed:
             processed_phrase, _, _, _ = element
 
-            for word_details in reversed(list(consolidate_phrase_words(processed_phrase))):
+            for word_details in reversed(list(processed_phrase)):
                 start, end = word_details['span_source']
                 res = res[:start] + word_details[word_format] + res[end:]
         
