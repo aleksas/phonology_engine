@@ -107,6 +107,8 @@ class PhonologyEngine:
     def _recover_casing(self, original_text, word_details, word_format, span_orig, span_norm):
         word = word_details[word_format]
         span_length = lambda span: span[1] - span[0]
+        
+        # theck is not universal, sometimes normalized word length corresponds to the original
         if span_length(span_norm) != span_length(span_orig):
             return word
         offset = 0
@@ -117,10 +119,6 @@ class PhonologyEngine:
                 offset += 1
                 new_word += l
                 continue
-            
-            # 
-            #if l.lower() != orig_word[i - offset].lower():
-            #    raise Exception('%s incosistent with %s' % (word, orig_word))
 
             new_word += orig_word[i - offset]
 
