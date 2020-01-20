@@ -6,6 +6,7 @@ from .pe_native import phonology_engine_process_phrase, phonology_engine_normali
 import re
 
 _phrase_separators = '.?!;:\r\n,'
+_truncated_chars = '„“"'
 _max_prase_length = 200
 _word_format_symbols = {
     None:'',
@@ -61,24 +62,29 @@ class PhonologyEngine:
         normalized_words = []
 
         span_first = 0
-        map_length = len(letter_map)
+        last_map_index = len(letter_map) - 1
         for i, _ in enumerate(letter_map):
-            is_last = i == map_length - 1
+            is_last = (i == last_map_index)
             if normalized_phrase[i] == ' ' or is_last:
                 if is_last:
-                    i += 1
                     mapped_end = len(phrase)
+                    i += 1
                 else:
-                    last_index = len(letter_map) - 1 - letter_map[::-1].index(letter_map[i - 1])
-                    if last_index == len(letter_map) - 1:
+                    last_index = last_map_index - letter_map[::-1].index(letter_map[i - 1])
+                    if last_index == last_map_index:
                         mapped_end = len(phrase)
                     else:
-                        mapped_end = letter_map[last_index + 1]
+                        mapped_end = letter_map[last_index + 1] if last_map_index >= last_index + 1 else letter_map[last_index] + 1
+                
+                while mapped_end > 0 and phrase[mapped_end - 1] in _truncated_chars:
+                    mapped_end -= 1
+                        
                 if i - span_first >= 1:
                     mapping = (letter_map[span_first], mapped_end), (span_first, i)
                     offsetted_mapping = (mapping[0][0] + offset_source, mapping[0][1] + offset_source), (mapping[1][0] + offset_source, mapping[1][1] + offset_source)
                     mappings.append( offsetted_mapping )
                     normalized_words.append( normalized_phrase[mapping[1][0]:mapping[1][1]])
+
                 span_first = i + 1
 
         normalized_word_map = [
