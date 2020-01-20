@@ -6,7 +6,7 @@ from .pe_native import phonology_engine_process_phrase, phonology_engine_normali
 import re
 
 _phrase_separators = '.?!;:\r\n,'
-_truncated_chars = '„“"'
+_truncated_chars = u'„“"'
 _max_prase_length = 200
 _word_format_symbols = {
     None:'',
