@@ -5,8 +5,8 @@ from .pe_output import _syllable_chars, _numeric_stress_map, _utf8_stress_map, _
 from .pe_native import phonology_engine_process_phrase, phonology_engine_normalize_text
 import re
 
-_phrase_separators = '.?!;:\r\n,'
-_truncated_chars = u'„“"'
+_phrase_separators = u'.?!;:\r\n,'
+_truncated_chars = u'„“"\''
 _max_prase_length = 200
 _word_format_symbols = {
     None:'',
@@ -192,7 +192,7 @@ class PhonologyEngine:
             yield word_details
 
     def _process(self, text, separators, normalize=True, include_syllables=True, normalize_only=False, letter_map=None):
-        p = ('[^' + re.escape(separators) + ']+') if separators else '^.*$'
+        p = (r'[^' + re.escape(separators) + r']+') if separators else r'^.*$'
         pattern = re.compile(p)
         if len(text.strip()) == 0:
             yield text
