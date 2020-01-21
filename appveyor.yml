@@ -6,7 +6,7 @@ environment:
 
 image:
   - Visual Studio 2017
-  - Ubuntu
+  - Ubuntu1604
 
 platform:
   - x64
