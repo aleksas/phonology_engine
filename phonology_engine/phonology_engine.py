@@ -116,14 +116,14 @@ class PhonologyEngine:
 
         processed_words = []
         for processed_phrase, _, _, _ in output:
-            if isinstance(processed_phrase, str):
-                processed_words.append(processed_phrase)
-            else:
+            if isinstance(processed_phrase, list):
                 for word_details in processed_phrase:
-                    if isinstance(word_details, str):
-                        processed_words.append(word_details)
+                    if isinstance(word_details, dict):
+                        processed_words.append(word_details[word_format])
                     else:
-                        processed_words.append(word_details[word_format]) 
+                        processed_words.append(word_details)
+            else:
+                processed_words.append(processed_phrase)
 
         return ' '.join(processed_words)
 
