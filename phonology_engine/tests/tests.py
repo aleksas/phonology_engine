@@ -13,42 +13,42 @@ def test_process_2():
 def test_process_and_collapse_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse('Laba diena, kaip laikais?')
-    assert_equal(res, u'Laba diena, kaip laikais?')
+    assert_equal(res, u'LABA DIENA KAIP LAIKAIS')
 
 def test_process_and_collapse_word_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?', 'word')
-    assert_equal(res, u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
+    assert_equal(res, u'IŠTIKIMA SAVO DVASINIAM IR DOROVINIAM PAVELDUI SĄJUNGA REMIASI NEDALOMOMIS IR VISUOTINĖMIS VERTYBĖMIS LABA DIENA KUR BUVAI')
 
 def test_process_and_collapse_word_with_syllables_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?', 'word_with_syllables')
-    assert_equal(res, u'I-šti-ki-ma sa-vo dva-si-niam ir do-ro-vi-niam pa-vel-dui Są-jun-ga re-mia-si nedalomomis ir vi-suo-ti-nė-mis ver-ty-bė-mis: la-ba die-na. Kur bu-vai?')
+    assert_equal(res, u'I-ŠTI-KI-MA SA-VO DVA-SI-NIAM IR DO-RO-VI-NIAM PA-VEL-DUI SĄ-JUN-GA RE-MIA-SI NEDALOMOMIS IR VI-SUO-TI-NĖ-MIS VER-TY-BĖ-MIS LA-BA DIE-NA KUR BU-VAI')
 
 def test_process_and_collapse_word_with_all_numeric_stresses_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: Laba diena. Kur buvai?', 'word_with_all_numeric_stresses')
-    assert_equal(res, u'I0štikima sa0vo dva2siniam ir doro1viniam pa2veldui Są1junga re2miasi nedalomomis ir visu1otinėmis verty1bėmis: La2ba0 diena0. Kur2 buvai2?')
+    assert_equal(res, u'I0ŠTIKIMA SA0VO DVA2SINIAM IR DORO1VINIAM PA2VELDUI SĄ1JUNGA RE2MIASI NEDALOMOMIS IR VISU1OTINĖMIS VERTY1BĖMIS LA2BA0 DIENA0 KUR2 BUVAI2')
 
 def test_process_and_collapse_word_with_only_multiple_numeric_stresses_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: Laba diena. Kur buvai?', 'word_with_only_multiple_numeric_stresses')
-    assert_equal(res, u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: La2ba0 diena. Kur buvai?')
+    assert_equal(res, u'IŠTIKIMA SAVO DVASINIAM IR DOROVINIAM PAVELDUI SĄJUNGA REMIASI NEDALOMOMIS IR VISUOTINĖMIS VERTYBĖMIS LA2BA0 DIENA KUR BUVAI')
 
 def test_process_and_collapse_number_stressed_word_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?', 'number_stressed_word')
-    assert_equal(res, u'I0štikima sa0vo dva2siniam ir doro1viniam pa2veldui Są1junga re2miasi nedalomomis ir visu1otinėmis verty1bėmis: la2ba diena0. Kur2 buvai2?')
+    assert_equal(res, u'I0ŠTIKIMA SA0VO DVA2SINIAM IR DORO1VINIAM PA2VELDUI SĄ1JUNGA RE2MIASI NEDALOMOMIS IR VISU1OTINĖMIS VERTY1BĖMIS LA2BA DIENA0 KUR2 BUVAI2')
 
 def test_process_and_collapse_utf8_stressed_word_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?', 'utf8_stressed_word')
-    assert_equal(res, u'Ìštikima sàvo dvãsiniam ir doróviniam pãveldui Są́junga rẽmiasi nedalomomis ir visúotinėmis vertýbėmis: lãba dienà. Kur̃ buvaĩ?')
+    assert_equal(res, u'ÌŠTIKIMA SÀVO DVÃSINIAM IR DORÓVINIAM PÃVELDUI SĄ́JUNGA RẼMIASI NEDALOMOMIS IR VISÚOTINĖMIS VERTÝBĖMIS LÃBA DIENÀ KUR̃ BUVAĨ')
 
 def test_process_and_collapse_ascii_stressed_word_1():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?', 'ascii_stressed_word')
-    assert_equal(res, u'I`štikima sa`vo dva~siniam ir doro^viniam pa~veldui Są^junga re~miasi nedalomomis ir visu^otinėmis verty^bėmis: la~ba diena`. Kur~ buvai~?')
+    assert_equal(res, u'I`ŠTIKIMA SA`VO DVA~SINIAM IR DORO^VINIAM PA~VELDUI SĄ^JUNGA RE~MIASI NEDALOMOMIS IR VISU^OTINĖMIS VERTY^BĖMIS LA~BA DIENA` KUR~ BUVAI~')
 
 def test_normalize_text_1():
     pe = PhonologyEngine()
@@ -57,27 +57,47 @@ def test_normalize_text_1():
 def test_normalize_and_collapse_text_1():
     pe = PhonologyEngine()
     res = pe.normalize_and_collapse(u'1 žmogus. Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
-    assert_equal(res, u'VIENAS žmogus. Ištikima savo dvasiniam ir doroviniam paveldui Sąjunga remiasi nedalomomis ir visuotinėmis vertybėmis: laba diena. Kur buvai?')
+    assert_equal(res, u'VIENAS ŽMOGUS  IŠTIKIMA SAVO DVASINIAM IR DOROVINIAM PAVELDUI SĄJUNGA REMIASI NEDALOMOMIS IR VISUOTINĖMIS VERTYBĖMIS  LABA DIENA  KUR BUVAI')
 
 def test_normalize_and_collapse_text_2():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'31 kačiukas perbėgo kelią.', 'ascii_stressed_word')
-    assert_equal(res, u'TRI`SDEŠIMT VI^ENAS kačiu`kas pe^rbėgo ke~lią.')
+    assert_equal(res, u'TRI`SDEŠIMT VI^ENAS KAČIU`KAS PE^RBĖGO KE~LIĄ')
 
 def test_normalize_and_collapse_text_3():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Kainuos šie telefonai „vos“ nuo 1400 eurų.', 'ascii_stressed_word')
-    assert_equal(res, u'Kainuo~s šie~ telefo`nai „vo~s“ nuo TŪ^KSTANTIS KETURI` ŠIMTAI~ eu~rų.')
+    assert_equal(res, u'KAINUO~S ŠIE~ TELEFO`NAI VO~S NUO TŪ^KSTANTIS KETURI` ŠIMTAI~ EU~RŲ')
 
 def test_normalize_and_collapse_text_4():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'„vos“', 'ascii_stressed_word')
-    assert_equal(res, u'„vo~s“')
+    assert_equal(res, u'VO~S')
 
 def test_normalize_and_collapse_text_5():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'„123“', 'ascii_stressed_word')
-    assert_equal(res, u'„ŠIM~TAS DVI`DEŠIMT TRY~S“')
+    assert_equal(res, u'ŠIM~TAS DVI`DEŠIMT TRY~S')
+
+def test_normalize_and_collapse_text_6():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'O pirmasis pasaulyje telefonas perlenkiamu ekranu - „Royole FlexPai“ - yra ne prototipinėje fazėje.', 'ascii_stressed_word')
+    assert_equal(res, u'O PIRMA`SIS PASA^ULYJE TELEFO`NAS PE^RLENKIAMU EKRANU` – ROYOLE FLEKSPAI YRA` NE PROTOTIPINĖJE FA~ZĖJE')
+
+def test_normalize_and_collapse_text_3():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'Kainuos šie telefonai „vos“ nuo 1400 eurų.', 'ascii_stressed_word')
+    assert_equal(res, u'KAINUO~S ŠIE~ TELEFO`NAI VO~S NUO TŪ^KSTANTIS KETURI` ŠIMTAI~ EU~RŲ')
+
+def test_normalize_and_collapse_text_4():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'„vos“', 'ascii_stressed_word')
+    assert_equal(res, u'VO~S')
+
+def test_normalize_and_collapse_text_5():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'„123“', 'ascii_stressed_word')
+    assert_equal(res, u'ŠIM~TAS DVI`DEŠIMT TRY~S')
 
 def test_normalize_and_collapse_abbr_1():
     pe = PhonologyEngine()
