@@ -87,17 +87,17 @@ def test_normalize_and_collapse_text_6():
 def test_normalize_and_collapse_text_3():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'Kainuos šie telefonai „vos“ nuo 1400 eurų.', 'ascii_stressed_word')
-    assert_equal(res, u'Kainuo~s šie~ telefo`nai „vo~s“ nuo TŪ^KSTANTIS KETURI` ŠIMTAI~ eu~rų.')
+    assert_equal(res, u'KAINUO~S ŠIE~ TELEFO`NAI VO~S NUO TŪ^KSTANTIS KETURI` ŠIMTAI~ EU~RŲ')
 
 def test_normalize_and_collapse_text_4():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'„vos“', 'ascii_stressed_word')
-    assert_equal(res, u'„vo~s“')
+    assert_equal(res, u'VO~S')
 
 def test_normalize_and_collapse_text_5():
     pe = PhonologyEngine()
     res = pe.process_and_collapse(u'„123“', 'ascii_stressed_word')
-    assert_equal(res, u'„ŠIM~TAS DVI`DEŠIMT TRY~S“')
+    assert_equal(res, u'ŠIM~TAS DVI`DEŠIMT TRY~S')
 
 def test_normalize_and_collapse_abbr_1():
     pe = PhonologyEngine()
