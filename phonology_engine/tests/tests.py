@@ -84,6 +84,21 @@ def test_normalize_and_collapse_text_6():
     res = pe.process_and_collapse(u'O pirmasis pasaulyje telefonas perlenkiamu ekranu - „Royole FlexPai“ - yra ne prototipinėje fazėje.', 'ascii_stressed_word')
     assert_equal(res, u'O PIRMA`SIS PASA^ULYJE TELEFO`NAS PE^RLENKIAMU EKRANU` – ROYOLE FLEKSPAI YRA` NE PROTOTIPINĖJE FA~ZĖJE')
 
+def test_normalize_and_collapse_text_3():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'Kainuos šie telefonai „vos“ nuo 1400 eurų.', 'ascii_stressed_word')
+    assert_equal(res, u'Kainuo~s šie~ telefo`nai „vo~s“ nuo TŪ^KSTANTIS KETURI` ŠIMTAI~ eu~rų.')
+
+def test_normalize_and_collapse_text_4():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'„vos“', 'ascii_stressed_word')
+    assert_equal(res, u'„vo~s“')
+
+def test_normalize_and_collapse_text_5():
+    pe = PhonologyEngine()
+    res = pe.process_and_collapse(u'„123“', 'ascii_stressed_word')
+    assert_equal(res, u'„ŠIM~TAS DVI`DEŠIMT TRY~S“')
+
 def test_normalize_and_collapse_abbr_1():
     pe = PhonologyEngine()
     pe.phrase_separators = ''
