@@ -83,7 +83,6 @@ class PhonologyEngine:
             yield text
 
         for m in pattern.finditer(text):
-            span = m.span()
             phrase = m.group()
 
             if normalize:
@@ -121,7 +120,10 @@ class PhonologyEngine:
                 processed_words.append(processed_phrase)
             else:
                 for word_details in processed_phrase:
-                    processed_words.append(word_details[word_format]) 
+                    if isinstance(word_details, str):
+                        processed_words.append(word_details)
+                    else:
+                        processed_words.append(word_details[word_format]) 
 
         return ' '.join(processed_words)
 
