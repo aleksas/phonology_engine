@@ -130,7 +130,7 @@ def test_word_span_consistency():
 
             assert_equal(orig_word.lower(), word.replace('`', '').replace('^', '').replace('~', '').lower())
 
-def test_sentence_split():
+def test_stress_3():
     pe = PhonologyEngine()
     t = u'Bezdonių'
     liepa_processed_data = pe.process(t)
